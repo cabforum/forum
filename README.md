@@ -1,8 +1,8 @@
 ## Overview
 
 This repository contains information related to the
-[CA/Browser Forum's](https://www.cabforum.org)
-[Plenary Organization](https://cabforum.org/about-us/) which governs the operations of the CABF as a whole.
+[CA/Browser Forum](https://www.cabforum.org) and the charters of specific
+Chartered Working Groups which have been approved by the Forum.
 
 In particular, the following documents are maintained by the CABF Plenary:
 * [The Bylaws of the CA/Browser Forum](https://cabforum.org/bylaws/)
