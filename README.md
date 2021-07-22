@@ -4,7 +4,7 @@ This repository contains information related to the
 [CA/Browser Forum](https://www.cabforum.org) and the charters of specific
 Chartered Working Groups which have been approved by the Forum.
 
-In particular, the following documents are maintained by the CABF Plenary:
+In particular, this repository maintains documents that are voted on by the CA/Browser Forum as a whole:
 * [The Bylaws of the CA/Browser Forum](https://cabforum.org/bylaws/)
   Pandoc-flavored Markdown: [docs/Bylaws.md](Bylaws.md)
 * The charters of the various CA/Browser Forum Working Groups:
