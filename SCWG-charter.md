@@ -1,12 +1,12 @@
-# Server Certificate Working Group Charter - Version 1.1
+# Server Certificate Working Group Charter - Version 1.2
 
 Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (“SCWG”) is created to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and Intellectual Property Rights (IPR) Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
 
 **SCOPE:** The authorized scope of the Server Certificate Working Group shall be as follows:
 
-  1. To specify Baseline Requirements, Extended Validation Guidelines, Network and Certificate System Security Requirements, and other acceptable practices for the issuance and management of SSL/TLS server certificates used for authenticating servers accessible through the Internet.
+  1. To specify Baseline Requirements, Extended Validation Guidelines, and other acceptable practices for the issuance and management of SSL/TLS server certificates used for authenticating servers accessible through the Internet.
   
-  2. To update such requirements and guidelines from time to time, in order to address both existing and emerging threats to online security, including responsibility for the maintenance of and future amendments to the current CA/Browser Forum Baseline Requirements, Extended Validation Requirements, and Network and Certificate System Security Requirements.
+  2. To update such requirements and guidelines from time to time, in order to address both existing and emerging threats to online security, including responsibility for the maintenance of and future amendments to the current CA/Browser Forum Baseline Requirements and Extended Validation Guidelines.
   
   3. To perform such other activities that are ancillary to the primary activities listed above.
 
