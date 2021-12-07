@@ -4,15 +4,15 @@ In January 2013 the CA/Browser Forum’s “Network and Certificate System Secur
 
 This ballot proposes to charter a new Network Security Working Group (NetSec WG) to replace the NetSec Subcommittee, to continue work on the NCSSRs, and to conduct any and all business related to improving the security of Certification Authorities. 
 
-Following the passage of this/these ballot(s):
+Following the passage of this ballot:
 
 1. A new NetSec WG will be chartered under the CA/B Forum, pursuant to section 5.3.1 of the Bylaws;
-2. The SCWG’s existing NetSec Subcommittee will be dissolved by the SCWG and the Charter of the SCWG will be amended to note that work on the NCSSRs are within the authorized scope of the NetSec WG; 
+2. The Charter of the SCWG will be amended to remove the NCSSRs from within the scope of the SCWG Charter; 
 3. The existing mailing list and other materials developed for the NetSec Subcommittee will be repurposed for use by the NetSec WG; 
 4. The NetSec WG will produce and maintain versions of the NCSSRs; and
 5. The NetSec WG will make security-related recommendations to other Forum WGs for requirements or guidelines that are within their purview, i.e. the BRs/EVGs of the SCWG, the Baseline Requirements for Code Signing Certificates of the Code Signing Certificate Working Group (CSCWG) or guidelines adopted by the S/MIME Certificate Working Group (SMCWG). 
 
-
+The CA/Browser Forum creates the Network Security Working Group and adopts the following Charter:
 
 **NetSec WG Charter**
 
@@ -38,9 +38,9 @@ The Network Security Working Group (“NetSec WG”) is hereby created to perfor
 
 **5. Courtesy Notice of Proposed Amendments to the NCSSRs** – Discussion and voting on any ballot to change the NCSSRs shall proceed within the NetSec WG in accordance with sections 2.3 and 2.4 of the Bylaws. Additionally, a courtesy notice of the proposed ballot and NetSec WG’s discussion period shall be given to the SCWG, the CSCWG, and the SMCWG via their Public Mail Lists. 
 
-**6. Participation and Membership** – Membership in the NetSec WG shall be limited to organizations that are Certificate Issuer Members or Certificate Consumer Members of the SCWG, the CSCWG, or the SMCWG.
+**6. Participation and Membership** – Membership in the NetSec WG shall be limited to organizations that are Certificate Issuer Members or Certificate Consumer Members of the SCWG, the CSCWG, or the SMCWG, who may join the NetSec WG only with such status or class as they hold in such other working groups.
 
-In accordance with the IPR Policy, Members that choose to participate in the NetSec WG must declare their participation and shall do so prior to participating. A Member must declare its participation in the NetSec WG by requesting to be added to the mailing list. The Chair of the NetSec WG shall establish a list for declarations of participation and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement.
+In accordance with the IPR Policy, Members that choose to participate in the NetSec WG must declare their participation, and class of membership (Certificate Issuer or Certificate Consumer), and shall do so prior to participating. A Member must declare its participation in the NetSec WG by requesting to be added to the mailing list. The Chair of the NetSec WG shall establish a list for declarations of participation and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement.
 
 The NetSec WG shall include Interested Parties and Associate Members as defined in the Bylaws.
 
@@ -58,7 +58,7 @@ The NetSec WG shall consist of two classes of voting members, Certificate Issuer
 
 **Term.** The Chair and Vice-Chair will serve until October 31, 2022, or until they are replaced, resign, or are otherwise disqualified. Thereafter, elections shall be held for chair and vice chair every two years in coordination with the Forum’s election process and in conjunction with its election cycle. Voting shall occur in accordance with Bylaw 4.1(c). In the event of a midterm vacancy, the NetSec WG will hold a special election and the selected candidate will serve the remainder of the existing term.
 
-**9. Communication** – NetSec WG communications and documents shall be posted on mailing-lists where the mail-archives are publicly accessible, and the NetSec WG shall publish minutes of its meetings to the Forum’s website.
+**9. Communication** – NetSec WG communications and documents, including minutes of meetings, shall be posted on mailing-lists where the mail-archives are publicly accessible, or on the Forum’s website.
 
 **10. IPR Policy** – The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, shall apply to all Working Group activity.
 
