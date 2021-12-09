@@ -14,7 +14,7 @@ Following the passage of this ballot:
 
 The CA/Browser Forum creates the Network Security Working Group and adopts the following Charter:
 
-**NetSec WG Charter**
+**Network Security Working Group Charter**
 
 The Network Security Working Group (“NetSec WG”) is hereby created to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws (https://cabforum.org/bylaws/) and Intellectual Property Rights (IPR) Policy (https://cabforum.org/ipr-policy/), as such documents may change from time to time. This charter for the NetSec WG has been created according to CAB Forum Bylaw 5.3.1. In the event of a conflict between this Charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
 
