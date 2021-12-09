@@ -34,7 +34,7 @@ The Network Security Working Group (“NetSec WG”) is hereby created to perfor
 
 **3. End Date** – The NetSec WG shall continue until it is dissolved by a vote of the CA/B Forum.
 
-**4. Deliverables** – The NetSec WG shall be responsible for delivering and maintaining the NCSSRs and any other documents the group may choose to develop and maintain.
+**4. Deliverables** – The NetSec WG shall be responsible for delivering and maintaining the NCSSRs (version 1.7 shall remain valid until it is replaced by a subsequent version) and any other documents the group may choose to develop and maintain.
 
 **5. Courtesy Notice of Proposed Amendments to the NCSSRs** – Discussion and voting on any ballot to change the NCSSRs shall proceed within the NetSec WG in accordance with sections 2.3 and 2.4 of the Bylaws. Additionally, a courtesy notice of the proposed ballot and NetSec WG’s discussion period shall be given to the SCWG, the CSCWG, and the SMCWG via their Public Mail Lists. 
 
