@@ -59,6 +59,9 @@ Categories of Forum Membership are defined as follows:
    * Certificate Consumer: The member organization meets the requirements for membership as a Certificate Consumer in one or more CWGs.
 * Associate Member: As defined in Section 3.1
 * Interested Party: As defined in Section 3.2
+* Probational Certificate Issuer: A Certificate Issuer applying for membership but awaiting full qualification under Section 2.1. During the probational state, the organization has no voting rights. 
+ 
+Note: Based on section 3.1 in version 2.4 of the Bylaws, it was allowed for a Certificate Issuer that partially met the CWG membership criteria to be accepted as "Associate Member". Once version 2.5 of the Bylaws becomes effective, these Associate Members will automatically be re-assigned to the "Probational Certificate Issuer" membership category.
 
 Voting Members that qualify under more than one category of Forum Membership MAY choose their membership category.
 
@@ -132,7 +135,7 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
 ## 3.1 Associate Members
 
-The Forum may enter into associate member relationships with other organizations when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB’c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), Paypal, the Internet Corporation for Assigned Names and Numbers, tScheme, the U.S. Federal PKI, and Certificate Issuers applying for membership but awaiting full qualification under Section 2.1. Participation as an Associate Member is by invitation only. In order to become an Associate Member, an organization must sign a mutual letter of intent, understanding, or other agreement and the Forum’s IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member’s own organization IPR rules. Associate Members may attend face-to-face meetings, communicate with Voting Members on Member Mail List, and access Member Web Site. Associate Members are not entitled to vote except on special straw polls of the Forum (e.g. when selecting meeting dates, locations, etc.)
+The Forum may enter into associate member relationships with other organizations when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB'c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), Paypal, the Internet Corporation for Assigned Names and Numbers, tScheme and the U.S. Federal PKI. Participation as an Associate Member is by invitation only. In order to become an Associate Member, an organization must sign a mutual letter of intent, understanding, or other agreement and the Forum’s IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member’s own organization IPR rules. Associate Members may attend face-to-face meetings, communicate with Voting Members on Member Mail List, and access Member Web Site. Associate Members are not entitled to vote except on special straw polls of the Forum (e.g. when selecting meeting dates, locations, etc.)
 
 ## 3.2 Interested Parties
 
@@ -229,7 +232,7 @@ These activities should be followed by any Chartered Working Group. Working Grou
 
  1. (Referred to as Section 5.3.1(a) in the IPR Policy) Voting Members who desire to form a new “Chartered” Working Group (CWG) shall propose a charter by ballot pursuant to Section 2.3 above. A CWG shall:
     * Include Certificate Issuer participants or Certificate Consumer participants, and should typically include both.
-    * Allow for the participation of Interested Parties and Associate Members.
+    * Allow for the participation of Interested Parties, Associate Members and Probational Certificate Issuers.
    
     Criteria for each category of membership in a CWG shall be clearly defined, and should consider:
     
@@ -244,7 +247,7 @@ These activities should be followed by any Chartered Working Group. Working Grou
     * Scope of the Working Group
     * Anticipated Working Group end date, if any
     * Initial chairs and contacts for the Working Group
-    * Type(s) of Members eligible to participate in the Working Group (e.g., Voting Members, Interested Parties, and Associate Members)
+    * Type(s) of Members eligible to participate in the Working Group (e.g., Voting Members, Interested Parties, Associate Members and Probational Certificate Issuers)
     * Membership criteria as described in section 5.3.1
     * Criteria for ending membership for each category of participant
     * Voting structure for the WG
@@ -280,13 +283,13 @@ No stipulation.
 
 ## 5.4 Forum Teleconferences and Forum Meetings
 
-From time to time the Forum and CWGs will hold Teleconferences and Meetings among the Voting Members and Associate Members, who may participate in person or (where feasible) by teleconference. Interested Parties and others may be invited by the Forum or CWG Chair, in the Chair’s discretion, to participate in those portions of Teleconferences and CWG Meetings that are relevant to their expertise or their participation.
+From time to time the Forum and CWGs will hold Teleconferences and Meetings among the Voting Members, Probational Certificate Issuers and Associate Members, who may participate in person or (where feasible) by teleconference. Interested Parties and others may be invited by the Forum or CWG Chair, in the Chair’s discretion, to participate in those portions of Teleconferences and CWG Meetings that are relevant to their expertise or their participation.
 
 ## 5.5 IPR policies
 
-As a requirement for membership, Voting Members must execute and return to the CWG Chair the IPR Policy Agreement attached as Exhibit A before participating in any CWG. As the IPR Policy is amended from time to time, Members will be required to execute and return a new IPR Agreement within ninety (90) days of the CWG Chair’s written request. If a Voting Member fails to execute and return the new IPR Policy Agreement within such 90-day period, then the Member’s CWG and Forum membership shall default to an Associate Membership until the agreement is signed and returned.
+As a requirement for membership, Voting Members must execute and return to the CWG Chair the IPR Policy Agreement attached as Exhibit A before participating in any CWG. As the IPR Policy is amended from time to time, Members will be required to execute and return a new IPR Agreement within ninety (90) days of the CWG Chair’s written request. If a Voting Member fails to execute and return the new IPR Policy Agreement within such 90-day period, then the Member's CWG and Forum membership shall default to a Probational Certificate Issuer until the agreement is signed and returned.
 
-As a requirement for participation in any CWG as an Associate Member or Interested Party, Associate Members and Interested Parties must execute and return to the CWG Chair the IPR Policy Agreement attached as Exhibit A before participating in any CWG. As the IPR Policy is amended from time to time, Associate Members and Interested Parties will be required to execute and return a new IPR Policy Agreement within ninety (90) days of the CWG Chair’s written request. If an Associate Member or Interested Party fails to execute and return the new IPR Policy Agreement within such 90-day period, its participation in Forum calls, meetings, activities, and events shall be suspended until the agreement is signed and returned.
+As a requirement for participation in any CWG as a Probational Certificate Issuer, an Associate Member or Interested Party, the IPR Policy Agreement attached as Exhibit A must be executed and returned to the CWG Chair  before participating in any CWG. As the IPR Policy is amended from time to time, Probational Certificate Issuers, Associate Members and Interested Parties will be required to execute and return a new IPR Policy Agreement within ninety (90) days of the CWG Chair’s written request. If an Associate Member or Interested Party fails to execute and return the new IPR Policy Agreement within such 90-day period, its participation in Forum calls, meetings, activities, and events shall be suspended until the agreement is signed and returned.
 
 ## 5.6 Forum Subcommittees
 The Forum may establish subcommittees of the Forum that are not designated by a CWG, by ballot, to address any of the Forum’s business as specified in the ballot (each, a “Forum Subcommittee”). Forum Subcommittees are open to all Forum Members. A Forum Subcommittee may work on and recommend Forum ballots, complete delegated Forum functions, or issue reports to the Forum that are within the Forum Subcommittee’s jurisdiction. Forum Subcommittees must post all agendas and minutes on a public mail list.
@@ -327,13 +330,13 @@ All Members shall abide by the CAB Forum Photography Policy, which is attached t
 
 **Affiliate:** An entity that directly or indirectly controls, is controlled by, or is under common control with, another entity. Control for the purposes of these Bylaws shall mean direct or indirect beneficial ownership of more than fifty percent of the voting stock, or decision-making authority in the event that there is no voting stock, in an entity.
 
-**Forum Meetings:** Face-to-face plenary meetings of Voting Members and Associate Members as scheduled from time to time, and does not include meetings such as Subcommittee, subgroup, committee, or PAG meetings.
+**Forum Meetings:** Face-to-face plenary meetings of Voting Members, Probational Certificate Issuers and Associate Members as scheduled from time to time, and does not include meetings such as Subcommittee, subgroup, committee, or PAG meetings.
 
  **Forum Member:** See "Member".
  
-**Forum Teleconferences:** Teleconference plenary meetings of Voting Members and Associate Members as scheduled from time to time, and does not include meetings such as Subcommittee, subgroup, committee, or PAG meetings.
+**Forum Teleconferences:** Teleconference plenary meetings of Voting Members, Probational Certificate Issuers and Associate Members as scheduled from time to time, and does not include meetings such as Subcommittee, subgroup, committee, or PAG meetings.
 
-**Member:** The total of "Voting Members", "Associate Members" and "Interested Parties".
+**Member:** The total of "Voting Members", "Probational Certificate Issuers", "Associate Members" and "Interested Parties".
 
 **Member Mail List:** The email list-serv maintained by the Forum or CWG for communications by and among Forum or CWG Voting Members and Associate Members. The Member Mail List is not available to Interested Parties or Other Parties.
 
