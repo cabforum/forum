@@ -26,9 +26,9 @@ Forum Voting Members, Associate Members, and Interested Parties must comply with
 
 The historic goal of Forum activities (including development of proposed requirements and guidelines and voting on all matters) has been to seek substantial consensus among Forum Members before proceeding or adopting final work product, and this goal will remain for the future. Members shall not use their participation in the Forum either to promote their own products and offerings or to restrict or impede the products and offerings of other Members.
 
-An antitrust compliance statement shall be read at the start of all Forum Meetings (and on other occasions, as the Chair deems necessary) in substantially the following form:
+An antitrust compliance statement shall be read at the start of all Forum face-to-face Meetings (and on other occasions, as the Chair deems necessary) in substantially the following form:
 
-“As you know, this meeting includes companies that compete against one another. This meeting is intended to discuss technical standards related to the provision of existing and new types of digital certificates without restricting competition in developing and marketing such certificates. This meeting is not intended to share competitively-sensitive information among competitors, and therefore all participants agree not to discuss or exchange information related to:
+"As you know, this meeting includes companies that compete against one another. This meeting is intended to discuss technical standards related to the provision of existing and new types of digital certificates without restricting competition in developing and marketing such certificates. This meeting is not intended to share competitively-sensitive information among competitors, and therefore all participants agree not to discuss or exchange information related to:
 
  1. Pricing policies, pricing formulas, prices or other terms of sale;
     
@@ -39,6 +39,12 @@ An antitrust compliance statement shall be read at the start of all Forum Meetin
  4. Customers, business, or marketing plans; or
     
  5. The allocation of customers, territories, or products in any way."
+
+At the start of a Forum, CWG or sub-group Teleconference, the following "Note Well" shall be read:
+
+"All participants are reminded that they must comply with the CA/Browser Forum anti-trust policy, code of conduct, and intellectual property rights agreement, which can be found in section 1.3 of the Bylaws and cabforum.org. Please contact the chair with any comments or concerns about these policies".
+
+The antitrust compliance statement or note well does not need to be re-read when it has been read during a larger-scope meeting. For example, if there are three consecutive meetings (Forum-level, Server Certificate Working Group, Validation Subcommittee of the Server Certificate Working Group), the "antitrust statement/note well" needs to be read only at the beginning of the Forum-level meeting. 
 
 # 2. FORUM MEMBERSHIP AND VOTING
 
