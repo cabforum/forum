@@ -189,8 +189,8 @@ Interested Parties will not be required to pay anything for their participation 
 
 The Forum shall maintain a Member Mail List and Member Web Site that are not accessible by the public. The following matters may be posted to the Member Mail List and Member Web Site:
 
- 1. Draft minutes of Forum meetings or Teleconferences (both virtual and in-person, and including any sub-groups or committees) will be posted to the Member Mail List to allow Members and Associate Members to make sure they are being correctly reported.
-    Minutes will be considered final when approved at a subsequent Forum Meeting or Forum Teleconference; provided, however, that if there is no Forum Meeting or Forum Teleconference scheduled within three (3) weeks of the publication of the draft minutes. Final minutes will then be posted to the Public Mail List. Final minutes of Forum meetings or Teleconferences will additionally be posted to the Public Web Site. The Chair will, upon request, make redactions of any part of the public copy of the minutes identified as private or sensitive by either the information discloser or a member mentioned or affiliated with the subject of the information.
+ 1. Draft minutes of Forum meetings or Teleconferences (both virtual and in-person, and including any Forum-level sub-groups or committees) will be posted to the Member Mail List or a Member Mail list of a sub-group or committee, to allow Members and Associate Members to make sure they are being correctly reported.
+    Minutes will be considered final when approved at a subsequent Forum Meeting or Forum Teleconference; provided, however, that if there is no Forum Meeting or Forum Teleconference scheduled within three (3) weeks of the publication of the draft minutes. Final minutes will then be posted to the Forum Public Mail List or if it relates to a sub-group or committee, they will be posted to the corresponding Public Mail List. Final minutes of Forum meetings or Forum Teleconferences will additionally be posted to the Public Web Site. The Chair will, upon request, make redactions of any part of the public copy of the minutes identified as private or sensitive by either the information discloser or a member mentioned or affiliated with the subject of the information.
 
  2. Nominations for officer positions, Forum Meeting and Forum Teleconference scheduling issues, and discussion of Forum financial issues.
 
@@ -204,7 +204,7 @@ Members have discretion about which mailing list they use, but are strongly enco
 
 Members are strongly discouraged from posting the text of Member Mail List messages to the Forum Public Mail List without the permission of the author or commenter.
 
-These activities should be followed by any Chartered Working Group. Working Groups may use the Forum Member List but they are encouraged to maintain a separate Member Mail List. Working Groups may use the Forum Member Web Site but they must maintain a separate section designated for material related to the specific Working Group.
+These activities should be followed by any Chartered Working Group ensuring the use of the Working Group's Public Mail List instead of the Forum-level Public Mail List. Working Groups may use the Forum Member List but they are encouraged to maintain a separate Member Mail List. Working Groups may use the Forum Member Web Site but they must maintain a separate section designated for material related to the specific Working Group.
 
 ## 5.2 Public Mail List and Public Web Site
 
