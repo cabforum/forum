@@ -85,7 +85,7 @@ The Definitions and Glossary Working Group shall include Interested Parties and 
 
 The Working Group shall consist of two classes of voting members: Certificate Issuers and Certificate Consumers 
 
-In order for a ballot to be adopted by the Definitions and Glossary Working Group, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than half of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three Definitions and Glossary Working Group Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
+In order for a ballot to be adopted by the Definitions and Glossary Working Group, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than half of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. Quorum is defined as more than half of the average number of Voting Member organizations (cumulative) that have participated in the previous three Definitions and Glossary Working Group Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
 
 #### **3.3 Ending Membership**
 
