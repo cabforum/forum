@@ -60,7 +60,7 @@ Applicants that qualify as Certificate Issuers or Root Certificate Issuers must 
 
    * URL of the current qualifying audit report.
 
-   * The URL of at least one third party website that includes a certificate issued by the Applicant in the certificate chain.
+   * The URL of at least one website that includes a certificate issued by the Applicant in the certificate chain.
 
    * Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member.
 
