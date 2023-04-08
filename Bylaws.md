@@ -59,7 +59,7 @@ Categories of Forum Membership are defined as follows:
    * Certificate Consumer: The member organization meets the requirements for membership as a Certificate Consumer in one or more CWGs.
 * Associate Member: As defined in Section 3.1
 * Interested Party: As defined in Section 3.2
-* Probational Certificate Issuer: A Certificate Issuer applying for membership but awaiting full qualification under Section 2.1. During the probational state, the organization has no voting rights. 
+* Probational Certificate Issuer: A Certificate Issuer applying for membership but awaiting full qualification under Section 2.1. During the probational state, the organization has no voting rights. The Membership of a Probational Certificate Issuer is valid for 12 months and may be renewed as decided by the CWG.
  
 Note: Based on section 3.1 in version 2.4 of the Bylaws, it was allowed for a Certificate Issuer that partially met the CWG membership criteria to be accepted as "Associate Member". Once version 2.5 of the Bylaws becomes effective, these Associate Members will automatically be re-assigned to the "Probational Certificate Issuer" membership category.
 
