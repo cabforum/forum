@@ -22,7 +22,7 @@ The Forum has no corporate or association status, but is simply a group of Certi
 
 ## 1.3 Intellectual Property Rights Policy; Antitrust Laws and Regulations; Goal; Conduct
 
-Forum Voting Members, Associate Members, and Interested Parties must comply with the then-current IPR Policy and all applicable antitrust laws and regulations during their Forum activities.
+Forum Voting Members, Associate Members, and Interested Parties must comply with the then-current IPR Policy and all applicable antitrust laws and regulations during their Forum activities. Before an applicant for membership is evaluated to join a CWG, it must be confirmed that the person signing the IPR agreement on behalf of an applicant is authorized to bind that entity to this agreement. 
 
 The historic goal of Forum activities (including development of proposed requirements and guidelines and voting on all matters) has been to seek substantial consensus among Forum Members before proceeding or adopting final work product, and this goal will remain for the future. Members shall not use their participation in the Forum either to promote their own products and offerings or to restrict or impede the products and offerings of other Members.
 
