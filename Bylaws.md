@@ -338,9 +338,9 @@ All Members shall abide by the CAB Forum Photography Policy, which is attached t
 
 **Member:** The total of "Voting Members", "Probational Certificate Issuers", "Associate Members" and "Interested Parties".
 
-**Member Mail List:** The email list-serv maintained by the Forum or CWG for communications by and among Forum or CWG Voting Members and Associate Members. The Member Mail List is not available to Interested Parties or Other Parties.
+**Member Mail List:** The email list-serv maintained by the Forum or CWG for communications by and among Forum or CWG Voting Members, Probational Certificate Issuers and Associate Members. The Member Mail List is not available to Interested Parties or Other Parties.
 
-**Member Web Site:** The password-protected web site available only to Voting Members and Associate Members (currently called the CA/Browser Forum Wiki).
+**Member Web Site:** The password-protected web site available only to Voting Members, Probational Certificate Issuers and Associate Members (currently called the CA/Browser Forum Wiki).
 
 **Public Mail List:** A public email list-serv maintained by the Forum or CWG for communications by and among Members. The Public Mail List may be read by other parties, but other parties may not post to the Public Mail List.
 
