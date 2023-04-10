@@ -504,7 +504,7 @@ Applicants that qualify as Certificate Issuers must supply the following additio
 (c) Approval process:
 [specify]
 
-The Working Group shall include Interested Parties and Associate Members as defined in the Bylaws.
+The Working Group shall include Interested Parties, Associate Members and Probational Certificate Issuers as defined in the Bylaws.
 
    3.2 **Ending Membership**
 [Proposed text. New Chartered Working Groups may amend accordingly].
