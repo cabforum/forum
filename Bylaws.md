@@ -256,7 +256,7 @@ These activities should be followed by any Chartered Working Group. Working Grou
     * Means of communication to be used by the Working Group (see subsection (4) below)
     * Applicability of the IPR Policy
 
- 3. After the charter is approved, the CWG MAY elect a new Chair and Vice Chair elected by CWG members following the procedures of Bylaws Section 4.1 as closely as possible. However, unlike at the Forum level, CWG Chairs and Vice Chairs may run for re-election if they so choose.  The initial term for CWG officers shall expire on November 30 of the next even-numbered year after the CWG is established in order to be synchronized with the terms of Forum officers. Proposing and voting on all CWG Ballots by CWG members shall follow the procedures stated in Bylaws Sec. 2.3 and 2.4 with the exception of not requiring a proposer and endorsers. The CWG Chair will send an invitation to the Public Mail List for an initial CWG meeting and will solicit eligible Voting Members, Associate Members and Interested Parties (as specified in the charter) with expertise and interest in the CWG’s subject matter to participate in the CWG. In order to participate in a Working Group, a party must have agreed to the IPR Policy Agreement and formally declared participation. Each CWG Chair shall be responsible for ensuring that all parties attending the respective CWG meetings have signed the IPR Policy Agreement and have formally declared their participation in the CWG via the mechanism designated by the Forum prior to attending.
+ 3. After the charter is approved, the CWG MAY elect a new Chair and Vice Chair elected by CWG members following the procedures of Bylaws Section 4.1 as closely as possible. However, unlike at the Forum level, CWG Chairs and Vice Chairs may run for re-election if they so choose. The initial term for CWG officers shall expire on November 30 of the next even-numbered year after the CWG is established in order to be synchronized with the terms of Forum officers. Proposing and voting on all CWG Ballots by CWG members shall follow the procedures stated in Bylaws Sec. 2.3 and 2.4 with the exception of not requiring a proposer and endorsers. The CWG Chair will send an invitation to the Public Mail List for an initial CWG meeting and will solicit eligible Voting Members, Associate Members and Interested Parties (as specified in the charter) with expertise and interest in the CWG’s subject matter to participate in the CWG. In order to participate in a Working Group, a party must have agreed to the IPR Policy Agreement and formally declared participation. Each CWG Chair shall be responsible for ensuring that all parties attending the respective CWG meetings have signed the IPR Policy Agreement and have formally declared their participation in the CWG via the mechanism designated by the Forum prior to attending.
 
  4. Each CWG may establish its own means for their communications, as provided in the charter, but such means should be managed in the same fashion as the Public Mail List and employed by the CWG with a similar level of transparency as appropriate to their nature with public archives for written methods of communication. CWGs may meet by teleconference or have face-to-face meetings as provided in the charter, but the Forum shall not be responsible for the expenses of any such teleconferences or meetings.
 
@@ -296,7 +296,7 @@ The Forum may establish subcommittees of the Forum that are not designated by a 
 
 No actions taken by a Forum Subcommittee will implicate obligations under the IPR Policy. A Forum Subcommittee will not generate or discuss any Contributions, Draft Guidelines, Final Guidelines, or Final Maintenance Guidelines (as such terms are defined by the IPR Policy), or partake in any activity that would trigger obligations pursuant to the IPR Policy if such activity were undertaken by a CWG. 
 
-# 6.  MISCELLANEOUS
+# 6. MISCELLANEOUS
 
 ## 6.1 Posting and Amendment of the Bylaws
 
@@ -383,25 +383,25 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # Exhibit B: CAB Forum Code of Conduct (the "Code")
 
-The CAB Forum (the "Forum") is comprised of a global group of professionals with differences in language, skills, expertise, experience, and backgrounds.  To maintain a professional and productive environment, it is necessary for Members of the Forum to follow the letter and spirit of this Code.  This Code applies to all official Forum activities, such as meetings, teleconferences, mailing lists, conferences, and other Forum functions.  The Forum is committed to maintaining a professional and respectful environment.
+The CAB Forum (the "Forum") is comprised of a global group of professionals with differences in language, skills, expertise, experience, and backgrounds. To maintain a professional and productive environment, it is necessary for Members of the Forum to follow the letter and spirit of this Code. This Code applies to all official Forum activities, such as meetings, teleconferences, mailing lists, conferences, and other Forum functions. The Forum is committed to maintaining a professional and respectful environment.
 
-All Member representatives are expected to behave in a collegial and professional manner in accordance with this Code.  Members will familiarize their representatives with this Code and require them to comply with the letter and spirit of this Code.
+All Member representatives are expected to behave in a collegial and professional manner in accordance with this Code. Members will familiarize their representatives with this Code and require them to comply with the letter and spirit of this Code.
 
-**I.  Conduct.**  The Forum is committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.  The Forum recognizes and appreciates that its participants have diverse languages, backgrounds, experience, and expertise, and expects that all participants will be treated with respect by all other participants.
+**I. Conduct.** The Forum is committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic. The Forum recognizes and appreciates that its participants have diverse languages, backgrounds, experience, and expertise, and expects that all participants will be treated with respect by all other participants.
 
  1. In connection with official Forum activities, all Forum participants shall:
     * Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
-    * Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.  
-    * Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single "correct" answer.  Be willing to compromise and agree to disagree.  
+    * Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.
+    * Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single "correct" answer. Be willing to compromise and agree to disagree.
 
- 2. In connection with official Forum activities, all Forum participants shall refrain from conduct such as:  
-    * Threatening violence towards anyone.  
+ 2. In connection with official Forum activities, all Forum participants shall refrain from conduct such as:
+    * Threatening violence towards anyone.
     * Discriminating against anyone on the basis of personal characteristics or group membership.
     * Harassing or bullying anyone verbally, physically, or sexually.
-    * Launching barbs at others.  [Note:  a "barb" is an obviously or openly unpleasant or carping remark.]
+    * Launching barbs at others. [Note: a "barb" is an obviously or openly unpleasant or carping remark.]
     * Touching another person in a physically inappropriate way. 
     * Deliberately intimidating or stalking another person (in-person, online, or by other means).
-    * Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations.  For purposes of this Code, "inappropriate disruption" would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
+    * Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations. For purposes of this Code, "inappropriate disruption" would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
     * Spamming, trolling, flaming, baiting, and other similar behavior inappropriately directed towards an individual.
     * Advocating for, or encouraging, any of the above behavior.
 
@@ -409,12 +409,12 @@ All Member representatives are expected to behave in a collegial and professiona
 
  4. Forum participants should stick to ideological, conceptual discussions and avoid engaging in offensive or sensitive personal discussions, particularly if they're off-topic; such personal discussions can lead to unnecessary arguments, hurt feelings, and damaged trust. 
 
-**II.  Moderation.**  These are the policies for upholding the Code.
- 1. Resist the urge to be defensive.  Remember that it's your responsibility to clearly communicate your message to your fellow participants. Everyone wants to get along and we are all in the Forum first and foremost because we want to talk about standards and everything that involves. Other participants will be eager to assume good intent and forgive as long as you have earned their trust.
+**II. Moderation.** These are the policies for upholding the Code.
+ 1. Resist the urge to be defensive. Remember that it's your responsibility to clearly communicate your message to your fellow participants. Everyone wants to get along and we are all in the Forum first and foremost because we want to talk about standards and everything that involves. Other participants will be eager to assume good intent and forgive as long as you have earned their trust.
  2. Participants should inform the Chair, Vice Chair, and/or a Working Group Chair immediately if they feel they have been, or are being, harassed or made uncomfortable by a Forum member. Intimidation, personal attacks, and retaliation of any kind will not be tolerated. 
 
- 3. Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a "Code Liaison").  One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it.  Resolution may also include appropriate executives from the Forum participant's Member company, as appropriate.  If the reported Forum participant, Member executives, and the Code Liaison(s) are unable to resolve the issue, any of the foregoing may request the assistance of a reasonably acceptable independent third party (such as an Interested Party or WebTrust) to assist with the resolution. 
- 4. Members agree to take appropriate action in the event any of their Member representatives violate the Code.  Such action could include warning, reprimanding, suspending, removing or replacing the Member representative who has violated the Code, depending on the severity of the violation.  Depending on the number and severity of violations, the Forum may impose consequences such as excluding a Member representative from certain meetings, removing a Member representative from a mailing list, and suspending a Member representative from certain Forum activities.  
+ 3. Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a "Code Liaison"). One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it. Resolution may also include appropriate executives from the Forum participant's Member company, as appropriate. If the reported Forum participant, Member executives, and the Code Liaison(s) are unable to resolve the issue, any of the foregoing may request the assistance of a reasonably acceptable independent third party (such as an Interested Party or WebTrust) to assist with the resolution. 
+ 4. Members agree to take appropriate action in the event any of their Member representatives violate the Code. Such action could include warning, reprimanding, suspending, removing or replacing the Member representative who has violated the Code, depending on the severity of the violation. Depending on the number and severity of violations, the Forum may impose consequences such as excluding a Member representative from certain meetings, removing a Member representative from a mailing list, and suspending a Member representative from certain Forum activities.
 
 Adapted from the WHATWG Code of Conduct [https://wiki.whatwg.org/wiki/Code_of_Conduct], the W3C Code of Ethics and Professional Conduct [https://www.w3c.org/Consortium/cepc/], and the Citizen Code of Conduct [citizencodeofconduct.org].
 
@@ -442,7 +442,7 @@ The **mission** of the [insert name] Working Group is to:
 
    1.2 **Success Criteria**
      * Prepare a ballot to create guidelines for the [insert name] Working Group.
-     *  order to advance to Final Guidelines or Final Maintenance Guidelines, each specification is expected to have [e.g., at least x independent implementations of each feature defined in the specification].
+     * Order to advance to Final Guidelines or Final Maintenance Guidelines, each specification is expected to have [e.g., at least x independent implementations of each feature defined in the specification].
      * Work with Forum to have guidelines for the [insert name] Working Group be approved and adopted.
 
    1.3 **Minimum Requirements**
