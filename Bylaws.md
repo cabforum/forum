@@ -10,19 +10,19 @@
 
 # 1. CA/BROWSER FORUM – PURPOSE, STATUS, AND ANTITRUST LAWS
 
-## 1.1 Purpose of the Forum
+## 1.1 Purposes of the Forum
 
-The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of leading Certificate Issuers and vendors of Internet browser software and other applications that use certificates (Certificate Consumers).
+The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of Certificate Issuers and suppliers of Internet browser software and other applications that use certificates (Certificate Consumers).
 
 Members of the CA/Browser Forum have worked closely together in defining the guidelines and means of implementation for best practices as a way of providing a heightened security for Internet transactions and creating a more intuitive method of displaying secure sites to Internet users.
 
 ## 1.2 Status of the Forum and Forum Activities
 
-The Forum has no corporate or association status, but is simply a group of Certificate Issuers and Certificate Consumers that communicates or meets from time to time to discuss matters of common interest relevant to the Forum’s purpose. The Forum has no regulatory or industry powers over its members or others. Other than those rights and responsibilities found in the Forum’s Intellectual Property Rights (IPR) Policy, Forum “membership” or other participation status does not convey any legal status or rights, but is intended simply as a guide to the levels of participation in Forum activities.
+The Forum has no corporate or association status, but is simply a group of Certificate Issuers and Certificate Consumers that communicates or meets from time to time to discuss matters of common interest relevant to the Forum’s purposes. The Forum has no regulatory or industry powers over its members or others. Other than those rights and responsibilities found in the Forum’s Intellectual Property Rights (IPR) Policy, Forum “membership” or other participation status does not convey any legal status or rights, but is intended simply as a guide to the levels of participation in Forum activities.
 
 ## 1.3 Intellectual Property Rights Policy; Antitrust Laws and Regulations; Goal; Conduct
 
-Forum Voting Members, Associate Members, and Interested Parties must comply with the then-current IPR Policy and all applicable antitrust laws and regulations during their Forum activities. Before an applicant for membership is evaluated to join a Chartered Working Group (CWG), it must be confirmed that the person signing the IPR agreement on behalf of an applicant is authorized to bind that entity to this agreement. 
+Forum Voting Members, Associate Members, and Interested Parties must comply with the then-current IPR Policy, code of conduct, and all applicable antitrust laws and regulations during their Forum activities. Before an applicant for membership is evaluated to join a Chartered Working Group (CWG), it must be confirmed that the person signing the IPR agreement on behalf of an applicant is authorized to bind that entity to this agreement. 
 
 The historic goal of Forum activities (including development of proposed requirements and guidelines and voting on all matters) has been to seek substantial consensus among Forum Members before proceeding or adopting final work product, and this goal will remain for the future. Members shall not use their participation in the Forum either to promote their own products and offerings or to restrict or impede the products and offerings of other Members.
 
@@ -42,7 +42,7 @@ An antitrust compliance statement shall be read at the start of all Forum face-t
 
 At the start of a Forum, CWG or sub-group Teleconference, the following "Note Well" shall be read:
 
-"All participants are reminded that they must comply with the CA/Browser Forum anti-trust policy, code of conduct, and intellectual property rights agreement, which can be found in section 1.3 of the Bylaws and cabforum.org. Please contact the chair with any comments or concerns about these policies".
+"All participants are reminded that they must comply with the CA/Browser Forum's Bylaws, which include an antitrust policy, a code of conduct, and an intellectual property rights agreement. Please contact the Forum Chair with any comments or concerns about the Bylaws or these policies".
 
 The antitrust compliance statement or note well does not need to be re-read when it has been read during a larger-scope meeting. For example, if there are three consecutive meetings (Forum-level, Server Certificate Working Group, Validation Subcommittee of the Server Certificate Working Group), the "antitrust statement/note well" needs to be read only at the beginning of the Forum-level meeting. 
 
@@ -61,13 +61,13 @@ Categories of Forum Membership are defined as follows:
 * Interested Party: As defined in Section 3.2
 * Probational Certificate Issuer: A Certificate Issuer applying for membership but awaiting full qualification under Section 2.1. During the probational state, the organization has no voting rights. The Membership of a Probational Certificate Issuer is valid for 12 months and may be renewed as decided by the CWG.
  
-Note: Based on section 3.1 in version 2.4 of the Bylaws, it was allowed for a Certificate Issuer that partially met the CWG membership criteria to be accepted as "Associate Member". Once version 2.5 of the Bylaws becomes effective, these Associate Members will automatically be re-assigned to the "Probational Certificate Issuer" membership category.
+Note: Based on section 3.1 in version 2.4 of the Bylaws, it was allowed for a Certificate Issuer that partially met the CWG membership criteria to be accepted as "Associate Member". Once version 2.5 of the Bylaws becomes effective, these Associate Members will automatically be re-assigned to the "Probational Member" membership category, as desctibed in Section 3.3 below.
 
-Voting Members that qualify under more than one category of Forum Membership MAY choose their membership category.
+Voting Members that qualify under more than one category of Forum Membership MAY choose only one membership category at the Forum level.
 
 ## 2.2 Ending Forum Membership
 
-When a Forum Member ceases to be a Member of at least one CWG, their Forum Membership shall be terminated. Termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
+When a Forum Member ceases to be a Member of at least one CWG, their right to vote shall be terminated, but they may become Associate Members, by invitation of the Forum under section 3.1. Termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
 ## 2.3 General Provisions Applicable to All Ballots
 
@@ -103,12 +103,12 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
  4. The Forum (via the Chair) will tabulate and announce the results within three (3) business days of the close of the initial voting period (the “Initial Vote”). If the Draft Guidelines Ballot does not pass the Initial Vote, the ballot fails.
 
- 5. If a Draft Guideline Ballot passes the Initial Vote, the Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, the Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Chair will initiate the Review Period by sending the Review Notice to both the Member Mail List and the Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the Review Period. If the Chair does not initiate the Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the Review Period, using the same process as the Chair would have been required to use.
+ 5. If a Draft Guideline Ballot passes the Initial Vote, the Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, the Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Chair will initiate the Review Period by sending the Review Notice to the Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the Review Period. If the Chair does not initiate the Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the Review Period, using the same process as the Chair would have been required to use.
  6. The Review Period will continue to the end of the thirty (30) or sixty (60) day period, as applicable, regardless of the number of Exclusion Notices filed pursuant to the IPR Policy during such period, if any. No later than three (3) business days after the conclusion of the applicable Review Period, the Chair will distribute any Exclusion Notices submitted in accordance with Section 4.1 (Review of Draft Specifications) of the IPR Policy via the Public Mail List; provided, however, that the Chair may distribute such Exclusion Notices earlier.
 
  7. In addition to following the process for submitting Exclusion Notices set forth in Section 4 of the IPR Policy, Members shall also send Exclusion Notices to the Public Mail List as a safeguard.
 
- 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final and approved, and Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify both the Member Mail List and the Public Mail List of the final approval within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days of the close of the Review Period. The Chair or Vice-Chair of a CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
+ 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final and approved, and Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the final approval within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days of the close of the Review Period. The Chair or Vice-Chair of a CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
     * The cover page,
     * The Table of Contents,
     * The year in the “Copyright” information,
@@ -123,10 +123,10 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
  9. If Exclusion Notice(s) are filed during the Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void, and;
 
-    a. A Patent Advisory Group (PAG) will be formed, in accordance with Section 7 of the IPR Policy, to address the conflict. The PAG will make a conclusion as described in Section 7.3.2 of the IPR Policy, and communicate such conclusion to the rest of the Forum, using the Member Mail List and the Public Mail List; and
+    a. A Patent Advisory Group (PAG) will be formed, in accordance with Section 7 of the IPR Policy, to address the conflict. The PAG will make a conclusion as described in Section 7.3.2 of the IPR Policy, and communicate such conclusion to the rest of the Forum, using the Public Mail List; and
 
     b. After the PAG provides its conclusion, if the proposer and endorsers decide to proceed with the Draft Guidelines Ballot, and:
-       1. The proposer and endorsers do not make any changes to the Draft Guidelines Ballot, such ballot must go through the steps described in Sections 2.4(2) through (4) above, replacing the “Initial Vote” with a “Second Vote.” If a Draft Guidelines Ballot passes the Second Vote, then the results of the Second Vote are deemed to be final and approved. Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify both the Member Mail List and the Public Mail List of the approval, as well as update the public website of Final Guidelines and Final Maintenance Guidelines; or
+       1. The proposer and endorsers do not make any changes to the Draft Guidelines Ballot, such ballot must go through the steps described in Sections 2.4(2) through (4) above, replacing the “Initial Vote” with a “Second Vote.” If a Draft Guidelines Ballot passes the Second Vote, then the results of the Second Vote are deemed to be final and approved. Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the approval, as well as update the public website of Final Guidelines and Final Maintenance Guidelines; or
        2. The proposer and endorsers make changes to the Draft Guidelines Ballot, a new Draft Guidelines Ballot must be proposed, and must go through the steps described in Sections 2.3(1) through (9) above.
 
  10. If a ballot is proposed to amend the same section of the Final Guidelines or the Final Maintenance Guidelines as one or more previous ballot(s) that has/have not yet been finally approved, the newly proposed ballot must include information about, and a link to, any such previous ballot(s), and may include provisions to avoid any conflicts relating to such previous ballots.
@@ -135,7 +135,11 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
 ## 3.1 Associate Members
 
-The Forum may enter into associate member relationships with other organizations when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB'c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), Paypal, the Internet Corporation for Assigned Names and Numbers, tScheme and the U.S. Federal PKI. Participation as an Associate Member is by invitation only. In order to become an Associate Member, an organization must sign a mutual letter of intent, understanding, or other agreement and the Forum’s IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member’s own organization IPR rules. Associate Members may attend face-to-face meetings, communicate with Voting Members on Member Mail List, and access Member Web Site. Associate Members are not entitled to vote except on special straw polls of the Forum (e.g. when selecting meeting dates, locations, etc.)
+Membership in the Forum as an Associate Member may be by invitation or when an organization does not qualify, or no longer qualifies, for full voting status as a Certificate Issuer or Certificate Consumer under a Working Group's charter.
+
+The Forum may enter into associate member relationships with other organizations when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB'c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), the Internet Corporation for Assigned Names and Numbers, tScheme and the U.S. Federal PKI. In order to become an Associate Member, an organization must sign a mutual letter of intent/understanding, or other similar agreement, and the Forum’s IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member’s own organization IPR rules. 
+
+Associate Members may attend face-to-face meetings, communicate with Voting Members on Member Mail List, and access Member Web Site. Associate Members are not entitled to vote except on special straw polls of the Forum (e.g. when selecting meeting dates, locations, etc.)
 
 ## 3.2 Interested Parties
 
@@ -154,7 +158,11 @@ Interested Parties apply by sending an e-mail to the Questions List, which inclu
 * The signed IPR Policy Agreement
 * The CWG Subcommittees they wish to join and Contribute.
 
-## 3.3 Other Parties
+## 3.3 Probational Member
+
+
+
+## 3.4 Other Parties
 
 The public may follow the Forum’s activities by reading all postings on the Public Mail List and the Public Web Site. Questions or comments to the Forum may be sent to Questions Mail List.
 
