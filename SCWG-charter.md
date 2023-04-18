@@ -16,7 +16,10 @@ Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (
 
 **Members eligible to participate:**
 
-(a) The Working Group shall consist of two classes of voting members, the Certificate Issuers and the Certificate Consumers. The CA Class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
+(a) The Working Group shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers--and two classes of non-voting members--Associate Members and Probationary Members. Voting membership requires active participation in the SCWG, measured over a six-month period.  
+
+
+The CA Class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
 
    1) **Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement in accordance with one of the following schemes:
 * “WebTrust for CAs v2.0 or newer”; or
@@ -40,7 +43,7 @@ These audit reports must also meet the following requirements:
 * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that are not actively issuing certificates but otherwise meet membership criteria may be granted Associate Member status under Bylaw Sec. 3.1 for a period of time to be designated by the SCWG.
+In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period before they.
 
    3) **A Certificate Consumer** can participate in this Working Group if it produces a software product intended for use by the general public for browsing the Web securely.
 
