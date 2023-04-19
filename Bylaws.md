@@ -393,7 +393,7 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 The CAB Forum (the "Forum") is comprised of a global group of professionals with differences in language, skills, expertise, experience, and backgrounds. To maintain a professional and productive environment, it is necessary for Members of the Forum to follow the letter and spirit of this Code. This Code applies to all official Forum activities, such as meetings, teleconferences, mailing lists, conferences, and other Forum functions. The Forum is committed to maintaining a professional and respectful environment.
 
-All Member representatives are expected to behave in a collegial and professional manner in accordance with this Code. Members will familiarize their representatives with this Code and require them to comply with the letter and spirit of this Code.
+All Member representatives are expected to behave in a collegial and professional manner in accordance with this Code. Honesty and integrity are also paramount in all of our actions and interactions. Members will familiarize their representatives with this Code and require them to comply with the letter and spirit of this Code.
 
 **I. Conduct.** The Forum is committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic. The Forum recognizes and appreciates that its participants have diverse languages, backgrounds, experience, and expertise, and expects that all participants will be treated with respect by all other participants.
 
@@ -401,6 +401,7 @@ All Member representatives are expected to behave in a collegial and professiona
     * Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
     * Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.
     * Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single "correct" answer. Be willing to compromise and agree to disagree.
+    * Be truthful, sincere, forthright, and candid, unless professional duties require that they maintain confidentiality or exercise special discretion.
 
  2. In connection with official Forum activities, all Forum participants shall refrain from conduct such as:
     * Threatening violence towards anyone.
@@ -411,6 +412,7 @@ All Member representatives are expected to behave in a collegial and professiona
     * Deliberately intimidating or stalking another person (in-person, online, or by other means).
     * Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations. For purposes of this Code, "inappropriate disruption" would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
     * Spamming, trolling, flaming, baiting, and other similar behavior inappropriately directed towards an individual.
+    * Lying, deceiving, or intentionally misleading by omission or half-truth. 
     * Advocating for, or encouraging, any of the above behavior.
 
  3. All Forum participants should promote the rules of this Code and take action to bring discussions back into compliance with the Code whenever violations are observed.
