@@ -107,17 +107,18 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
  4. The Forum (via the Chair) will tabulate and announce the results within three (3) business days of the close of the initial voting period (the “Initial Vote”). If the Draft Guidelines Ballot does not pass the Initial Vote, the ballot fails.
 
  5. If a Draft Guideline Ballot passes the Initial Vote, the Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, the Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Chair will initiate the Review Period by sending the Review Notice to the Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the Review Period. If the Chair does not initiate the Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the Review Period, using the same process as the Chair would have been required to use.
+
  6. The Review Period will continue to the end of the thirty (30) or sixty (60) day period, as applicable, regardless of the number of Exclusion Notices filed pursuant to the IPR Policy during such period, if any. No later than three (3) business days after the conclusion of the applicable Review Period, the Chair will distribute any Exclusion Notices submitted in accordance with Section 4.1 (Review of Draft Specifications) of the IPR Policy via the Public Mail List; provided, however, that the Chair may distribute such Exclusion Notices earlier.
 
  7. In addition to following the process for submitting Exclusion Notices set forth in Section 4 of the IPR Policy, Members shall also send Exclusion Notices to the Public Mail List as a safeguard.
 
- 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final and approved, and Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the final approval within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days of the close of the Review Period. The Chair or Vice-Chair of a CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
+ 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final, approved, and effective as of the end of the applicable Review Period. The Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the results of the Review Period within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days, of the close of the Review Period. The Chair or Vice-Chair of the Forum or of the CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
     * The cover page,
     * The Table of Contents,
     * The year in the “Copyright” information,
     * Footers with page numbers
     
-    The Chair or Vice-Chair of a CWG is also allowed to perform the following changes, unless the ballot explicitly updates this information:
+    The Chair or Vice-Chair of the Forum or of a CWG is also allowed to perform the following changes, unless the ballot explicitly updates this information:
    
     * The Guideline version number,
     * Headers/Footers with version numbers,
