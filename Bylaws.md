@@ -223,19 +223,19 @@ The Forum Chair shall appoint a List Manager who shall maintain a Public Mail Li
 
 The Forum Chair shall appoint a webmaster. The webmaster shall post instructions on the Public Web Site for subscribing to the Public Mail List.
 
-The following materials shall be posted to the Forum Public Mail List or Public Web Site:
+The following materials shall be posted to the Forum Public Mail List, the applicable CWG Public Mail List, or designated area on the Public Web Site:
 
- 1. Draft and final agendas for CWG meetings, Forum Meetings and Forum Teleconferences (including any sub-groups or committees).
+ 1. Draft and final agendas for CWG meetings, Forum Meetings, and Forum Teleconferences (including any sub-groups or committees).
 
- 2. Final minutes of Forum Meetings and Forum Teleconferences (including minutes of any sub- groups or committees).
+ 2. Final minutes of CWG meetings, Forum Meetings, and Forum Teleconferences (including minutes of any sub-groups or committees).
 
- 3. Messages formally proposing a Forum ballot (including ballots to establish, extend, modify, or terminate CWGs), individual votes, vote and quorum counts, and messages announcing ballot outcomes and voting breakdowns.
+ 3. Messages formally proposing a ballot, including CWG ballots to establish or amend guidelines, to adopt or modify charters, and individual votes, vote and quorum counts, and messages announcing ballot outcomes and voting breakdowns.
 
- 4. Initial and final drafts of Forum requirements, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Member comments.
+ 4. Initial and final drafts of requirements, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Member comments.
 
- 5. Initial and final drafts of CWG charter documents, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial Working Group member comments.
+ 5. Initial and final drafts of CWG charter documents, guidelines, and recommendations after the drafter has had an opportunity to receive and respond to initial comments from prospective Working Group members.
 
-These activities should be followed by any Chartered Working Group. Working Groups must maintain a separate Public Mail List. Working Groups may use the Forum Public Web Site but they must maintain a separate section designated for material related to the specific Working Group.
+These activities shall be followed by any Chartered Working Group. Working Groups must maintain a separate Public Mail List. Working Groups may use the Forum Public Web Site but they must maintain a separate section designated for material related to the specific Working Group.
 
 ## 5.3 Working Groups
 
