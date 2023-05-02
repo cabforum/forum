@@ -16,7 +16,7 @@ Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (
 
 **Members eligible to participate:**
 
-(a) The Working Group shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers, and two classes of non-voting members--Associate Members and Probationary Members. Membership as a voting member requires six months of active participation in the SCWG (attending at least 80% of meetings, measured over a six-month period).  
+(a) The Working Group shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers, and two classes of non-voting members--Associate Members and Probationary Members. 
 
 The Certificate Issuer voting class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
 
@@ -30,7 +30,7 @@ These audit reports must also meet the following requirements:
 * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period before they are entitled to vote as Certificate Issuers.
+In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period attending at least 30% of meetings before they are entitled to vote as Certificate Issuers.
 
    2) **Root Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement that  complies with one of the following schemes:
 * “WebTrust for CAs v2.0 or newer”; or
@@ -42,17 +42,16 @@ These audit reports must also meet the following requirements:
 * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization must actively issue certificates to subordinate CAs that, in turn, actively issue certificates to web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period before they are entitled to vote as Certificate Issuers.
+In addition, the member organization must actively issue certificates to subordinate CAs that, in turn, actively issue certificates to web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period attending at least 30% of meetings before they are entitled to vote as Certificate Issuers.
 
    3) **A Certificate Consumer** can vote in this Working Group if it produces a software product intended for use by the general public for browsing the Web securely and:
-* has successfully completed a six-month probationary period by attending at least 80% of meetings over that six-month period;
-* has demonstrated a good history of compliance with and participation in relevant standards bodies, including but not limited to the CA/Browser Forum, IETF, ETSI, W3C, and WHATWG;
+* has successfully completed a six-month probationary period by attending at least 30% of meetings over that six-month period;
+* has a history of participation in relevant standards bodies, such as the CA/Browser Forum, IETF, ETSI, W3C, and WHATWG;
 * provides updates for its membership-qualifying software product at least every 6 months;
-* has publicly disclosed and documented process for users of its membership-qualifying software product to report problems and to receive updates on the resolution of those problems;
-* maintains and publishes its own list of root CA certificates that its membership-qualifying software product uses to validate the chain of trust from the TLS certificate to a root certificate in its root store;
-* has public documentation for joining its list of root CA certificates, which includes criteria for adding and removing root certificates from its root store;
-* has public documentation about how it enforces the Baseline Requirements for TLS server certificates; and
-* attests that it employs at least five (5) developers or infosec-trained professionals who work on its membership-qualifying software product.
+* has a publicly disclosed process for receiving software product problem reports concerning its membership-qualifying software product;
+* publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list;
+* has public documentation stating that it requires Certificate Issuers to comply with the CA/Browser Forum's Baseline Requirements for the issuance and maintenance of TLS server certificates; and
+* attests that it employs a sufficient number of developers and infosec-trained professionals who work on its membership-qualifying software product.
 
 (b) Applicants must supply the following information:
 
