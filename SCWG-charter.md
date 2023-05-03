@@ -76,11 +76,9 @@ Applicants that qualify as Certificate Consumers must supply the following addit
 
    * URL for receipt of reports about problems with its membership-qualifying software product;
 
-   * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list and the URL for its criteria for adding and removing certificates from such list;
+   * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list and the URL for its criteria for adding and removing certificates from such list; and
 
-   * URL to its statement requiring Certificate Issuer compliance with the Baseline Requirements for TLS server certificates; and
-
-   * an attestation that it employs a sufficient number of developers and infosec-trained professionals who work on its membership-qualifying software product.
+   * URL to its statement requiring Certificate Issuer compliance with the Baseline Requirements for TLS server certificates.
 
 (c) After a six-month probationary period of attending at least 30% of all Working Group meetings, an Applicant may become a Member if the Server Certificate Working Group determines by consensus among the Members during a Meeting or Teleconference that the Applicant meets all of the requirements of subsection (a) or, upon the request of any Member, by a Ballot among the Members. Acceptance by consensus shall be determined or a Ballot of the Members shall be held as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
@@ -101,8 +99,6 @@ The Working Group shall include Associate Members, Interested Parties, Probation
    * it ceases to maintain criteria for adding and removing root certificates from its root store;
 
    * it ceases to require that Certificate Issuers comply with the Baseline Requirements for TLS server certificates;
-
-   * it no longer employs a sufficient number of developers or infosec-trained professionals who work on its membership-qualifying software product;
 
    * it stops providing updates for its membership-qualifying software product; or 
 
