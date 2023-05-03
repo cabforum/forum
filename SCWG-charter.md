@@ -16,7 +16,7 @@ Upon approval of the CAB Forum by ballot, the Server Certificate Working Group (
 
 **Members eligible to participate:**
 
-(a) The Working Group shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers, and two classes of non-voting members--Associate Members and Probationary Members. 
+(a) The Working Group shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers, and four categories of non-voting participants--Associate Members, Interested Parties, Probationary Members, and Non-Voting Members. 
 
 The Certificate Issuer voting class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
 
@@ -30,7 +30,7 @@ These audit reports must also meet the following requirements:
 * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period attending at least 30% of meetings before they are entitled to vote as Certificate Issuers.
+In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Certificate Issuers must attend at least 30% of Working Group teleconferences in any six-month period and at least one Working Group face-to-face meeting in any twelve-month period.
 
    2) **Root Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement that  complies with one of the following schemes:
 * “WebTrust for CAs v2.0 or newer”; or
@@ -42,16 +42,15 @@ These audit reports must also meet the following requirements:
 * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period;
 * The audit report was prepared by a properly-Qualified Auditor.
 
-In addition, the member organization must actively issue certificates to subordinate CAs that, in turn, actively issue certificates to web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Applicants must complete at least a six-month probationary period attending at least 30% of meetings before they are entitled to vote as Certificate Issuers.
+In addition, the member organization must actively issue certificates to subordinate CAs that, in turn, actively issue certificates to web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Root Certificate Issuers must attend at least 30% of Working Group teleconferences in any six-month period and at least one Working Group face-to-face meeting in any twelve-month period.
 
    3) **A Certificate Consumer** can vote in this Working Group if it produces a software product intended for use by the general public for browsing the Web securely and:
-* has successfully completed a six-month probationary period by attending at least 30% of meetings over that six-month period;
 * has a history of participation in relevant standards bodies, such as the CA/Browser Forum, IETF, ETSI, W3C, and WHATWG;
 * provides updates for its membership-qualifying software product at least every 6 months;
 * has a publicly disclosed process for receiving software product problem reports concerning its membership-qualifying software product;
-* publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list;
-* has public documentation stating that it requires Certificate Issuers to comply with the CA/Browser Forum's Baseline Requirements for the issuance and maintenance of TLS server certificates; and
-* attests that it employs a sufficient number of developers and infosec-trained professionals who work on its membership-qualifying software product.
+* publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list; and
+* has public documentation stating that it requires Certificate Issuers to comply with the CA/Browser Forum's Baseline Requirements for the issuance and maintenance of TLS server certificates.
+Furthermore, all Certificate Consumers must attend at least 30% of Working Group teleconferences in any six-month period and at least one Working Group face-to-face meeting in any twelve-month period.
 
 (b) Applicants must supply the following information:
 
@@ -83,15 +82,17 @@ Applicants that qualify as Certificate Consumers must supply the following addit
 
    * an attestation that it employs a sufficient number of developers and infosec-trained professionals who work on its membership-qualifying software product.
 
-(c) After the six-month probationary period, an Applicant may become a Member if the Server Certificate Working Group determines by consensus among the Members during a Meeting or Teleconference that the Applicant meets all of the requirements of subsection (a) or, upon the request of any Member, by a Ballot among the Members. Acceptance by consensus shall be determined or a Ballot of the Members shall be held as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
+(c) After a six-month probationary period of attending at least 30% of all Working Group meetings, an Applicant may become a Member if the Server Certificate Working Group determines by consensus among the Members during a Meeting or Teleconference that the Applicant meets all of the requirements of subsection (a) or, upon the request of any Member, by a Ballot among the Members. Acceptance by consensus shall be determined or a Ballot of the Members shall be held as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
-The Working Group shall include Associate Members, Probationary Members, and Interested Parties as defined in the Bylaws.
+The Working Group shall include Associate Members, Interested Parties, Probationary Members, and Non-Voting Members as defined in the Bylaws.
 
 **Ending Server Certificate Working Group Membership:** Members may resign from the Server Certificate Working Group at any time. Resignation or other form of membership termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
    1) **Certificate Consumer:** A Certificate Consumer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
    * it fails to attend at least 30% of SCWG meetings in any six-month period;
+
+   * it fails to attend at least one SCWG face-to-face meeting in any twelve-month period;
 
    * it ceases providing a process for receiving software product problem reports concerning its membership-qualifying software product;
 
@@ -111,6 +112,8 @@ The Working Group shall include Associate Members, Probationary Members, and Int
    
    * it fails to attend at least 30% of SCWG meetings in any six-month period;
 
+   * it fails to attend at least one SCWG face-to-face meeting in any twelve-month period;
+
    * it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
    
    * its membership-qualifying audit is revoked, rescinded or withdrawn;
@@ -121,7 +124,7 @@ The Working Group shall include Associate Members, Probationary Members, and Int
 
 Any Member who believes any of the above circumstances is true of any other Member may report that Member on the SCWG Public Mail List. The SCWG Chair will then investigate, including asking the reported Member for an explanation or appropriate documentation. If evidence of continued qualification for voting membership is not forthcoming from the reported Member within five (5) working days, the Chair will announce that such Member is suspended, such announcement to include the clause(s) from the above list under which the suspension has been made.
 
-A suspended Member who believes that it then meets the membership criteria under the relevant clauses shall post evidence to the SCWG Public Mail List. The SCWG Chair will examine the evidence and unsuspend the member, or not, by public announcement. A Member's membership will automatically cease six (6) months after it becomes suspended if the Member has not re-met the membership criteria by that time.
+A suspended Member who believes that it then meets the membership criteria under the relevant clauses shall post evidence to the SCWG Public Mail List. The SCWG Chair will examine the evidence and unsuspend the member, or not, by public announcement. A Member's membership will automatically cease six (6) months after it becomes suspended if the Member has not re-met the membership criteria by that time or has not been recognized by the Forum as a Non-Voting Member.
 
 While suspended, a Member may participate in SCWG and Forum Meetings, Teleconferences, and on the SCWG and Forum's discussion lists, but may not propose or endorse ballots or take part in any form of voting.
 Votes cast before a Member's suspension is announced will stand.
@@ -132,6 +135,6 @@ Votes cast before a Member's suspension is announced will stand.
 
 **Summary of major WG deliverables and guidelines:** As specified in Scope section above.
 
-**Primary means of communication:** listserv-based email, periodic calls, and face-to-face meetings.
+**Primary means of communication:** listserv-based email, periodic teleconference calls, and face-to-face meetings.
 
 **IPR Policy:** The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, SHALL apply to all Working Group activity.
