@@ -54,13 +54,15 @@ Chartered Working Group (CWG) Members are automatically granted Forum Membership
 
 Categories of Forum Membership are defined as follows:
 
-* Voting Member, which contains the following sub-categories:
+* Voting Member, which contains the following two (2) sub-categories:
    * Certificate Issuer: The member organization operates a certification authority and meets the requirements for membership as a Certificate Issuer in one or more CWGs.
    * Certificate Consumer: The member organization produces software that processes certificates and meets the requirements for membership as a Certificate Consumer in one or more CWGs.
-* Non-Voting Member:  A Voting Member that has been suspended or an entity that operates a certification authority or produces software that processes certificates but does not meet the requirements for membership in at least one CWG.
-* Associate Member: As defined in Section 3.1
-* Interested Party: As defined in Section 3.2
-* Probationary Member: An applicant for membership but awaiting full qualification. During the probationary state, the organization has no voting rights. Probationary membership is valid for 12 months and may be renewed as decided by the CWG.
+
+Non-Voting Membership consists of the following four (4) sub-categories:
+   * Associate Member: As defined in Section 3.1
+   * Interested Party: As defined in Section 3.2
+   * Probationary Member: As defined in Section 3.3
+   * Non-Voting Member: As defined in Section 3.4
  
 Note: Based on section 3.1 in version 2.4 of the Bylaws, it was allowed for a Certificate Issuer that partially met the CWG membership criteria to be accepted as "Associate Member". Once version 2.5 of the Bylaws becomes effective, these Associate Members will automatically be re-assigned to the "Probationary Member" membership category, as desctibed in Section 3.3 below.
 
@@ -139,11 +141,9 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
 ## 3.1 Associate Members
 
-Membership in the Forum as an Associate Member may be by invitation or when an organization does not qualify, or no longer qualifies, for full voting status as a Certificate Issuer or Certificate Consumer under a Working Group's charter.
+Membership in the Forum as an Associate Member may be by invitation when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB'c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), the Internet Corporation for Assigned Names and Numbers, tScheme and the U.S. Federal PKI. In order to become an Associate Member, an organization must sign a mutual letter of intent/understanding, or other similar agreement, and the Forum’s IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member’s own organization IPR rules. 
 
-The Forum may enter into associate member relationships with other organizations when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB'c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), the Internet Corporation for Assigned Names and Numbers, tScheme and the U.S. Federal PKI. In order to become an Associate Member, an organization must sign a mutual letter of intent/understanding, or other similar agreement, and the Forum’s IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member’s own organization IPR rules. 
-
-Associate Members may attend face-to-face meetings, communicate with Voting Members on Member Mail List, and access Member Web Site. Associate Members are not entitled to vote except on special straw polls of the Forum (e.g. when selecting meeting dates, locations, etc.)
+Associate Members may attend face-to-face meetings, communicate with Voting Members on the Member Mail List, and access the Member Wiki Website. Associate Members are not entitled to vote except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
 
 ## 3.2 Interested Parties
 
@@ -154,6 +154,7 @@ Interested Parties may participate in Forum activities in the following ways:
  1. By becoming involved in CWGs,
 
  2. By posting to the Public Mail List, and
+
  3. By participating in those portions of Forum Teleconferences and Forum Meetings to which they are invited by the Forum or CWG Chair relating to their areas of special expertise or the subject of their CWG participation.
 
 Interested Parties are required to comply with the provisions of the IPR Policy Agreement and these Bylaws. Interested Parties may lose their status as Interested Parties by vote of the Voting Members, in the Voting Members’ sole discretion.
@@ -164,9 +165,20 @@ Interested Parties apply by sending an e-mail to the Questions List, which inclu
 
 ## 3.3 Probationary Member
 
-There is a probationary period of at least six (6) months for any applicant seeking to join the Forum as a full voting member. 
+An applicant for voting membership but awaiting full qualification. There is a probationary period of at least six (6) months for any applicant seeking to join a CWG and the Forum as a full voting member. During the probationary period, representatives of the organization must attend at least 30% of all relevant CWG and Forum meetings. Probationary membership is valid for 12 months and may be renewed as decided by the CWG.
+In order to be a Probationary Member, an organization must sign the Forum’s IPR Policy Agreement and apply for membership in at least one CWG. Probationary Members may attend face-to-face meetings, communicate with Voting Members on the Member Mail List, and access the Member Wiki Website. Probationary Members are not entitled to vote except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
 
-## 3.4 Other Parties
+## 3.4 Non-Voting Member
+
+Non-voting membership is by invitation of the Forum to an organization that does not qualify, or no longer qualifies (see section 2.2), for full voting status as a Certificate Issuer or Certificate Consumer under any Working Group's charter. 
+
+In order to be a Non-Voting Member, an organization must sign the Forum’s IPR Policy Agreement and indicate which CWG(s) the organization wishes to join. 
+
+Non-Voting Members may attend face-to-face meetings, communicate with Voting Members on the Member Mail List, and access the Member Wiki Website. 
+
+Non-Voting Members are not entitled to vote except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
+
+## 3.5 Other Parties
 
 The public may follow the Forum’s activities by reading all postings on the Public Mail List and the Public Web Site. Questions or comments to the Forum may be sent to Questions Mail List.
 
