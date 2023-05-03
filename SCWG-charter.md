@@ -73,14 +73,15 @@ Applicants that qualify as Certificate Issuers or Root Certificate Issuers must 
 
    * Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member.
 
-Applicants that qualify as Certificate Issuers or Root Certificate Issuers must supply the following additional information:
+Applicants that qualify as Certificate Consumers must supply the following additional information:
 
-   * URL for its process allowing users to report problems and receive updates regarding the resolution of problems with its membership-qualifying software product.
-   * URL for its list of CA root certificates, which its membership-qualifying software product uses to validate the chain of trust from the TLS certificate to a root certificate in its root store;
-   * URL for its criteria for adding and removing root certificates from its root store;
-   * URL to instructions on how to join its list of root CA certificates;
-   * URL to its statement regarding enforcement of the Baseline Requirements for TLS server certificates; and
-   * an attestation that it employs at least five (5) developers or infosec-trained professionals who work on its membership-qualifying software product.
+   * URL for receipt of reports about problems with its membership-qualifying software product;
+
+   * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list and the URL for its criteria for adding and removing certificates from such list;
+
+   * URL to its statement requiring Certificate Issuer compliance with the Baseline Requirements for TLS server certificates; and
+
+   * an attestation that it employs a sufficient number of developers and infosec-trained professionals who work on its membership-qualifying software product.
 
 (c) After the six-month probationary period, an Applicant may become a Member if the Server Certificate Working Group determines by consensus among the Members during a Meeting or Teleconference that the Applicant meets all of the requirements of subsection (a) or, upon the request of any Member, by a Ballot among the Members. Acceptance by consensus shall be determined or a Ballot of the Members shall be held as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
@@ -90,18 +91,25 @@ The Working Group shall include Associate Members, Probationary Members, and Int
 
    1) **Certificate Consumer:** A Certificate Consumer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
-   * it fails to attend at least 80% of SCWG meetings in any six-month period;
-   * it ceases providing a process that allows users to report problems and receive updates regarding the resolution of problems with its membership-qualifying software product;
-   * it ceases to maintain and publish its own list of root CA certificates that its membership-qualifying software product uses to validate the chain of trust from the TLS certificate to a root certificate in its root store;
-   * it ceases to maintain criteria for adding and removing root certificates from its root store or instructions on how to join its list of root CA certificates;
-   * it ceases to maintain public documentation about how it enforces the Baseline Requirements for TLS server certificates;
-   * it no longer employs at least five (5) developers or infosec-trained professionals who work on its membership-qualifying software product;
+   * it fails to attend at least 30% of SCWG meetings in any six-month period;
+
+   * it ceases providing a process for receiving software product problem reports concerning its membership-qualifying software product;
+
+   * it ceases to maintain a list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from the TLS certificate to a root certificate in its root store;
+
+   * it ceases to maintain criteria for adding and removing root certificates from its root store;
+
+   * it ceases to require that Certificate Issuers comply with the Baseline Requirements for TLS server certificates;
+
+   * it no longer employs a sufficient number of developers or infosec-trained professionals who work on its membership-qualifying software product;
+
    * it stops providing updates for its membership-qualifying software product; or 
+
    * six (6) months have elapsed since it last updated its membership-qualifying software product.
 
    2) **Certificate Issuer or Root Certificate Issuer:** A Certificate or Root Certificate Issuer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
    
-   * it fails to attend at least 80% of SCWG meetings in any six-month period;
+   * it fails to attend at least 30% of SCWG meetings in any six-month period;
 
    * it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
    
