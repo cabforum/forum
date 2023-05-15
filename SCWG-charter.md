@@ -48,7 +48,7 @@ In addition, the member organization must actively issue certificates to subordi
 * provides updates for its membership-qualifying software product at least every 6 months;
 * has a publicly disclosed process for receiving software product problem reports concerning its membership-qualifying software product;
 * has public documentation stating that it requires Certificate Issuers to comply with the Baseline Requirements; and
-* publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list (and those requirements do not prevent them from complying with the Baseline Requirements).
+* publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list (and those criteria do not prevent Certificate Issuers from complying with the Baseline Requirements).
 
 Furthermore, all Certificate Consumers must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period.
 
