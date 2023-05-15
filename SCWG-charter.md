@@ -16,7 +16,7 @@ The Server Certificate Working Group ("SCWG") exists to perform the activities a
 
 **Members eligible to participate:**
 
-(a) The SCWG shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers, and non-voting participants--Associate Members, Interested Parties, and other types of participants as allowed pursuant to this Charter. 
+(a) The SCWG shall consist of two classes of voting members--Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Associate Members, Interested Parties, and other types of participants as allowed pursuant to this Charter or the Bylaws. 
 
 The Certificate Issuer voting class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
 
