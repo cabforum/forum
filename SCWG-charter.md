@@ -21,8 +21,8 @@ The Server Certificate Working Group ("SCWG") exists to perform the activities a
 The Certificate Issuer voting class shall consist of eligible Certificate Issuers and Root Certificate Issuers meeting the following criteria:
 
    1) **Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement that complies with one of the following schemes:
-* “WebTrust for CAs v2.6 - SSL Baseline with Network Security, or newer”; or
-* ETSI EN 319 411-1 or ETSI EN 319 411-2 (with DVCP, OVCP, IVCP, QCP-w, QCP-w, QNCP-w, or QEVCP-w), which includes normative references to ETSI EN 319 401 (the latest version of the referenced ETSI documents should be applied); or
+* “WebTrust for CAs v2.7 - SSL Baseline with Network Security, or newer”; or
+* ETSI EN 319 411-1 (v1.3.1 or newer) or ETSI EN 319 411-2 (v2.4.1 or newer) (with DVCP, OVCP, IVCP, QCP-w, QCP-w, QNCP-w, or QEVCP-w); or
 * If a Government Certificate Issuer is required by its Certificate Policy to use a different internal audit scheme, it MAY use such scheme provided that the audit either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria that are available for public review.
 
 These audit reports must also meet the following requirements:
@@ -33,9 +33,9 @@ These audit reports must also meet the following requirements:
 In addition, the member organization actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. Applicants that do not meet this requirement, but otherwise meet membership criteria may be granted Probationary Member status under Bylaw Sections 2.1 and 3.3 for a period of time to be designated by the SCWG. Furthermore, all Certificate Issuers must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period.
 
    2) **Root Certificate Issuer:** The member organization operates a certification authority that has a publicly-available audit report or attestation statement that complies with one of the following schemes:
-* “WebTrust for CAs v2.0 or newer”; or
-* ETSI EN 319 411-1 or ETSI EN 319 411-2, which includes normative references to ETSI EN 319 401 (the latest version of the referenced ETSI documents should be applied); or
-* If the CA is required to use a different audit scheme by any jurisdiction in which the CA operates or issues certificates, it MAY use such scheme provided that the audit scheme criteria are available for public and review and either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria.
+* “WebTrust for CAs v2.2.2 or newer”; or
+* ETSI EN 319 411-1 (v1.3.1 or newer) or ETSI EN 319 411-2 (v2.4.1 or newer); or
+* If the CA is required to use a different audit scheme by any jurisdiction in which the CA operates or issues certificates, it MAY use such scheme provided that the audit scheme criteria are available for public review and either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria.
 
 These audit reports must also meet the following requirements:
 * They must report on the operational effectiveness of controls for a historic period of at least sixty (60) days;
