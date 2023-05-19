@@ -161,7 +161,7 @@ Interested Parties apply by sending an e-mail to the Questions List, which inclu
 
 ## 3.3 Probationary Member
 
-A Probationary Member is a Certificate Issuer or Certificate Consumer that does meet all qualifying criteria in a CWG charter. Probationary membership is valid for 12 months and may be renewed as decided by the CWG. A Probationary Member must sign the Forum’s IPR Policy Agreement. Probationary Members may attend face-to-face meetings, communicate with other Members on the Member Mail List, and access the Member Wiki Website. Probationary Members are not entitled to vote except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
+A Probationary Member is a Certificate Issuer or Certificate Consumer that does meet all qualifying criteria in a CWG charter. Probationary membership is valid for 12 months and may be renewed as decided by the CWG. A Probationary Member must sign the Forum’s IPR Policy Agreement. Probationary Members may attend face-to-face meetings, communicate with other Members on the Member Mail List, and access the Member Wiki Website. Probationary Members may not propose or endorse ballots or take part in any form of voting except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
 
 ## 3.4 Other Parties
 
@@ -530,11 +530,11 @@ Members may resign from the Working Group at any time. Resignation does not prev
 (b) Certificate Issuer:
 [specify]
 
-Any Voting Member who believes any of the above circumstances is true of any other Voting Member, that Voting Member may report it on the Working Group Public Mail List. The Working Group Chair will then investigate, including asking the reported Voting Member for an explanation or appropriate documentation. If evidence of continued qualification for membership is not forthcoming from the reported Voting Member within five (5) working days, the Working Group Chair will announce that such Voting Member is suspended, such announcement to include the clause(s) from the above list under which the suspension has been made.
+Any Voting Member who believes any of the above circumstances is true of any other Voting Member, that Voting Member may report it on the Working Group Public Mail List. The Working Group Chair will then investigate, including asking the reported Voting Member for an explanation or appropriate documentation. If evidence of continued qualification for membership is not forthcoming from the reported Voting Member within five (5) working days, the Working Group Chair will announce that such Voting Member is suspended and has become a Probationary Member, such announcement to include the clause(s) from the above list under which the suspension has been made.
 
-A suspended Voting Member who believes it has now re-met the membership criteria under the relevant clauses shall post evidence to the Working Group Public Mail List. The Working Group Chair will examine the evidence and unsuspend the member, or not, by public announcement. A Voting Member's membership will automatically cease six (6) months after it becomes suspended if the Voting Member has not re-met the membership criteria by that time.
+A Probationary Member who believes it has now re-met the membership criteria under the relevant clauses shall post evidence to the Working Group Public Mail List. The Working Group Chair will examine the evidence, and if appropriate, reinstate the member to voting status, by public announcement.
 
-While suspended, a Voting Member may participate in this Working Group and Forum Meetings, Teleconferences, and on this Working Group and the Forum's discussion lists, but may not propose or endorse ballots or take part in any form of voting.
+A Probationary Member may participate in this Working Group and Forum Meetings, Teleconferences, and on this Working Group and the Forum's discussion lists as set forth in the Bylaws.
 
 Votes cast before a Voting Member's suspension is announced will stand.
 
