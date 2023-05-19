@@ -37,8 +37,11 @@ These audit reports must also meet the following requirements:
    **(b) Certificate Consumer:** The Certificate Consumer voting class shall consist of eligible organizations meeting the following criteria:  
    
 (1) it produces a software product intended for use by the general public for browsing the Web securely;
+
 (2) it provides updates for its membership-qualifying software product at least every 6 months;
+
 (3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements; **_and_**
+
 (4) it publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list (and those criteria do not prevent Certificate Issuers from complying with the TLS Baseline Requirements).
 
    **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which a representative of the Probationary Member MUST must attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
