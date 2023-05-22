@@ -16,7 +16,7 @@ The Server Certificate Working Group ("SCWG") exists to perform the activities a
 
 **3. Membership:**
 
-The SCWG shall consist of two classes of Voting Members: Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Probationary Members, Associate Members, and Interested Parties. Effective for periods beginning January 1, 2024, all Voting Members MUST must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period. 
+The SCWG shall consist of two classes of Voting Members: Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Probationary Members, Associate Members, and Interested Parties. Effective for periods beginning January 1, 2024, in order to maintain their right to vote, all Voting Members MUST must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period. 
 
    **(a) Certificate Issuer:** The Certificate Issuer voting class shall consist of eligible organizations meeting the following criteria:
    
