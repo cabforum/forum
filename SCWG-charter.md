@@ -16,7 +16,7 @@ The Server Certificate Working Group ("SCWG") exists to perform the activities a
 
 **3. Membership:**
 
-The SCWG shall consist of two classes of Voting Members: Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Probationary Members, Associate Members, and Interested Parties. Effective for periods beginning January 1, 2024, in order to maintain their right to vote, all Voting Members MUST must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period. 
+The SCWG shall consist of two classes of Voting Members: Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Probationary Members, Associate Members, and Interested Parties. Effective for periods beginning January 1, 2024, in order to maintain their right to vote, all Voting Members must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period. 
 
    **(a) Certificate Issuer:** The Certificate Issuer voting class shall consist of eligible organizations meeting the following criteria:
    
@@ -38,11 +38,11 @@ These audit reports must also meet the following requirements:
    
 (1) it produces a software product intended for use by the general public for browsing the Web securely;
 
-(2) it provides updates for its membership-qualifying software product at least every 6 months;
+(2) it provides updates for its membership-qualifying software product at least every 6 months to ensure that customers of this Certificate Consumer are getting regular security patches;
 
 (3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements; **_and_**
 
-(4) it publishes criteria that it follows in adding or removing CA certificates from the list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to the trusted CA certificate in such list (and those criteria do not prevent Certificate Issuers from complying with the TLS Baseline Requirements).
+(4) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product.
 
    **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which a representative of the Probationary Member MUST must attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
    
@@ -86,7 +86,7 @@ These audit reports must also meet the following requirements:
 
    **(a) Certificate Consumer:** A Certificate Consumer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
-   * it ceases providing a process for receiving software product problem reports concerning its membership-qualifying software product;
+
 
    * it ceases to maintain a list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from the TLS certificate to a root certificate in its root store;
 
