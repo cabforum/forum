@@ -40,9 +40,11 @@ These audit reports must also meet the following requirements:
 
 (2) it provides updates for its membership-qualifying software product at least every 6 months to ensure that customers of this Certificate Consumer are getting regular security patches;
 
-(3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements; **_and_**
+(3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements;
 
-(4) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product.
+(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list; **_and_**
+
+(5) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product.
 
    **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which a representative of the Probationary Member MUST must attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
    
