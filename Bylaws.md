@@ -1,12 +1,14 @@
+---
+title: Bylaws of the CA/Browser Forum
+subtitle: Version 2.5
+author:
+- CA/Browser Forum
+date: June XX, 2023  
+copyright: |
+  Copyright 2023 CA/Browser Forum
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**BYLAWS OF THE CA/BROWSER FORUM**
-
-**Version 2.5 - Effective as of XXXXX XX, 2023**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+  This work is licensed under the Creative Commons Attribution 4.0 International license.
+---
 
 # 1. CA/BROWSER FORUM – PURPOSE, STATUS, AND ANTITRUST LAWS
 
