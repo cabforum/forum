@@ -55,10 +55,10 @@ Categories of Forum Membership are defined as follows:
 * Voting Member, which contains the following two (2) sub-categories:
    * Certificate Issuer: The member organization operates a certification authority that meets the requirements for membership as a Certificate Issuer in one or more CWGs.
    * Certificate Consumer: The member organization produces software that processes certificates and meets the requirements for membership as a Certificate Consumer in one or more CWGs.
-     Other types of membership consists of the following three (3) sub-categories:
-* Associate Member: As defined in Section 3.1
-* Interested Party: As defined in Section 3.2
-* Probationary Member (Certificate Issuer/Certificate Consumer): As defined in Section 3.3.
+* Other types of membership consists of the following three (3) sub-categories:
+   * Associate Member: As defined in Section 3.1
+   * Interested Party: As defined in Section 3.2
+   * Probationary Member (Certificate Issuer/Certificate Consumer): As defined in Section 3.3.
 
 Note: Based on Section 3.1 in version 2.4 of the Bylaws, it was allowed for a Certificate Issuer that partially met the CWG membership criteria to be accepted as "Associate Member". Once version 2.5 of the Bylaws becomes effective, these Associate Members will automatically be re-assigned to the "Probationary Member" membership category, as described in Section 3.3 below.
 
