@@ -111,15 +111,16 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
     * The cover page,
     * The Table of Contents,
     * The year in the “Copyright” information,
-    * Footers with page numbers
-    
+    * Footers with page numbers,
+    * Links to other sections within the document.    
+
     The Chair or Vice-Chair of the Forum or of a CWG is also allowed to perform the following changes, unless the ballot explicitly updates this information:
    
     * The Guideline version number,
     * Headers/Footers with version numbers,
     * The table with document revisions or Document History,
-    * The table with Relevant Dates
-    * Links to other sections within the document.
+    * The table with Relevant Dates.
+    
 
  9. If Exclusion Notice(s) are filed during the Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void, and;
 
