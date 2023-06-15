@@ -138,7 +138,7 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
 Membership in the Forum or CWGs as an Associate Member may be by invitation when the CA/Browser Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. In the past, entities qualifying as Associate Members have included the ACAB'c, AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute (ETSI), the Internet Corporation for Assigned Names and Numbers, tScheme and the U.S. Federal PKI. In order to become an Associate Member, an organization must sign a mutual letter of intent/understanding, or other similar agreement, and the Forum's IPR Policy Agreement, unless this latter requirement is waived in writing by the Forum based on overriding policies of the Associate Member's own organization IPR rules.
 
-Associate Members may attend face-to-face meetings, communicate with other Members on the Member Mail List and/or Public Mail List, and access the Member Wiki Website. Associate Members are not entitled to vote except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
+Associate Members may attend face-to-face meetings, communicate with other Members on the Member Mail List and/or Public Mail List, and access the Member Wiki Website. Associate Members may not propose or endorse ballots or take part in any form of voting except on special straw polls of the Forum or CWGs (e.g. when selecting meeting dates, locations, etc.).
 
 ## 3.2 Interested Parties
 
@@ -422,10 +422,13 @@ All Member representatives are expected to behave in a collegial and professiona
  4. Forum participants should stick to ideological, conceptual discussions and avoid engaging in offensive or sensitive personal discussions, particularly if they're off-topic; such personal discussions can lead to unnecessary arguments, hurt feelings, and damaged trust. 
 
 **II. Moderation.** These are the policies for upholding the Code.
+
  1. Resist the urge to be defensive. Remember that it's your responsibility to clearly communicate your message to your fellow participants. Everyone wants to get along and we are all in the Forum first and foremost because we want to talk about standards and everything that involves. Other participants will be eager to assume good intent and forgive as long as you have earned their trust.
+
  2. Participants should inform the Chair, Vice Chair, and/or a Working Group Chair immediately if they feel they have been, or are being, harassed or made uncomfortable by a Forum member. Intimidation, personal attacks, and retaliation of any kind will not be tolerated. 
 
  3. Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a "Code Liaison"). One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it.Resolution may also include appropriate executives from the Forum participant's Member company, as appropriate. If the reported Forum participant, Member executives, and the Code Liaison(s) are unwilling or unable to resolve the issue, any of the foregoing may request the assistance of an independent third party to assist with the resolution. 
+
  4. Members agree to take appropriate action in the event any of their Member representatives violate the Code. Such action could include warning, reprimanding, suspending, removing or replacing the Member representative who has violated the Code, depending on the severity of the violation. Depending on the number and severity of violations, the Forum may impose consequences such as excluding a Member representative from certain meetings, removing a Member representative from a mailing list, suspending a Member representative from certain Forum activities, or suspending or terminating the Member's right to vote or otherwise participate in the Forum.
 
 Adapted from the WHATWG Code of Conduct [https://wiki.whatwg.org/wiki/Code_of_Conduct], the W3C Code of Ethics and Professional Conduct [https://www.w3c.org/Consortium/cepc/], and the Citizen Code of Conduct [citizencodeofconduct.org].
