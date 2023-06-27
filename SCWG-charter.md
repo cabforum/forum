@@ -16,7 +16,7 @@ The Server Certificate Working Group ("SCWG") exists to perform the activities a
 
 **3. Membership:**
 
-The SCWG shall consist of two classes of Voting Members: Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Probationary Members, Associate Members, and Interested Parties. Effective for periods beginning January 1, 2024, in order to maintain their right to vote, all Voting Members must attend at least 30% of SCWG teleconferences in any six-month period and at least one SCWG face-to-face meeting (either physically or virtually) in any twelve-month period. 
+The SCWG shall consist of two classes of Voting Members: Certificate Issuers and Certificate Consumers. Non-voting participants in the SCWG include Probationary Members, Associate Members, and Interested Parties. 
 
    **(a) Certificate Issuer:** The Certificate Issuer voting class shall consist of eligible organizations meeting the following criteria:
    
@@ -92,7 +92,7 @@ These audit reports must also meet the following requirements:
 
    * it ceases to maintain criteria for adding and removing root certificates from its root store;
 
-   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements;
+   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements; or
 
    * six (6) months have elapsed since it last updated its membership-qualifying software product.
 
@@ -114,7 +114,7 @@ A Probationary Member may participate in SCWG and Forum Meetings, Teleconference
 
 Votes cast before the Voting Member's suspension is announced will stand.
 
-**5. Voting structure:** In order for a ballot to be adopted by the SCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each voting class must vote in favor of a ballot for it to be adopted. Quorum is the average number of voting members (cumulative of both Certificate Issuer and Certificate Consumer classes) that have participated in the previous three SCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
+**5. Voting structure:** In order for a ballot to be adopted by the SCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each voting class must vote in favor of a ballot for it to be adopted. Quorum is half the average number of voting members (cumulative of both Certificate Issuer and Certificate Consumer classes) that have participated in the previous three SCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
 
 **6. Summary of the work that the WG plans to accomplish:** As specified in Scope section above.
 
