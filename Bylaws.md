@@ -212,7 +212,7 @@ The Forum shall maintain a Member Mail List and Member Web Site that are not acc
 
 Members have discretion about which mailing list they use, but are strongly encouraged to use the Public Mail List for matters other than those listed above.
 
-Members are strongly discouraged from posting the text of Member Mail List messages to a Public Mail List without the permission of the author or commenter.
+Members are strongly discouraged from posting the text of Member Mail List messages to a Public Mail List without the permission of the author or commenter. Doing so may violate the Code of Conduct.
 
 These activities should be followed by any Chartered Working Group. Chartered Working Groups shall use the Working Group's Mail Lists instead of the Forum-level Mail Lists. Working Groups may use the Forum Member Web Site but they must maintain a separate section designated for material related to the specific Working Group.
 
