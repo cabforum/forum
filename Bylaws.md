@@ -3,7 +3,7 @@ title: Bylaws of the CA/Browser Forum
 subtitle: Version 2.5
 author:
 - CA/Browser Forum
-date: June XX, 2023  
+date: July 20, 2023  
 copyright: |
   Copyright 2023 CA/Browser Forum
 
