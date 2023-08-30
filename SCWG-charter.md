@@ -28,7 +28,7 @@ The SCWG shall consist of two classes of Voting Members: Certificate Issuers and
 These audit reports must also meet the following requirements:
   * They must report on the operational effectiveness of controls for a historic period of at least sixty (60) days;
   * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period; and
-  * The audit report was prepared by a properly-Qualified Auditor.
+  * The audit report was prepared by a Qualified Auditor (see the Forum's TLS Baseline Requirements).
 
 **_and_**
 
@@ -38,13 +38,16 @@ These audit reports must also meet the following requirements:
    
 (1) it produces a software product intended for use by the general public for browsing the Web securely;
 
-(2) it provides updates for its membership-qualifying software product at least every 6 months to ensure that customers of this Certificate Consumer are getting regular security patches;
+(2) it provides updates for its membership-qualifying software product at least every 6 months to ensure that customers of the Certificate Consumer are getting regular security patches;
 
 (3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements;
 
-(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list; **_and_**
+(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
 
-(5) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product.
+(5) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product;
+ **_and_**
+ 
+ (6) it either participates as a Root Store Operator in the Common CA Database (CCADB), or it has a user base of at least XYZ.
 
    **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which a representative of the Probationary Member MUST must attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
    
@@ -60,7 +63,7 @@ These audit reports must also meet the following requirements:
 
    * URL of the applicant's main Web site.
 
-   * Names and email addresses of employees who will participate in the SCWG and Forum as Member representatives.
+   * Names and email addresses of employees who will participate in the SCWG and Forum as representatives.
 
    * Emergency contact information for security issues related to certificate trust.
 
@@ -84,7 +87,7 @@ These audit reports must also meet the following requirements:
 
 **(d)**  There is a mandatory six-month probationary period during which an Applicant must attend at least 30% of all SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period, an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member, by a Ballot among the Members, that the Applicant meets the requirements of section 3(a) or 3(b). Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
-**4. Ending SCWG Membership:** Members may resign from the SCWG at any time. Resignation or other form of membership termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
+**5. Ending SCWG Membership:** Members may resign from the SCWG at any time. Resignation or other form of membership termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
    **(a) Certificate Consumer:** A Certificate Consumer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
@@ -92,9 +95,13 @@ These audit reports must also meet the following requirements:
 
    * it ceases to maintain criteria for adding and removing root certificates from its root store;
 
-   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements; or
+   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements; 
 
-   * six (6) months have elapsed since it last updated its membership-qualifying software product.
+   * six (6) months have elapsed since it last updated its membership-qualifying software product;
+
+   * it ceases to participate in the CCADB as a Root Store Operator; or
+
+   * its user base falls below the applicable threshold.
 
    **(b) Certificate Issuer:** A Certificate Issuer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
@@ -114,12 +121,12 @@ A Probationary Member may participate in SCWG and Forum Meetings, Teleconference
 
 Votes cast before the Voting Member's suspension is announced will stand.
 
-**5. Voting structure:** In order for a ballot to be adopted by the SCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each voting class must vote in favor of a ballot for it to be adopted. Quorum is half the average number of voting members (cumulative of both Certificate Issuer and Certificate Consumer classes) that have participated in the previous three SCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
+**6. Voting structure:** In order for a ballot to be adopted by the SCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each voting class must vote in favor of a ballot for it to be adopted. Quorum is half the average number of voting members (cumulative of both Certificate Issuer and Certificate Consumer classes) that have participated in the previous three SCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
 
-**6. Summary of the work that the WG plans to accomplish:** As specified in Scope section above.
+**7. Summary of the work that the WG plans to accomplish:** As specified in Scope section above.
 
-**7. Summary of major WG deliverables and guidelines:** As specified in Scope section above.
+**8. Summary of major WG deliverables and guidelines:** As specified in Scope section above.
 
-**8. Primary means of communication:** listserv-based email, periodic teleconference calls, and face-to-face meetings.
+**9. Primary means of communication:** listserv-based email, periodic teleconference calls, and face-to-face meetings.
 
-**9. IPR Policy:** The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, SHALL apply to all SCWG activity.
+**10. IPR Policy:** The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, SHALL apply to all SCWG activity.
