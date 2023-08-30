@@ -42,14 +42,11 @@ These audit reports must also meet the following requirements:
 
 (3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements;
 
-(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
+(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;  **_and_**
 
-(5) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product;
- **_and_**
- 
- (6) it either participates as a Root Store Operator in the Common CA Database (CCADB), or it has a user base of at least XYZ.
+(5) it publishes how it decides to add or remove a CA certificate from the root store used in its membership-qualifying software product.
 
-   **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which a representative of the Probationary Member MUST must attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
+   **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which any representative of a Probationary Member MUST attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
    
    **(d)** The SCWG includes Associate Members and Interested Parties, as set forth in sections 3.1 and 3.2 of the Bylaws. 
 
@@ -59,9 +56,9 @@ These audit reports must also meet the following requirements:
 
    * Confirmation that the applicant meets the requirements in either 3(a) or 3(b), and if it satisfies both, then an indication of the single category under which the applicant wishes to apply;
 
-   * The organization name, as they wish it to appear on the Forum Web site and in official Forum documents.
+   * The organization name, as they wish it to appear on the Forum website and in official Forum documents.
 
-   * URL of the applicant's main Web site.
+   * URL of the applicant's main website.
 
    * Names and email addresses of employees who will participate in the SCWG and Forum as representatives.
 
@@ -85,7 +82,7 @@ These audit reports must also meet the following requirements:
 
    * URL for its criteria for adding and removing certificates from such list.
 
-**(d)**  There is a mandatory six-month probationary period during which an Applicant must attend at least 30% of all SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period, an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member, by a Ballot among the Members, that the Applicant meets the requirements of section 3(a) or 3(b). Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
+**(d)**  There is a mandatory six-month probationary period during which an Applicant must attend at least 30% of all SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period and meeting all requirements of section 3(a) or 3(b), an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member, by a Ballot among the Members, that the Applicant meets the requirements of section 3(a) or 3(b). Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
 **5. Ending SCWG Membership:** Members may resign from the SCWG at any time. Resignation or other form of membership termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
@@ -95,13 +92,9 @@ These audit reports must also meet the following requirements:
 
    * it ceases to maintain criteria for adding and removing root certificates from its root store;
 
-   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements; 
+   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements; or
 
-   * six (6) months have elapsed since it last updated its membership-qualifying software product;
-
-   * it ceases to participate in the CCADB as a Root Store Operator; or
-
-   * its user base falls below the applicable threshold.
+   * six (6) months have elapsed since it last updated its membership-qualifying software product.
 
    **(b) Certificate Issuer:** A Certificate Issuer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
