@@ -1,4 +1,4 @@
-# Code-Signing Working Group Charter - Version 1.0
+# Code-Signing Working Group Charter - Version 1.1
 
 ## Introduction
 
