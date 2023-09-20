@@ -40,6 +40,8 @@ i. Certificate issuance and revocation
 
 j. CA operational practices, physical/logical security, etc.
 
+Additionally the authorized scope of the CSCWG SHALL be to discuss, adopt, and maintain policies, frameworks and sets of standard related to the issuance of management of timestamp certificates by third-party Certificate Issuers under a publicly trusted root, limited to timestamp certificates containing a Certificate Policy Identifier value of "2.23.140.1.4.2".
+
 The CSCWG SHALL exercise caution to ensure that its work product does not impede the issuance of other EKU types.
 
 ### 2. Out of Scope
