@@ -42,9 +42,11 @@ These audit reports must also meet the following requirements:
 
 (3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements;
 
-(4) it publishes a list of of CA certificates used by its membership-qualifying software product to validate the chain of trust from a TLS certificate to a CA certificate in such list; **_and_**
+(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
 
-(5) it publishes how it decides to add or remove a CA certificate from the list used by its membership-qualifying software product.
+(5) it publishes the list of CA certificates used to validate the chain of trust from a TLS certificate to a CA certificate in such list;  **_and_**
+
+(6) it publishes how it adds or removes a CA certificate from such list.
 
    **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which any representative of a Probationary Member MUST attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
    
@@ -74,13 +76,15 @@ These audit reports must also meet the following requirements:
 
 **(c)** Applicants that qualify as Certificate Consumers must supply the following additional information:
 
+   * URL from which to download its software product intended for use by the general public for browing the Web securely;
+     
    * URL or other evidence demonstrating that it provides updates for its membership-qualifying software product at least every 6 months;
 
    * URL to its statement requiring Certificate Issuer compliance with the TLS Baseline Requirements;
 
    * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list; and
 
-   * URL for its criteria for adding and removing certificates from such list.
+   * URL or other evidence explaining its process for adding or removing a CA certificate from such list.
 
 **(d)**  There is a mandatory six-month probationary period during which an Applicant must attend at least 30% of all SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period and meeting all requirements of section 3(a) or 3(b), an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member, by a Ballot among the Members, that the Applicant meets the requirements of section 3(a) or 3(b). Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
@@ -88,13 +92,15 @@ These audit reports must also meet the following requirements:
 
    **(a) Certificate Consumer:** A Certificate Consumer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
-   * it ceases to maintain a list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from the TLS certificate to a root certificate in its root store;
+   * six (6) months have elapsed since it last updated its membership-qualifying software product;
 
-   * it ceases to maintain criteria for adding and removing root certificates from its root store;
+   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements;
+   
+   * its membership-qualifying software product ceases to use a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
 
-   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements; or
-
-   * six (6) months have elapsed since it last updated its membership-qualifying software product.
+   * it ceases to publish such list of CA certificates used to validate the chain of trust; **_or_**
+  
+   * it ceases to publish how it adds or removes a CA certificate from such list.
 
    **(b) Certificate Issuer:** A Certificate Issuer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
