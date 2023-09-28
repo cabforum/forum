@@ -76,7 +76,7 @@ These audit reports must also meet the following requirements:
 
 **(c)** Applicants that qualify as Certificate Consumers must supply the following additional information:
 
-   * URL from which to download its software product intended for use by the general public for browing the Web securely;
+   * URL from which to download its software product intended for use by the general public for browsing the Web securely;
      
    * URL or other evidence demonstrating that it provides updates for its membership-qualifying software product at least every 6 months;
 
