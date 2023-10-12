@@ -1,16 +1,16 @@
 # Server Certificate Working Group Charter - Version 1.3
 
-The Server Certificate Working Group ("SCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights (IPR) Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
+The Server Certificate Working Group ("SCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights ("IPR") Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
 
 **1. Scope:** The authorized scope of the SCWG shall be as follows:
 
-  (a) To specify Baseline Requirements, Extended Validation Guidelines, and other acceptable practices for the issuance and management of SSL/TLS server certificates used for authenticating servers accessible through the Internet.
+  (a) To specify Baseline Requirements, Extended Validation Guidelines, and other acceptable practices for the issuance and management of TLS server certificates used for authenticating servers accessible through the Internet;
   
-  (b) To update such requirements and guidelines from time to time, in order to address both existing and emerging threats to online security, including responsibility for the maintenance of and future amendments to the current CA/Browser Forum TLS Baseline Requirements and Extended Validation Guidelines.
+  (b) To update such requirements and guidelines from time to time, in order to address both existing and emerging threats to online security, including responsibility for the maintenance of and future amendments to the current Baseline Requirements for the Issuance and Management of Publicly-Trusted TLS Server Certificates ("TLS BRs") and the Guidelines for the Issuance and Management of Extended Validation Certificates ("EVGs"); and
   
   (c) To perform such other activities that are ancillary to the primary activities listed above.
 
-**Out of Scope:** The SCWG will not address certificates intended to be used primarily for code signing, S/MIME, time-stamping, VoIP, IM, or Web services. The SCWG will not address the issuance, or management of certificates by enterprises that operate their own Public Key Infrastructure for internal purposes only, and for which the Root Certificate is not distributed by any Application Software Supplier.
+**Out of Scope:** The SCWG will not address certificates intended to be used primarily for code signing, S/MIME, time-stamping, VoIP, IM, or Web services. The SCWG will not address the issuance, or management of certificates by enterprises that operate their own Public Key Infrastructure for internal purposes only, and for which the Root Certificate is not distributed by any Certificate Consumer.
 
 **2. Anticipated End Date:** None.
 
@@ -28,7 +28,7 @@ The SCWG shall consist of two classes of Voting Members: Certificate Issuers and
 These audit reports must also meet the following requirements:
   * They must report on the operational effectiveness of controls for a historic period of at least sixty (60) days;
   * No more than twenty-seven (27) months have elapsed since the beginning of the reported-on period and no more than fifteen (15) months since the end of the reported-on period; and
-  * The audit report was prepared by a Qualified Auditor (see the Forum's TLS Baseline Requirements).
+  * The audit report was prepared by a Qualified Auditor, as defined in the TLS BRs.
 
 **_and_**
 
@@ -40,7 +40,7 @@ These audit reports must also meet the following requirements:
 
 (2) it provides updates for its membership-qualifying software product at least every 6 months to ensure that customers of the Certificate Consumer are getting regular security patches;
 
-(3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS Baseline Requirements;
+(3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS BRs;
 
 (4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
 
@@ -48,29 +48,33 @@ These audit reports must also meet the following requirements:
 
 (6) it publishes how it adds or removes a CA certificate from such list.
 
-   **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which any representative of a Probationary Member MUST attend at least 30% of SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). 
+   **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which any representative of a Probationary Member MUST attend at least 30% of SCWG teleconferences (not counting subcommittee meetings) and at least one SCWG face-to-face meeting (either physically or virtually). 
    
-   **(d)** The SCWG includes Associate Members and Interested Parties, as set forth in sections 3.1 and 3.2 of the Bylaws. 
+   A Probationary Member may participate in SCWG Meetings, Teleconferences, and on the SCWG's discussion lists, but may not propose or endorse ballots or take part in voting, except on special straw polls of the SCWG (e.g. when selecting meeting dates, locations, etc.).
+   
+   **(d)** The SCWG includes Associate Members and Interested Parties, whose qualifications and privileges are set forth in sections 3.1 and 3.2 of the Bylaws, respectively. 
 
 **4. Applications for Membership**
 
 **(a)** Applicants for membership must supply the following information:
 
-   * Confirmation that the applicant meets the requirements in either 3(a) or 3(b), and if it satisfies both, then an indication of the single category under which the applicant wishes to apply;
+   * The Forum's IPR Policy Agreement duly signed by a person with authority to bind the organization;
 
-   * The organization name, as they wish it to appear on the Forum website and in official Forum documents.
+   * Confirmation that the Applicant meets the requirements in either 3(a) or 3(b), and if it satisfies both, then an indication of the single category under which the Applicant wishes to apply;
 
-   * URL of the applicant's main website.
+   * The organization name, as they wish it to appear on the Forum website and in official Forum documents;
 
-   * Names and email addresses of employees who will participate in the SCWG and Forum as representatives.
+   * URL of the Applicant's main website;
+
+   * Names and email addresses of employees who will participate in the SCWG and Forum as representatives; **_and_**
 
    * Emergency contact information for security issues related to certificate trust.
 
 **(b)** Applicants that qualify as Certificate Issuers must supply the following additional information:
 
-   * URL of the current qualifying audit report.
+   * URL of the current qualifying audit report;
 
-   * The URLs of three web pages that comply with section 2.2 of the TLS Baseline Requirements (respectively secured with a valid, a revoked, and an expired certificate).
+   * The URLs of three web pages that comply with section 2.2 of the TLS Baseline Requirements (respectively secured with a valid, a revoked, and an expired certificate); **_and_**
 
    * Links or references to an issued end-entity certificate that demonstrates it being treated as valid by a Certificate Consumer Member.
 
@@ -82,11 +86,11 @@ These audit reports must also meet the following requirements:
 
    * URL to its statement requiring Certificate Issuer compliance with the TLS Baseline Requirements;
 
-   * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list; and
+   * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list; **_and_**
 
-   * URL or other evidence explaining its process for adding or removing a CA certificate from such list.
+   * URL to documentation explaining its process for adding or removing a CA certificate from such list.
 
-**(d)**  There is a mandatory six-month probationary period during which an Applicant must attend at least 30% of all SCWG teleconferences and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period and meeting all requirements of section 3(a) or 3(b), an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member, by a Ballot among the Members, that the Applicant meets the requirements of section 3(a) or 3(b). Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Member has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
+**(d)**  There is a mandatory six-month probationary period during which any representative of an Applicant must attend at least 30% of all SCWG teleconferences (not counting subcommittee meetings) and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period and meeting all requirements of section 3(a) or 3(b), an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member, by a Ballot among the Members, that the Applicant meets the requirements of section 3(a) or 3(b). Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Applicant has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
 **5. Ending SCWG Membership:** Members may resign from the SCWG at any time. Resignation or other form of membership termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
@@ -108,23 +112,21 @@ These audit reports must also meet the following requirements:
    
    * its membership-qualifying audit is revoked, rescinded or withdrawn;
    
-   * fifteen (15) months have elapsed since the end of the audit period of its last membership-qualifying audit; or
+   * fifteen (15) months have elapsed since the end of the audit period of its last membership-qualifying audit; **_or_**
    
    * its currently-issued certificates are no longer treated as valid by at least one (1) Certificate Consumer Member of the SCWG.
 
-**(c) Suspension Procedure:** Any Member who believes any of the above circumstances is true of any other Member may report that Member on the SCWG Public Mail List. The SCWG Chair will then investigate, including asking the reported Member for an explanation or appropriate documentation. If evidence of continued qualification for voting membership is not forthcoming from the reported Member within five (5) working days, the Chair will announce that such Member is suspended and has become a Probationary Member, such announcement to include the clause(s) from the above list under which the suspension has been made.
+**(c) Suspension Procedure:** Any Member who believes any of the above circumstances is true of any other Member may report that Member on the SCWG Public Mail List. The SCWG Chair will then investigate, including asking the reported Member for an explanation or appropriate documentation. If evidence of continued qualification for voting membership is not forthcoming from the reported Member within five (5) working days, the Chair will announce that such Member is suspended and has become a Probationary Member, such announcement to include the clause(s) from one of the above lists under which the suspension has been made.
 
 A Probationary Member who believes that it then meets the membership criteria under the relevant clauses shall post evidence to the SCWG Public Mail List. The SCWG Chair will examine the evidence, and if appropriate, reinstate the member, by public announcement.
-
-A Probationary Member may participate in SCWG and Forum Meetings, Teleconferences, and on the SCWG and Forum's discussion lists, but may not propose or endorse ballots or take part in any form of voting.
 
 Votes cast before the Voting Member's suspension is announced will stand.
 
 **6. Voting structure:** In order for a ballot to be adopted by the SCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each voting class must vote in favor of a ballot for it to be adopted. Quorum is half the average number of voting members (cumulative of both Certificate Issuer and Certificate Consumer classes) that have participated in the previous three SCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three meetings have not yet occurred, quorum is ten (10).
 
-**7. Summary of the work that the WG plans to accomplish:** As specified in Scope section above.
+**7. Summary of the work that the SCWG plans to accomplish:** As specified in Scope section above.
 
-**8. Summary of major WG deliverables and guidelines:** As specified in Scope section above.
+**8. Summary of major SCWG deliverables and guidelines:** As specified in Scope section above.
 
 **9. Primary means of communication:** listserv-based email, periodic teleconference calls, and face-to-face meetings.
 
