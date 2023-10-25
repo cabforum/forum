@@ -142,7 +142,7 @@ Votes cast before the announcement of a Member’s suspension will stand.
 
 #### 5.1 Voting Structure
 
-The rules described in Bylaw 2.5 SHALL apply to all ballots, including Draft Guideline Ballots.
+The rules described in the latest CA/Browser Forum Bylaws SHALL apply to all ballots, including Draft Guideline Ballots.
 
 In order for a ballot to be adopted by the Code Signing Certificates Working Group, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. 
 
