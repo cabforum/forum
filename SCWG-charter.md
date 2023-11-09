@@ -42,11 +42,13 @@ These audit reports must also meet the following requirements:
 
 (3) it has public documentation stating that it requires Certificate Issuers to comply with the TLS BRs;
 
-(4) its membership-qualifying software product uses a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
+(4) its membership-qualifying software product validates the chain of trust from a TLS certificate to a CA certificate in one or more  lists of trusted CA certificates or public keys, root stores, or similar mechanisms, where the membership-qualifying software product  trusts only: (i) CA certificates that have audit statements demonstrating ongoing compliance with the TLS BRs, or (ii) such CA certificates that have been specifically configured to be trusted by the user;
 
-(5) it publishes the list of CA certificates used to validate the chain of trust from a TLS certificate to a CA certificate in such list;  **_and_**
+(5) it provides public documentation explaining which list(s) of CA certificates or public keys, root store(s), or simliar mechanisms are used for determining whether a certificate chain is valid and trusted;
 
-(6) it publishes how it adds or removes a CA certificate from such list.
+(6) it provides public documentation explaining the steps that Certificate Issuers need to take in order to have their CA certificates trusted or distrusted by the membership-qualifying software product; **_and_**
+
+(7) it provides public documentation explaining how to contact it regarding violations of the TLS BRs, security incidents, or other issues or concerns related to certificate validation by the membership-qualifying software product.
 
    **(c) Probationary Member:** An organization that does not meet the requirements in (a) or (b) may be granted Probationary Member status, as set forth in Sections 2.1 and 3.3 of the Bylaws, for a period of time to be designated by the SCWG. In addition to the requirement in (a) or (b) above, section 4(d) establishes a six-month period during which any representative of a Probationary Member MUST attend at least 30% of SCWG teleconferences (not counting subcommittee meetings) and at least one SCWG face-to-face meeting (either physically or virtually). 
    
@@ -58,63 +60,69 @@ These audit reports must also meet the following requirements:
 
 **(a)** Applicants for membership must supply the following information:
 
-   * The Forum's IPR Policy Agreement duly signed by a person with authority to bind the organization;
+(1) The Forum's IPR Policy Agreement duly signed by a person with authority to bind the organization;
 
-   * Confirmation that the Applicant meets the requirements in either 3(a) or 3(b), and if it satisfies both, then an indication of the single category under which the Applicant wishes to apply;
+(2) Confirmation that the Applicant meets the requirements in either 3(a) or 3(b), and if it satisfies both, then an indication of the single category under which the Applicant wishes to apply;
 
-   * The organization name, as they wish it to appear on the Forum website and in official Forum documents;
+(3) The organization name, as they wish it to appear on the Forum website and in official Forum documents;
 
-   * URL of the Applicant's main website;
+(4) URL of the Applicant's main website;
 
-   * Names and email addresses of employees who will participate in the SCWG and Forum as representatives; **_and_**
+(5) Names and email addresses of employees who will participate in the SCWG and Forum as representatives; **_and_**
 
-   * Emergency contact information for security issues related to certificate trust.
+(6) Emergency contact information for security issues related to certificate trust.
 
 **(b)** Applicants that qualify as Certificate Issuers must supply the following additional information:
 
-   * URL of the current qualifying audit report;
+(1) URL of the current qualifying audit report;
 
-   * The URLs of three web pages that comply with section 2.2 of the TLS Baseline Requirements (respectively secured with a valid, a revoked, and an expired certificate); **_and_**
+(2) The URLs of three web pages that comply with section 2.2 of the TLS Baseline Requirements (respectively secured with a valid, a revoked, and an expired certificate); **_and_**
 
-   * Links or references to an issued end-entity certificate that demonstrates it being treated as valid by a Certificate Consumer Member.
+(3) Links or references to an issued end-entity certificate that demonstrates it being treated as valid by a Certificate Consumer Member.
 
 **(c)** Applicants that qualify as Certificate Consumers must supply the following additional information:
 
-   * URL from which to download its software product intended for use by the general public for browsing the Web securely;
+(1) URL from which to download its software product intended for use by the general public for browsing the Web securely;
      
-   * URL or other evidence demonstrating that it provides updates for its membership-qualifying software product at least every 6 months;
+(2) evidence demonstrating that it provides updates for its membership-qualifying software product at least every 6 months;
 
-   * URL to its statement requiring Certificate Issuer compliance with the TLS Baseline Requirements;
+(3) URL to public documentation requiring Certificate Issuer compliance with the TLS Baseline Requirements;
 
-   * URL for its list of CA certificates that its membership-qualifying software product uses to validate the chain of trust from a TLS certificate to a CA certificate in such list; **_and_**
+(4) evidence demonstrating that it meets the requirements of section 3(b)(4);
 
-   * URL to documentation explaining its process for adding or removing a CA certificate from such list.
+(5) URL to public documentation explaining which list(s) of CA certificates or public keys, root store(s), or simliar mechanisms are used for determining whether a certificate chain is valid and trusted;
 
-**(d)**  There is a mandatory six-month probationary period during which any representative of an Applicant must attend at least 30% of all SCWG teleconferences (not counting subcommittee meetings) and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period and meeting all requirements of section 3(a) or 3(b), an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member that challenges the Applicant's adherence to all of the requirements of section 3(a) or 3(b), by a Ballot among the Members. Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Applicant has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
+(6) URL to public documentation explaining the steps that Certificate Issuers need to take in order to have their CA certificates trusted or distrusted by the membership-qualifying software product; **_and_**
+
+(7) URL to public documentation explaining how to contact it regarding violations of the TLS BRs, security incidents, or other issues or concerns related to certificate validation by the membership-qualifying software product.
+
+**(d)**  There is a mandatory six-month probationary period during which any representative of an Applicant must attend at least 30% of all SCWG teleconferences (not counting subcommittee meetings) and at least one SCWG face-to-face meeting (either physically or virtually). After successful completion of the mandatory probationary period and meeting all requirements of the Bylaws and section 3(a) or 3(b), an Applicant may become a Voting Member, if the SCWG determines by consensus among the Members during a Meeting or Teleconference, or upon the request of any Member that challenges the Applicant's adherence to all of the requirements of the Forum's Bylaws and section 3(a) or 3(b), by a Ballot among the Members. Acceptance by consensus shall be determined, or a Ballot of the Members shall be held, as soon as the Applicant indicates that it has presented all information required and has responded to all follow-up questions from the SCWG and the Applicant has complied with the requirements of Section 5.5 of the CA/Browser Forum Bylaws.
 
 **5. Ending SCWG Membership:** Members may resign from the SCWG at any time. Resignation or other form of membership termination does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
    **(a) Certificate Consumer:** A Certificate Consumer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
-   * six (6) months have elapsed since it last updated its membership-qualifying software product;
+(1) six (6) months have elapsed since it last updated its membership-qualifying software product;
 
-   * it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements;
+(2) it ceases to require that Certificate Issuers comply with the TLS Baseline Requirements;
    
-   * its membership-qualifying software product ceases to use a list of CA certificates to validate the chain of trust from a TLS certificate to a CA certificate in such list;
+(3) its membership-qualifying software product ceases to use a list of CA certificates or public keys, root store, or similar mechanism to trust only CA certificates that have audit statements demonstrating ongoing compliance with the TLS BRs;
 
-   * it ceases to publish such list of CA certificates used to validate the chain of trust; **_or_**
+(4) it ceases to provide public documentation explaining which list(s) of CA certificates or public keys, root store(s), or simliar mechanisms are used for determining whether a certificate chain is valid and trusted; 
   
-   * it ceases to publish how it adds or removes a CA certificate from such list.
+(5) it ceases to provide public documentation explaining the steps that Certificate Issuers need to take in order to have their CA certificates trusted or distrusted by the membership-qualifying software product; **_or_**
+
+(6) it ceases to provide public documentation explaining how to contact it regarding violations of the TLS BRs, security incidents, or other issues or concerns related to certificate validation by the membership-qualifying software product.
 
    **(b) Certificate Issuer:** A Certificate Issuer Member is suspended, and its right to vote automatically ceases, if any of the following become true:
 
-   * it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
+(1) it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
    
-   * its membership-qualifying audit is revoked, rescinded or withdrawn;
+(2) its membership-qualifying audit is revoked, rescinded or withdrawn;
    
-   * fifteen (15) months have elapsed since the end of the audit period of its last membership-qualifying audit; **_or_**
+(3) fifteen (15) months have elapsed since the end of the audit period of its last membership-qualifying audit; **_or_**
    
-   * its currently-issued certificates are no longer treated as valid by at least one (1) Certificate Consumer Member of the SCWG.
+(4) its currently-issued certificates are no longer treated as valid by at least one (1) Certificate Consumer Member of the SCWG.
 
 **(c) Suspension Procedure:** Any Member who believes any of the above circumstances is true of any other Member may report that Member on the SCWG Public Mail List. The SCWG Chair will then investigate, including asking the reported Member for an explanation or appropriate documentation. If evidence of continued qualification for voting membership is not forthcoming from the reported Member within five (5) working days, the Chair will announce that such Member is suspended and has become a Probationary Member, such announcement to include the clause(s) from one of the above lists under which the suspension has been made.
 
