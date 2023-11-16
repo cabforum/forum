@@ -21,7 +21,7 @@ The SCWG shall consist of two classes of Voting Members: Certificate Issuers and
    **(a) Certificate Issuer:** The Certificate Issuer voting class shall consist of eligible organizations meeting the following criteria:
    
 (1) it operates a certification authority that has a publicly-available audit report or attestation statement that complies with one of the following schemes:
-  * “WebTrust for CAs v2.7 - SSL Baseline with Network Security, or newer”; or
+  * "WebTrust for CAs v2.7 - SSL Baseline with Network Security, or newer"; or
   * ETSI EN 319 411-1 (v1.3.1 or newer) or ETSI EN 319 411-2 (v2.4.1 or newer) (with DVCP, OVCP, IVCP, QCP-w, QCP-w, QNCP-w, or QEVCP-w); or
   * If a Government Certificate Issuer is required by its Certificate Policy to use a different internal audit scheme, it MAY use such scheme provided that the audit either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria that are available for public review.
 
@@ -32,7 +32,7 @@ These audit reports must also meet the following requirements:
 
 **_and_**
 
-(2) it actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. 
+(2) it actively issues certificates for use in web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Certificate Consumer Member. 
 
    **(b) Certificate Consumer:** The Certificate Consumer voting class shall consist of eligible organizations meeting the following criteria:  
    
