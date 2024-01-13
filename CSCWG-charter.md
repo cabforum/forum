@@ -1,4 +1,4 @@
-# Code-Signing Working Group Charter - Version 1.0
+# Code-Signing Working Group Charter - Version 1.1
 
 ## Introduction
 
@@ -39,6 +39,8 @@ h. Certificate profiles for code signing certificates and Issuing CA certificate
 i. Certificate issuance and revocation
 
 j. CA operational practices, physical/logical security, etc.
+
+Additionally, the authorized scope of the CSCWG SHALL be to discuss, adopt, and maintain policies, frameworks and sets of standard related to the issuance of management of timestamp certificates by third-party Certificate Issuers under a publicly trusted root, limited to timestamp certificates containing a Certificate Policy Identifier value of "2.23.140.1.4.2" in their certificatePolicies extension.
 
 The CSCWG SHALL exercise caution to ensure that its work product does not impede the issuance of other EKU types.
 
@@ -140,9 +142,11 @@ Votes cast before the announcement of a Member’s suspension will stand.
 
 #### 5.1 Voting Structure
 
-The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots, including Draft Guideline Ballots.
+The rules described in the latest CA/Browser Forum Bylaws SHALL apply to all ballots, including Draft Guideline Ballots.
 
-In order for a ballot to be adopted by the Code Signing Certificates Working Group, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three (3) Code Signing Certificate Working Group Meetings or Teleconferences (not counting subcommittee meetings thereof). For transition purposes, if three (3) meetings have not yet occurred, quorum is three (3).
+In order for a ballot to be adopted by the Code Signing Certificates Working Group, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. 
+
+Quorum is defined as more than half the average number of Voting Members that have participated in the previous three (3) Code Signing Certificate Working Group Meetings or Teleconferences (not counting subcommittee meetings thereof).
 
 #### 5.2 Other Organizational Matters
 
