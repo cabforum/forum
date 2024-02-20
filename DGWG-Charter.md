@@ -3,13 +3,16 @@
 The mission of the Definitions and Glossary Working Group is to: establish a glossary document encapsulating a set of definitions for terms used within the CA/Browser Forum and its Guidelines.
 
 **End date**: November 1, 2026
+
 **Initial Chair / Vice-Chair**: Tim Hollebeek / Tim Callan
+
 **Meeting Schedule**:
 
 * Conference Call; time and frequency TBD by consensus discussion in the CWG
 * Face-to-face discussions up to 3 times annually
 
 **Types of Voting Members Eligible to Participate**: Certificate Issuers and Certificate Consumers
+
 **Voting Structure for WG**: See Bylaws and Section 3.2 of this Charter
 
 ## **1.** **Working Group Scope**
