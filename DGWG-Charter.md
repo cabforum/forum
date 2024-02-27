@@ -1,6 +1,17 @@
-# Definitions and Glossary Working Group Charter
+---
+title: Definitions and Glossary Working Group Charter
+subtitle: Version 1.0
+author:
+  - CA/Browser Forum
+date: DD MMMM, YYYY
+copyright: |
+  Copyright 2024 CA/Browser Forum
+  This work is licensed under the Creative Commons Attribution 4.0 International license.
+---
 
-The mission of the Definitions and Glossary Working Group is to: establish a glossary document encapsulating a set of definitions for terms used within the CA/Browser Forum and its Guidelines.
+## Introduction
+
+The mission of the Definitions and Glossary Working Group is: establish a glossary document encapsulating a set of definitions for terms used within the CA/Browser Forum and its Guidelines.
 
 **End date**: November 1, 2026
 
