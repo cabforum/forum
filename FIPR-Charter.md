@@ -8,7 +8,15 @@ Definitions found in the Bylaws or in the IPR Policy shall apply to capitalized 
 
 **2. Scope**
 
-The primary activity of the FIPR shall be to review and propose revisions to the Forum’s IPR Policy, IPR Policy Agreement, and Exclusion Notice Template ("Deliverables"). The FIPR may perform other activities ancillary to this primary activity. The FIPR will not adopt Final Guidelines or Final Maintenance Guidelines.
+The primary activity of the FIPR shall be to review and propose revisions to the Forum’s IPR Policy, IPR Policy Agreement, and Exclusion Notice Template ("Deliverables").     Discussion will include:
+
+(a) How to address contributions provided by non-Forum Members (e.g., invited experts, guest speakers, researchers, etc.);
+
+(b) If any clarifications and/or changes are necessary to the IPR Policy in view of recent events; and
+
+(c) A potential contributor license agreement for the Forum’s GitHub repository and policy for contributing to the Forum’s GitHub repository.
+
+The FIPR may perform other activities ancillary to this primary activity. The FIPR will not adopt Final Guidelines or Final Maintenance Guidelines.
 
 **3. Chairs and Contacts**
 
@@ -16,7 +24,7 @@ The proposer of the ballot adopting this Charter, Ben Wilson, will act as organi
 
 **4. Participation**
 
-The FIPR welcomes the participation of any Forum Voting Member interested in this work. Voting Members initially declaring their participation in this Subcommittee are: Amazon, Apple, DigiCert, GoDaddy, Google, HARICA, Let’s Encrypt, Mozilla, Sectigo, and SwissSign.
+The FIPR welcomes the participation of any Forum Voting Member interested in this work. Voting Members initially declaring their participation in this Subcommittee are: Amazon, Apple, DigiCert, GoDaddy, Google, HARICA, Let’s Encrypt, Mozilla, and Sectigo.
 
 **5. Communication**
 
