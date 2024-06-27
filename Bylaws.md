@@ -2,7 +2,9 @@
 title: Bylaws of the CA/Browser Forum
 subtitle: Version 2.5
 author:
+
 - CA/Browser Forum
+
 date: July 20, 2023  
 copyright: |
   Copyright 2023 CA/Browser Forum
@@ -155,6 +157,7 @@ Interested Parties may participate in Forum activities in the following ways:
 Interested Parties are required to comply with the provisions of the IPR Policy Agreement and these Bylaws. Interested Parties may lose their status as Interested Parties by vote of the Voting Members, in the Voting Members’ sole discretion.
 
 Interested Parties apply by sending an e-mail to the Questions List, which includes:
+
 * The signed IPR Policy Agreement
 * The CWGs and any subcommittees in which they wish to join and Contribute.
 
@@ -274,8 +277,7 @@ These activities shall be followed by any Chartered Working Group. Working Group
 
 ### 5.3.2 Rechartering, Extending and Dissolving Working Groups
 
- 1. Rechartering: CWGs may only amend their charters via the ballot procedure described in Section
-2.3 above. After Forum approval of an amended CWG charter, the new charter takes effect immediately, or as specified in the amending ballot. This amendment process does not itself require an Interim WG Chair to be appointed, unless specified in the amending ballot.
+ 1. Rechartering: CWGs may only amend their charters via the ballot procedure described in Section 2.3 above. After Forum approval of an amended CWG charter, the new charter takes effect immediately, or as specified in the amending ballot. This amendment process does not itself require an Interim WG Chair to be appointed, unless specified in the amending ballot.
 
  2. Extending: Unless extended, a CWG will expire on the date specified in its charter, if any. To extend a CWG charter, the Forum Chair may, at the Forum Chair’s discretion, conduct a fourteen (14) day poll (yes/no regarding the extension) of the Forum, initiated through the Public List. If no objection is made to the extension during the poll, the extension is deemed approved. If an objection (“no” vote) is made during the poll, an extension shall be determined using the ballot procedure described in Section 2.3 above. This provision may only be used to continue the work of the CWG under the existing charter and scope.
 
@@ -455,7 +457,8 @@ Optional: There is a waiting period of at least six (6) months for a Certificate
 1. **Working Group Scope**
 
    1.1 **Summary of Working Group Goals and Objectives**
-[Describe goals and objectives of WG. What is the purpose of the WG, what do you hope to accomplish, why is this group important/necessary? Will this group leverage any existing work or collaborate with other groups?]
+
+   [Describe goals and objectives of WG. What is the purpose of the WG, what do you hope to accomplish, why is this group important/necessary? Will this group leverage any existing work or collaborate with other groups?]
 
    1.2 **Success Criteria**
      * Prepare a ballot to create guidelines for the [insert name] Working Group.
@@ -463,14 +466,17 @@ Optional: There is a waiting period of at least six (6) months for a Certificate
      * Work with Forum to have guidelines for the [insert name] Working Group be approved and adopted.
 
    1.3 **Minimum Requirements**
-Each WG must meet the following minimum requirements:
+
+   Each WG must meet the following minimum requirements:
+
      * Comply with all applicable laws, rules and regulations.
      * Comply with the CAB Forum IPR Policy and Bylaws.
      * Follow RFC 3647 and other technical requirements regarding the preparation of minutes and the use of public mailing lists.
      * [Any other requirements applicable to this specific WG?]
 
    1.4 **Out of Scope**
-[What is out of scope for this WG, what are items that this WG will not work on? For example, solving world hunger, fixing global warming, boiling the ocean]
+   
+   [What is out of scope for this WG, what are items that this WG will not work on? For example, solving world hunger, fixing global warming, boiling the ocean]
 
 2. **Summary of Work**
 
@@ -593,6 +599,7 @@ F2F meeting participants will have the opportunity to label themselves as desiri
 ### Official Photography
 
 Any photographer engaged on behalf of the CA/B Forum should not photograph individuals wearing the currently-designated RED lanyard that is provided to those that requested “Photograph Privacy”, should make reasonable efforts to avoid photographing small groups with one or more members wearing that lanyard, and should not publish small group photographs with such individuals in them. There are two important exceptions to this policy:
+
  * CA/B Forum, Working Group and Subcommittee officers (Chairs, Vice-Chairs) performing their official responsibilities may be photographed.
  * Photographs of large groups may contain incidental images of such individuals and we will not attempt to redact those. Specifically, photographs of panels and the like (e.g., plenaries) are expected to contain all individuals regardless of labelling.
 
