@@ -361,7 +361,7 @@ All Members shall abide by the CAB Forum Photography Policy, which is attached t
 **Questions Mail List:** The email list-serv currently located at questions@cabforum.org maintained by the Forum for communications from the public to the Forum.
 
 
-# Exhibit A: CAB Forum IPR Policy Agreement {#exh-a-ipr-agreement}
+# Exhibit A: CAB Forum IPR Policy Agreement
 
 This CAB Forum IPR Policy Agreement (the "Agreement") constitutes a binding contract amongst all participants who make Contributions during the process of developing a Draft Guideline for the purpose of incorporating such material into a Draft Guideline or a Final Guideline of the CA / Browser Forum.
 
@@ -391,7 +391,7 @@ Participant Organization Name (if entity)
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# Exhibit B: CAB Forum Code of Conduct (the "Code") {#exh-b-code-of-conduct}
+# Exhibit B: CAB Forum Code of Conduct (the "Code")
 
 The CAB Forum (the "Forum") is comprised of a global group of professionals with differences in language, skills, expertise, experience, and backgrounds. To maintain a professional and productive environment, it is necessary for Members of the Forum to follow the letter and spirit of this Code. This Code applies to all official Forum activities, such as meetings, teleconferences, mailing lists, conferences, and other Forum functions. The Forum is committed to maintaining a professional and respectful environment.
 
@@ -433,7 +433,7 @@ All Member representatives are expected to behave in a collegial and professiona
 
 Adapted from the WHATWG Code of Conduct [https://wiki.whatwg.org/wiki/Code_of_Conduct], the W3C Code of Ethics and Professional Conduct [https://www.w3c.org/Consortium/cepc/], and the Citizen Code of Conduct [citizencodeofconduct.org].
 
-# Exhibit C: CAB Forum Charter Template {#exh-c-charter-template}
+# Exhibit C: CAB Forum Charter Template
 [insert name] Working Group Charter
 
 The **mission** of the [insert name] Working Group is to:
@@ -580,7 +580,7 @@ To promote the widest adoption of the CAB Forum Guidelines, CAB Forum seeks to i
 
 This charter for the [insert name] Working Group has been created according to Section 5.3.1 of the Bylaws of the CAB Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence.
 
-# Exhibit D: CAB Forum Photography Policy {#exh-d-photo-policy}
+# Exhibit D: CAB Forum Photography Policy
 
 This policy is based on the IETF meetings photography policy published at https://www.ietf.org/about/groups/iesg/statements/meeting-photography-policy/.
 
