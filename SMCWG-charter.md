@@ -127,7 +127,7 @@ in accordance with Bylaw 4.1(c).
 
 ##### 3.2.1. Eligibility to Participate
 
-The SMCWG SHALL consist of two classes of voting members, Certificate Issuers
+The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers
 and Certificate Consumers meeting the eligibility criteria below.
 
 1. A Certificate Issuer eligible for voting membership in the SMCWG MUST have
