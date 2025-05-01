@@ -113,7 +113,7 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
     * The year in the “Copyright” information,
     * Footers with page numbers,
     * Links to other sections within the document, and
-    * Reifying relative effective dates (e.g. "6 months after publication") into absolute dates (e.g. "Month DD, YYYY").
+    * Converting relative effective dates (e.g. "6 months after publication") into absolute dates (e.g. "Month DD, YYYY").
 
     The Chair or Vice-Chair of the Forum or of a CWG is also allowed to perform the following changes, unless the ballot explicitly updates this information:
    
