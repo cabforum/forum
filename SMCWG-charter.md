@@ -99,6 +99,7 @@ The primary deliverable shall be scoped as follows:
 - CA operational practices, physical/logical security, etc.
 
 In addition to the primary deliverable, the SMCWG MAY also address:
+
 - Identity validation for natural persons and legal entities, in the context of
   S/MIME certificates
 
