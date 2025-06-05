@@ -4,71 +4,24 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 ## Introduction
 
-This introduction provides general information and context with an intent to
-assist the interpretation of this Charter.
+This introduction provides general information and context with an intent to assist the interpretation of this Charter.
 
-An S/MIME certificate contains a public key bound to an email address; and may
-also contain the identity of a natural person or legal entity that controls such
-email address. The key pair can then be used to sign, verify, encrypt, and
-decrypt email. An S/MIME certificate can be identified by the existence of an
-Extended Key Usage (EKU) Object Identifier (OID) of `1.3.6.1.5.5.7.3.4` for
-emailProtection.
+An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. An S/MIME certificate can be identified by the existence of an Extended Key Usage (EKU) Object Identifier (OID) of `1.3.6.1.5.5.7.3.4` for emailProtection.
 
-The objective of an S/MIME certificate is to provide cryptographic security
-services for electronic messaging applications, namely sender authentication,
-message integrity, and message privacy through encryption. For effective
-authentication and privacy, it is imperative that the CA validates the subject’s
-identity (if present) and its email address. The recipient of a digitally signed
-message can authenticate an email message to receive protection against email
-spoofing and can encrypt a response to the original sender by referring
-to the public key, email address, and distinguished name (if present) contained
+The objective of an S/MIME certificate is to provide cryptographic security services for electronic messaging applications, namely sender authentication, message integrity, and message privacy through encryption. For effective authentication and privacy, it is imperative that the CA validates the subject’s identity (if present) and its email address. The recipient of a digitally signed message can authenticate an email message to receive protection against email spoofing and can encrypt a response to the original sender by referring to the public key, email address, and distinguished name (if present) contained
 in an S/MIME certificate.
 
-The primary use case under consideration for the working group is a model
-whereby senders and recipients of email messages receive “reasonable assurance”
-that the other party to the communication identified in the certificate has
-control of the domain or email address being asserted. A variation of this
-primary use case is where an individual or organization digitally signs email to
-establish its authenticity and source of origin.
+The primary use case under consideration for the working group is a model whereby senders and recipients of email messages receive “reasonable assurance” that the other party to the communication identified in the certificate has control of the domain or email address being asserted. A variation of this primary use case is where an individual or organization digitally signs email to establish its authenticity and source of origin.
 
-Therefore, in order to provide reasonable assurance, it is crucial to establish
-a standard method to validate an email address and the subject’s identity (if
-present) prior to binding them to the public key. “Reasonable
-assurance” is to be determined and defined by this SMCWG through studying the
-existing methods that exist in the industry, as well as identity management
-frameworks and any applicable legislation.
+Therefore, in order to provide reasonable assurance, it is crucial to establish a standard method to validate an email address and the subject’s identity (if present) prior to binding them to the public key. “Reasonable assurance” is to be determined and defined by this SMCWG through studying the existing methods that exist in the industry, as well as identity management frameworks and any applicable legislation.
 
-An S/MIME certificate can also be used in an automated message with transfer
-agents that use cryptographic security services that do not require any human
-intervention, such as the signing of software-generated documents and the
-encryption of fax messages sent over the Internet. While these existing use
-cases are not in scope for the SMCWG, care will be exercised by the SMCWG to
-avoid unintended adverse effects to these uses. The security, stability and
-resiliency of the Internet shall be taken into consideration when the SMCWG
+An S/MIME certificate can also be used in an automated message with transfer agents that use cryptographic security services that do not require any human intervention, such as the signing of software-generated documents and the encryption of fax messages sent over the Internet. While these existing use cases are not in scope for the SMCWG, care will be exercised by the SMCWG to avoid unintended adverse effects to these uses. The security, stability and resiliency of the Internet shall be taken into consideration when the SMCWG
 forms its consensus. The SMCWG will consult other technical communities when and
 as necessary.
 
-The problem to be addressed by the working group is the absence of consistent
-and audited validation practices used by CAs in establishing the identity of the
-subject (if present) and verifying that the subscriber controls the email
-address. While there are methods for validating control of a domain that can be
-adopted from TLS certificates, there are currently no standard requirements for
-validating control of email addresses. Methods for validating identities in TLS
-certificates also exist and should be leveraged where possible, as well as other
-identity validation standards common in the industry.
-At least one method to efficiently validate an email address as well as
-developing a consistent profile for S/MIME certificates in order to facilitate
-technical interoperability across the Internet are also to be addressed by
-the SMCWG.
+The problem to be addressed by the working group is the absence of consistent and audited validation practices used by CAs in establishing the identity of the subject (if present) and verifying that the subscriber controls the email address. While there are methods for validating control of a domain that can be adopted from TLS certificates, there are currently no standard requirements for validating control of email addresses. Methods for validating identities in TLS certificates also exist and should be leveraged where possible, as well as other identity validation standards common in the industry. At least one method to efficiently validate an email address as well as developing a consistent profile for S/MIME certificates in order to facilitate technical interoperability across the Internet are also to be addressed by the SMCWG.
 
-The objective of the SMCWG is to provide documents that describe an integrated
-set of technologies, protocols, identity-proofing, lifecycle management, and
-auditing requirements that are necessary (but not sufficient) for the issuance
-and management of Publicly-Trusted S/MIME Certificates; Certificates that are
-trusted by virtue of the fact that their corresponding Root Certificate is
-distributed in widely-available application software. Such requirements are not
-mandatory for Certification Authorities unless and until they become adopted and
-enforced by relying–party Application Software Suppliers. 
+The objective of the SMCWG is to provide documents that describe an integrated set of technologies, protocols, identity-proofing, lifecycle management, and auditing requirements that are necessary (but not sufficient) for the issuance and management of Publicly-Trusted S/MIME Certificates; Certificates that are trusted by virtue of the fact that their corresponding Root Certificate is distributed in widely-available application software. Such requirements are not mandatory for Certification Authorities unless and until they become adopted and enforced by relying–party Application Software Suppliers. 
 
 ## 1. Scope
 
@@ -77,25 +30,18 @@ The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain polic
 The primary deliverable of the SMCWG shall include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" which shall be scoped as follows:
 
 - Verification of control over email addresses;
-- Identity validation for natural persons and legal entities, in the context of
-  S/MIME certificates;
-- Key management and certificate lifecycle (subject to coordination with other
-  Forum CWGs to ensure consistency and avoid redundancy);
-- Certificate profiles for S/MIME certificates and Issuing CA certificates
-  (including the appropriateness of extensions and when those extensions should
-  be present);
+- Identity validation for natural persons and legal entities, in the context of S/MIME certificates;
+- Key management and certificate lifecycle (subject to coordination with other Forum CWGs to ensure consistency and avoid redundancy);
+- Certificate profiles for S/MIME certificates and Issuing CA certificates (including the appropriateness of extensions and when those extensions should be present);
 - CA operational practices, physical/logical security, etc.
 
-Deliverables of the SMCWG SHALL be constrained to certificates
-that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically
-capable of such issuance.
+Deliverables of the SMCWG SHALL be constrained to certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
 
 The SMCWG may engage in discussions seeking to improve the adoption and usability of S/MIME certificates.
 
 ### 2. Charter Expiration
 
-The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw
-5.3.2(c).
+The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(c).
 
 ### 3. Personnel and Participation
 
@@ -108,14 +54,9 @@ in accordance with Bylaw 4.1(c).
 
 ##### 3.2.1. Eligibility to Participate
 
-The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers
-and Certificate Consumers, meeting the eligibility criteria below.
+The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers and Certificate Consumers, meeting the eligibility criteria below.
 
-1. A Certificate Issuer eligible for voting membership in the SMCWG MUST have
-   a publicly-available audit report or attestation statement based upon a
-   publicly-available audit criteria or attestation scheme relevant to the
-   issuance of S/MIME certificates. This includes, but is not limited to,
-   the following schemes and criteria:
+1. A Certificate Issuer eligible for voting membership in the SMCWG MUST have a publicly-available audit report or attestation statement based upon a publicly-available audit criteria or attestation scheme relevant to the issuance of S/MIME certificates. This includes, but is not limited to, the following schemes and criteria:
 
     * WebTrust for CAs v.2.0 or newer; or
     * ETSI EN 319 411-1, which includes normative references to ETSI EN 319 401
@@ -132,14 +73,9 @@ and Certificate Consumers, meeting the eligibility criteria below.
       duly authorized or licensed to conduct audits according to the relevant
       audit criteria or attestation scheme used.
 
-   In addition, the Certificate Issuer MUST actively issue S/MIME certificates
-   that are treated as valid by at least one Certificate Consumer that produces
-   a mail user agent or email service provider that processes S/MIME
-   certificates.
+   In addition, the Certificate Issuer MUST actively issue S/MIME certificates that are treated as valid by at least one Certificate Consumer that produces a mail user agent or email service provider that processes S/MIME certificates.
 
-2. A Certificate Consumer eligible for voting membership in the SMCWG must
-   produce and maintain a mail user agent (web-based or application based) or
-   email service provider that processes S/MIME certificates.
+2. A Certificate Consumer eligible for voting membership in the SMCWG must produce and maintain a mail user agent (web-based or application based) or an email service provider that processes S/MIME certificates.
 
 The SMCWG SHALL allow participation by Associate Members and Interested Parties, whose qualifications and privileges are set forth in sections 3.1 and 3.2 of the Bylaws, respectively.
 
@@ -187,14 +123,6 @@ The SMCWG SHALL allow participation by Associate Members and Interested Parties,
    of the SMCWG as determined by consensus during a SMCWG Meeting or
    Teleconference, or upon the request of any Member of the SMCWG, by a Ballot
    among Members of the SMCWG.
-
-To confirm the list of initial Members, at least two-thirds of the organizations
-on the Chair's list of proposed, qualifying Members SHALL publicly vote in favor
-of adopting the list of Members. If the initial list fails to be adopted, the
-Chair SHALL consider the feedback and MAY update the initial list of proposed,
-qualifying Members as a result, and a second vote using these same rules shall
-be performed. If an initial list of Members cannot be agreed upon, the SMCWG
-shall be dissolved.
 
 ##### 3.2.3. Suspension and Cessation of Working Group Membership
 
