@@ -70,19 +70,6 @@ distributed in widely-available application software. Such requirements are not
 mandatory for Certification Authorities unless and until they become adopted and
 enforced by relying–party Application Software Suppliers. 
 
-## Chartering of the S/MIME Certificate Working Group
-
-A Chartered Working Group (“SMCWG”) is created to perform the activities as
-specified in this Charter, subject to the terms and conditions of the
-[CA/Browser Forum Bylaws](https://cabforum.org/bylaws/) and [Intellectual
-Property Rights (IPR) Policy](https://cabforum.org/ipr-policy/), as such
-documents may change from time to time. This charter for the S/MIME Certificate
-Working Group has been created according to CAB Forum Bylaw 5.3.1. In the event
-of a conflict between this Charter and any provision in either the Bylaws or
-the IPR Policy, the provision in the Bylaws or IPR Policy SHALL take
-precedence. The definitions found in the Forum’s Bylaws SHALL apply to
-capitalized terms in this Charter.
-
 ### 1. Scope
 
 The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain
