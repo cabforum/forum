@@ -74,25 +74,23 @@ enforced by relying–party Application Software Suppliers.
 
 The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain
 policies, frameworks, and sets of standards related to the issuance and
-management of S/MIME certificates by third-party CAs under a publicly trusted
+management of S/MIME certificates by CAs under a publicly trusted
 root.
 
-The primary deliverable shall be scoped as follows:
+The S/MIME Baseline Requirements shall be scoped as follows:
 
-- Verification of control over email addresses
+- Verification of control over email addresses;
+- Identity validation for natural persons and legal entities, in the context of
+  S/MIME certificates;
 - Key management and certificate lifecycle (subject to coordination with other
-  Forum CWGs to ensure consistency and avoid redundancy)
+  Forum CWGs to ensure consistency and avoid redundancy);
 - Certificate profiles for S/MIME certificates and Issuing CA certificates
   (including the appropriateness of extensions and when those extensions should
-  be present)
+  be present);
 - CA operational practices, physical/logical security, etc.
 
-In addition to the primary deliverable, the SMCWG MAY also address:
-- Identity validation for natural persons and legal entities, in the context of
-  S/MIME certificates
-
-Deliverables of the SMCWG SHALL be constrained to those certificates
-that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) or that are technically
+Deliverables of the SMCWG SHALL be constrained to certificates
+that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically
 capable of such issuance.
 
 ### 2. Charter Expiration
@@ -104,12 +102,7 @@ The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw
 
 #### 3.1. Selection of Officers
 
-Stephen Davidson will act as chair of the SMCWG until the first Working Group
-Teleconference, at which time the group will elect a chair and vice-chair. The
-chair and vice-chair will serve until October 31, 2022, or until they are
-replaced, resign, or are otherwise disqualified. Thereafter, elections SHALL be
-held for chair and vice chair every two years in coordination with the Forum’s
-election process and in conjunction with its election cycle. Voting SHALL occur
+Elections SHALL be held for chair and vice chair every two years in coordination with the Forum’s election process and in conjunction with its election cycle. Voting SHALL occur
 in accordance with Bylaw 4.1(c).
 
 #### 3.2. Participation
