@@ -91,7 +91,7 @@ The SMCWG SHALL allow participation by Associate Members and Interested Parties,
 
    Certificate Issuer applicants that are not actively issuing S/MIME certificates but otherwise meet these membership criteria MAY request to the SMCWG that they be granted an invitation for Associate Member status in accordance with Bylaw 3.1, subject to conditions designated by the SMCWG.
 
-2. Existing CAB Forum Members seeking to participate in the SMCWG, in accordance to Bylaw 5.3.1(c), MUST formally declare their intent to participate in writing and provide the SMCWG Chair with this declaration and evidence that they meet the criteria set forth above. Such Applicants SHALL become Members of the SMCWG as determined by consensus during a SMCWG Meeting or Teleconference, or upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG.
+2. Existing CAB Forum Members seeking to participate in the SMCWG, in accordance to Bylaw 5.3.1(3), MUST formally declare their intent to participate in writing and provide the SMCWG Chair with this declaration and evidence that they meet the criteria set forth above. Such Applicants SHALL become Members of the SMCWG as determined by consensus during a SMCWG Meeting or Teleconference, or upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG.
 
 ##### 3.2.3. Suspension and Cessation of Working Group Membership
 
@@ -126,8 +126,6 @@ In accordance with the IPR Policy, Members that choose to participate in the SMC
 #### 5.1. Voting Structure
 
 The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
-
-In order for a ballot to be adopted by the SMCWG, two-thirds or more of the votes cast by the Certificate Issuers MUST be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers MUST be in favor of the ballot. At least one member of each class MUST vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three (3) SMCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). 
 
 #### 5.2. Other Organizational Matters
 
