@@ -1,6 +1,6 @@
 # S/MIME Certificate Working Group (SMCWG) Charter - Version 1.1
 
-The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights ("IPR") Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
+The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights ("IPR") Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The objective of the SMCWG is to provide documents that describe an integrated s
 
 The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain policies, frameworks, and sets of standards related to the issuance and management of S/MIME certificates by CAs under a publicly trusted root.
 
-The primary deliverable of the SMCWG shall include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" which shall be scoped as follows:
+The primary deliverable of the SMCWG SHALL include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" which SHALL be scoped as follows:
 
 - Verification of control over email addresses;
 - Identity validation for natural persons and legal entities, in the context of S/MIME certificates;
@@ -36,7 +36,7 @@ The primary deliverable of the SMCWG shall include the "Baseline Requirements fo
 
 Deliverables of the SMCWG SHALL be constrained to certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
 
-The SMCWG may engage in discussions seeking to improve the adoption and usability of S/MIME certificates.
+The SMCWG MAY engage in discussions seeking to improve the adoption and usability of S/MIME certificates.
 
 ### 2. Charter Expiration
 
@@ -58,19 +58,13 @@ The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers an
 1. A Certificate Issuer eligible for voting membership in the SMCWG MUST have a publicly-available audit report or attestation statement based upon a publicly-available audit criteria or attestation scheme relevant to the issuance of S/MIME certificates. This includes, but is not limited to, the following schemes and criteria:
 
     * WebTrust for CAs v.2.0 or newer; or
-    * ETSI EN 319 411-1, which includes normative references to ETSI EN 319 401
-      (the latest version of the referenced ETSI documents should be applied).
+    * ETSI EN 319 411-1, which includes normative references to ETSI EN 319 401 (the latest version of the referenced ETSI documents should be applied).
 
-   These audit reports must also meet the following requirements:
+   These audit reports MUST also meet the following requirements:
 
-    * They must report on the operational effectiveness of controls for a
-      historic period of at least 60 days;
-    * No more than 27 months have elapsed since the beginning of the
-      reported-on period and no more than 15 months since the end of the
-      reported-on period; and
-    * The audit report was prepared by a natural or legal person that is
-      duly authorized or licensed to conduct audits according to the relevant
-      audit criteria or attestation scheme used.
+    * They MUST report on the operational effectiveness of controls for a historic period of at least 60 days;
+    * No more than 27 months have elapsed since the beginning of the reported-on period and no more than 15 months since the end of  reported-on period; and
+    * The audit report was prepared by a natural or legal person that is duly authorized or licensed to conduct audits according to the relevant audit criteria or attestation scheme used.
 
    In addition, the Certificate Issuer MUST actively issue S/MIME certificates that are treated as valid by at least one Certificate Consumer that produces a mail user agent or email service provider that processes S/MIME certificates.
 
@@ -80,48 +74,24 @@ The SMCWG SHALL allow participation by Associate Members and Interested Parties,
 
 ##### 3.2.2. Membership Application/Declaration Process
 
-1. An Applicant not already a member of the Forum SHALL provide the following
-   information:
+1. An Applicant not already a member of the Forum SHALL provide the following information:
 
-   * Confirmation that the applicant satisfies at least one (1) of the
-     membership eligibility criteria (and if it satisfies more than one (1),
-     indication of the single category under which the applicant wishes to apply).
-   * The organization name, as they wish it to appear on the Forum Web site and
-     in official Forum documents.
+   * Confirmation that the applicant satisfies at least one (1) of the membership eligibility criteria (and if it satisfies more than one (1), indication of the single category under which the applicant wishes to apply).
+   * The organization name, as they wish it to appear on the Forum Web site and in official Forum documents.
    * URL of the applicant’s main Web site.
-   * Names and email addresses of designated representatives who will
-     participate in the Working Group and Forum on behalf of the Member.
-   * Emergency contact information for security issues related to certificate
-     trust.
+   * Names and email addresses of designated representatives who will participate in the Working Group and Forum on behalf of the Member.
+   * Emergency contact information for security issues related to certificate trust.
 
-   Applicants that qualify as Certificate Issuers or Root Certificate Issuers
-   must supply the following additional information:
+   Applicants that qualify as Certificate Issuers or Root Certificate Issuers MUST supply the following additional information:
 
    * URL of the current qualifying audit report.
-   * Links or references to issued end-entity certificates that demonstrate
-     them being treated as valid by a Certificate Consumer Member.
+   * Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member.
 
-   Such Applicant SHALL become a Member once the SMCWG has determined by
-   consensus among the Members during a SMCWG Meeting or Teleconference that
-   the Applicant meets all of the requirements above or, upon the request of
-   any Member of the SMCWG, by a Ballot among Members of the SMCWG. Acceptance
-   by consensus shall be determined or a Ballot of the Members shall be held
-   as soon as the Applicant indicates that it has presented all information
-   required above and has responded to all follow-up questions from the SMCWG
-   and the Member has complied with the requirements of Bylaw 5.5.
+   Such Applicant SHALL become a Member once the SMCWG has determined by consensus among the Members during a SMCWG Meeting or Teleconference that the Applicant meets all of the requirements above or, upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG. Acceptance by consensus SHALL be determined or a Ballot of the Members SHALL be held as soon as the Applicant indicates that it has presented all information required above and has responded to all follow-up questions from the SMCWG    and the Member has complied with the requirements of Bylaw 5.5.
 
-   Certificate Issuer applicants that are not actively issuing S/MIME
-   certificates but otherwise meet these membership criteria MAY request to the
-   SMCWG that they be granted an invitation for Associate Member status in
-   accordance with Bylaw 3.1, subject to conditions designated by the SMCWG.
+   Certificate Issuer applicants that are not actively issuing S/MIME certificates but otherwise meet these membership criteria MAY request to the SMCWG that they be granted an invitation for Associate Member status in accordance with Bylaw 3.1, subject to conditions designated by the SMCWG.
 
-2. Existing CAB Forum Members seeking to participate in the SMCWG, in accordance
-   to Bylaw 5.3.1(c), MUST formally declare their intent to participate in
-   writing and provide the SMCWG Chair with this declaration and evidence that
-   they meet the criteria set forth above. Such Applicants SHALL become Members
-   of the SMCWG as determined by consensus during a SMCWG Meeting or
-   Teleconference, or upon the request of any Member of the SMCWG, by a Ballot
-   among Members of the SMCWG.
+2. Existing CAB Forum Members seeking to participate in the SMCWG, in accordance to Bylaw 5.3.1(c), MUST formally declare their intent to participate in writing and provide the SMCWG Chair with this declaration and evidence that they meet the criteria set forth above. Such Applicants SHALL become Members of the SMCWG as determined by consensus during a SMCWG Meeting or Teleconference, or upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG.
 
 ##### 3.2.3. Suspension and Cessation of Working Group Membership
 
@@ -129,24 +99,19 @@ Members may resign from the SMCWG at any time. Resignation, suspension, or other
 
 A Certificate Consumer Member’s membership may be suspended if any of the following become true:
 
-1. it stops providing support for its membership-qualifying software
-   product;
-1. its membership-qualifying software product ceases to consume
-   S/MIME certificates.
+1. it stops providing support for its membership-qualifying software product;
+1. its membership-qualifying software product ceases to consume S/MIME certificates.
 
 A Certificate Issuer’s membership in the SMCWG may be suspended if any of the
 following become true:
 
-1. it fails to perform and disclose its membership-qualifying audit and
-   fifteen (15) months have elapsed since the end of the audit period of its
-   last successful membership-qualifying audit;
+1. it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
 1. its membership-qualifying audit is revoked, rescinded or withdrawn;
-1. its S/MIME certificates are not treated as valid by any Certificate
-   Consumer Member of the SMCWG.
+1. its S/MIME certificates are not treated as valid by any Certificate Consumer Member of the SMCWG.
 
 Any Member who believes one of the above circumstances is true of any other Member may report it on the SMCWG’s Public Mail List. The SMCWG Chair will then investigate, including asking the reported Member for evidence documenting the Member’s qualification(s) for membership. If evidence of continued qualification for membership is not forthcoming from the reported Member within five (5) working days, the SMCWG Chair will announce that such Member is suspended, such announcement to include the basis upon which the suspension has been made.
 
-A suspended Member who believes it has re-met the Eligibility to Participate criteria as outlined in this charter shall post its evidence to the SMCWG Public Mail List or provide evidence to the SMCWG Chair who SHALL post it to the SMCWG Public Mail List. The SMCWG Chair will examine the evidence and unsuspend the member, or not, by announcement to the SMCWG Public Mail List. A Member’s membership will automatically cease six months after the SMCWG Chair’s announcement of its suspension if the Member has not re-met the membership criteria by that time.
+A suspended Member who believes it has re-met the Eligibility to Participate criteria as outlined in this charter SHALL post its evidence to the SMCWG Public Mail List or provide evidence to the SMCWG Chair who SHALL post it to the SMCWG Public Mail List. The SMCWG Chair will examine the evidence and unsuspend the member, or not, by announcement to the SMCWG Public Mail List. A Member’s membership will automatically cease six months after the SMCWG Chair’s announcement of its suspension if the Member has not re-met the membership criteria by that time.
 
 While suspended, a Member may participate in SMCWG Meetings, SMCWG Teleconferences, and on the SMCWG’s discussion lists, but may not propose or endorse ballots or take part in any form of voting.
 
@@ -162,12 +127,12 @@ In accordance with the IPR Policy, Members that choose to participate in the SMC
 
 The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
 
-In order for a ballot to be adopted by the SMCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three (3) SMCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). 
+In order for a ballot to be adopted by the SMCWG, two-thirds or more of the votes cast by the Certificate Issuers MUST be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers MUST be in favor of the ballot. At least one member of each class MUST vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three (3) SMCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). 
 
 #### 5.2. Other Organizational Matters
 
 - The Chair MAY delegate any of their duties to the Vice Chair as necessary. The Vice Chair has the authority of the Chair in the event of any absence or unavailability of the Chair, and in such circumstances, any duty delegated to the Chair herein MAY be performed by the Vice Chair. For example, the Vice Chair MAY preside at SMCWG Meetings and Teleconferences in the Chair’s absence.
-- The SMCWG may establish subcommittees, by formal ballot, to address any of the SMCWG’s business as specified in the ballot (each, a “SMCWG Subcommittee”). SMCWG Subcommittees are open to all SMCWG Members. A SMCWG Subcommittee may work on and recommend ballots, complete delegated functions, or issue reports to the SMCWG that are within the scope of this charter. SMCWG Subcommittees must post all agendas and minutes on a public mail list.
+- The SMCWG may establish subcommittees, by formal ballot, to address any of the SMCWG’s business as specified in the ballot (each, a “SMCWG Subcommittee”). SMCWG Subcommittees are open to all SMCWG Members. A SMCWG Subcommittee may work on and recommend ballots, complete delegated functions, or issue reports to the SMCWG that are within the scope of this charter. SMCWG Subcommittees MUST post all agendas and minutes on a public mail list.
 
 ### 6. Summary of Major Deliverables
 
