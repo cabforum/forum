@@ -110,7 +110,7 @@ in accordance with Bylaw 4.1(c).
 ##### 3.2.1. Eligibility to Participate
 
 The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers
-and Certificate Consumers meeting the eligibility criteria below.
+and Certificate Consumers, meeting the eligibility criteria below.
 
 1. A Certificate Issuer eligible for voting membership in the SMCWG MUST have
    a publicly-available audit report or attestation statement based upon a
@@ -142,8 +142,7 @@ and Certificate Consumers meeting the eligibility criteria below.
    produce and maintain a mail user agent (web-based or application based) or
    email service provider that processes S/MIME certificates.
 
-The SMCWG SHALL allow participation by Interested Parties, as set
-forth in the Bylaws.
+The SMCWG SHALL allow participation by Associate Members and Interested Parties, whose qualifications and privileges are set forth in sections 3.1 and 3.2 of the Bylaws, respectively.
 
 ##### 3.2.2. Membership Application/Declaration Process
 
@@ -258,8 +257,7 @@ Agreement.
 
 #### 5.1. Voting Structure
 
-The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots, including
-Draft Guideline Ballots.
+The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
 
 In order for a ballot to be adopted by the SMCWG, two-thirds or more of the
 votes cast by the Certificate Issuers must be in favor of the ballot and more
@@ -267,9 +265,7 @@ than 50% of the votes cast by the Certificate Consumers must be in favor of the
 ballot. At least one member of each class must vote in favor of a ballot for it
 to be adopted. Quorum is the average number of Member organizations (cumulative,
 regardless of Class) that have participated in the previous three (3) SMCWG
-Meetings or Teleconferences (not counting subcommittee meetings thereof). No
-Ballots shall be adopted until at least (3) meetings have occurred and quorum
-determined.
+Meetings or Teleconferences (not counting subcommittee meetings thereof). 
 
 #### 5.2. Other Organizational Matters
 
@@ -288,9 +284,7 @@ determined.
 
 ### 6. Summary of Major Deliverables
 
-The primary deliverable of the SMCWG is set forth in the Scope section, and
-shall include a Draft Guideline be named the "Baseline Requirements for the
-Issuance and Management of Publicly-Trusted S/MIME Certificates".
+The primary deliverable of the SMCWG is set forth in the Scope section, and shall include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates".
 
 ### 7. Primary Means of Communication
 
