@@ -70,14 +70,11 @@ distributed in widely-available application software. Such requirements are not
 mandatory for Certification Authorities unless and until they become adopted and
 enforced by relying–party Application Software Suppliers. 
 
-### 1. Scope
+## 1. Scope
 
-The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain
-policies, frameworks, and sets of standards related to the issuance and
-management of S/MIME certificates by CAs under a publicly trusted
-root.
+The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain policies, frameworks, and sets of standards related to the issuance and management of S/MIME certificates by CAs under a publicly trusted root.
 
-The S/MIME Baseline Requirements shall be scoped as follows:
+The primary deliverable of the SMCWG shall include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" which shall be scoped as follows:
 
 - Verification of control over email addresses;
 - Identity validation for natural persons and legal entities, in the context of
@@ -92,6 +89,8 @@ The S/MIME Baseline Requirements shall be scoped as follows:
 Deliverables of the SMCWG SHALL be constrained to certificates
 that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically
 capable of such issuance.
+
+The SMCWG may engage in discussions seeking to improve the adoption and usability of S/MIME certificates.
 
 ### 2. Charter Expiration
 
