@@ -126,13 +126,9 @@ The SMCWG SHALL allow participation by Associate Members and Interested Parties,
 
 ##### 3.2.3. Suspension and Cessation of Working Group Membership
 
-Members may resign from the SMCWG at any time. Resignation, suspension, or
-other termination of membership in the SMCWG does not prevent a Member from
-potentially having continuing obligations, under the Forum’s IPR Policy or any
-other document.
+Members may resign from the SMCWG at any time. Resignation, suspension, or other termination of membership in the SMCWG does not prevent a Member from potentially having continuing obligations, under the Forum’s IPR Policy or any other document.
 
-A Certificate Consumer Member’s membership may be suspended if any of the
-following become true:
+A Certificate Consumer Member’s membership may be suspended if any of the following become true:
 
 1. it stops providing support for its membership-qualifying software
    product;
@@ -149,36 +145,17 @@ following become true:
 1. its S/MIME certificates are not treated as valid by any Certificate
    Consumer Member of the SMCWG.
 
-Any Member who believes one of the above circumstances is true of any other
-Member may report it on the SMCWG’s Public Mail List. The SMCWG Chair will then
-investigate, including asking the reported Member for evidence documenting the
-Member’s qualification(s) for membership. If evidence of continued qualification
-for membership is not forthcoming from the reported Member within five (5)
-working days, the SMCWG Chair will announce that such Member is suspended, such
-announcement to include the basis upon which the suspension has been made.
+Any Member who believes one of the above circumstances is true of any other Member may report it on the SMCWG’s Public Mail List. The SMCWG Chair will then investigate, including asking the reported Member for evidence documenting the Member’s qualification(s) for membership. If evidence of continued qualification for membership is not forthcoming from the reported Member within five (5) working days, the SMCWG Chair will announce that such Member is suspended, such announcement to include the basis upon which the suspension has been made.
 
-A suspended Member who believes it has re-met the Eligibility to Participate
-criteria as outlined in this charter shall post its evidence to the SMCWG Public
-Mail List or provide evidence to the SMCWG Chair who SHALL post it to the SMCWG
-Public Mail List. The SMCWG Chair will examine the evidence and unsuspend the
-member, or not, by announcement to the SMCWG Public Mail List. A Member’s
-membership will automatically cease six months after the SMCWG Chair’s
-announcement of its suspension if the Member has not re-met the membership
-criteria by that time.
+A suspended Member who believes it has re-met the Eligibility to Participate criteria as outlined in this charter shall post its evidence to the SMCWG Public Mail List or provide evidence to the SMCWG Chair who SHALL post it to the SMCWG Public Mail List. The SMCWG Chair will examine the evidence and unsuspend the member, or not, by announcement to the SMCWG Public Mail List. A Member’s membership will automatically cease six months after the SMCWG Chair’s announcement of its suspension if the Member has not re-met the membership criteria by that time.
 
-While suspended, a Member may participate in SMCWG Meetings, SMCWG
-Teleconferences, and on the SMCWG’s discussion lists, but may not propose or
-endorse ballots or take part in any form of voting.
+While suspended, a Member may participate in SMCWG Meetings, SMCWG Teleconferences, and on the SMCWG’s discussion lists, but may not propose or endorse ballots or take part in any form of voting.
 
 Votes cast before the announcement of a Member’s suspension will stand.
 
 ### 4. Membership Declaration
 
-In accordance with the IPR Policy, Members that choose to participate in the
-SMCWG MUST declare their participation and SHALL do so prior to participating.
-The Chair of the SMCWG SHALL establish a list for declarations of participation
-and manage it in accordance with the Bylaws, the IPR Policy, and the IPR
-Agreement.
+In accordance with the IPR Policy, Members that choose to participate in the SMCWG MUST declare their participation and SHALL do so prior to participating. The Chair of the SMCWG SHALL establish a list for declarations of participation and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement.
 
 ### 5. Voting and Other Organizational Matters
 
@@ -186,28 +163,12 @@ Agreement.
 
 The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
 
-In order for a ballot to be adopted by the SMCWG, two-thirds or more of the
-votes cast by the Certificate Issuers must be in favor of the ballot and more
-than 50% of the votes cast by the Certificate Consumers must be in favor of the
-ballot. At least one member of each class must vote in favor of a ballot for it
-to be adopted. Quorum is the average number of Member organizations (cumulative,
-regardless of Class) that have participated in the previous three (3) SMCWG
-Meetings or Teleconferences (not counting subcommittee meetings thereof). 
+In order for a ballot to be adopted by the SMCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three (3) SMCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). 
 
 #### 5.2. Other Organizational Matters
 
-- The Chair MAY delegate any of their duties to the Vice Chair as necessary.
-  The Vice Chair has the authority of the Chair in the event of any absence or
-  unavailability of the Chair, and in such circumstances, any duty delegated
-  to the Chair herein MAY be performed by the Vice Chair. For example, the Vice
-  Chair MAY preside at SMCWG Meetings and Teleconferences in the Chair’s
-  absence.
-- The SMCWG may establish subcommittees, by formal ballot, to address any of the
-  SMCWG’s business as specified in the ballot (each, a “SMCWG Subcommittee”).
-  SMCWG Subcommittees are open to all SMCWG Members. A SMCWG Subcommittee may
-  work on and recommend ballots, complete delegated functions, or issue reports
-  to the SMCWG that are within the scope of this charter. SMCWG Subcommittees
-  must post all agendas and minutes on a public mail list.
+- The Chair MAY delegate any of their duties to the Vice Chair as necessary. The Vice Chair has the authority of the Chair in the event of any absence or unavailability of the Chair, and in such circumstances, any duty delegated to the Chair herein MAY be performed by the Vice Chair. For example, the Vice Chair MAY preside at SMCWG Meetings and Teleconferences in the Chair’s absence.
+- The SMCWG may establish subcommittees, by formal ballot, to address any of the SMCWG’s business as specified in the ballot (each, a “SMCWG Subcommittee”). SMCWG Subcommittees are open to all SMCWG Members. A SMCWG Subcommittee may work on and recommend ballots, complete delegated functions, or issue reports to the SMCWG that are within the scope of this charter. SMCWG Subcommittees must post all agendas and minutes on a public mail list.
 
 ### 6. Summary of Major Deliverables
 
@@ -215,18 +176,10 @@ The primary deliverable of the SMCWG is set forth in the Scope section.
 
 ### 7. Primary Means of Communication
 
-1. The SMCWG SHALL appoint a webmaster to maintain the SMCWG’s pages on the
-   wiki and the Forum’s Public Web Site.
-2. The SMCWG will communicate primarily through listserv-based email in
-   accordance with Bylaw 5.3.1(d). The SMCWG List SHALL be available to the
-   public, who will not have posting privileges (i.e. anyone may subscribe to
-   receive messages and the list may be crawled and indexed by Internet search
-   engines).
-3. The SMCWG shall conduct periodic calls or face-to-face meetings as needed.
-   Minutes SHALL be kept, and such minutes SHALL be made public in accordance
-   with Bylaw 5.2.
+1. The SMCWG SHALL appoint a webmaster to maintain the SMCWG’s pages on the wiki and the Forum’s Public Web Site.
+2. The SMCWG will communicate primarily through listserv-based email in accordance with Bylaw 5.3.1(d). The SMCWG List SHALL be available to the public, who will not have posting privileges (i.e. anyone may subscribe to receive messages and the list may be crawled and indexed by Internet search engines).
+3. The SMCWG shall conduct periodic calls or face-to-face meetings as needed. Minutes SHALL be kept, and such minutes SHALL be made public in accordance with Bylaw 5.2.
 
 ### 8. IPR Policy
 
-The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, SHALL apply
-to all Working Group activity and Members.
+The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, SHALL apply to all Working Group activity and Members.
