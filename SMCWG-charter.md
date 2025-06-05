@@ -283,7 +283,7 @@ Meetings or Teleconferences (not counting subcommittee meetings thereof).
 
 ### 6. Summary of Major Deliverables
 
-The primary deliverable of the SMCWG is set forth in the Scope section, and shall include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates".
+The primary deliverable of the SMCWG is set forth in the Scope section.
 
 ### 7. Primary Means of Communication
 
