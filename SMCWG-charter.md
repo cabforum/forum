@@ -40,7 +40,7 @@ The SMCWG MAY engage in discussions seeking to improve the adoption and usabilit
 
 ### 2. Charter Expiration
 
-The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(c).
+The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(3).
 
 ### 3. Personnel and Participation
 
