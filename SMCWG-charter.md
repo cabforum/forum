@@ -47,7 +47,7 @@ The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 
 #### 3.1. Selection of Officers
 
 Elections SHALL be held for chair and vice chair every two years in coordination with the Forum’s election process and in conjunction with its election cycle. Voting SHALL occur
-in accordance with Bylaw 4.1(c).
+in accordance with Bylaw 4.1.
 
 #### 3.2. Participation
 
