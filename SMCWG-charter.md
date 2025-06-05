@@ -131,8 +131,8 @@ The primary deliverable of the SMCWG is set forth in the Scope section.
 
 ### 7. Primary Means of Communication
 
-1. The SMCWG SHALL appoint a webmaster to maintain the SMCWG’s pages on the wiki and the Forum’s Public Web Site.
-2. The SMCWG will communicate primarily through listserv-based email in accordance with Bylaw 5.3.1(d). The SMCWG List SHALL be available to the public, who will not have posting privileges (i.e. anyone may subscribe to receive messages and the list may be crawled and indexed by Internet search engines).
+1. The SMCWG SHALL maintain a Public Mail List and Public Web Site in accordance with Bylaw 5.2.
+2. The SMCWG will communicate primarily through listserv-based email in accordance with Bylaw 5.3.1(4). The SMCWG List SHALL be available to the public, who will not have posting privileges.
 3. The SMCWG shall conduct periodic calls or face-to-face meetings as needed. Minutes SHALL be kept, and such minutes SHALL be made public in accordance with Bylaw 5.2.
 
 ### 8. IPR Policy
