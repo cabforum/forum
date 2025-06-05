@@ -4,14 +4,15 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 ## Introduction
 
-This introduction provides general information and context with an intent to assist the interpretation of this Charter.
+This introduction provides context to assist the interpretation of this Charter.
 
-An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. An S/MIME certificate can be identified by the existence of an Extended Key Usage (EKU) Object Identifier (OID) of `1.3.6.1.5.5.7.3.4` for emailProtection.
+An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. 
 
-The objective of an S/MIME certificate is to provide cryptographic security services for electronic messaging applications, namely sender authentication, message integrity, and message privacy through encryption. For effective authentication and privacy, it is imperative that the CA validates the subject’s identity (if present) and its email address. The recipient of a digitally signed message can authenticate an email message to receive protection against email spoofing and can encrypt a response to the original sender by referring to the public key, email address, and distinguished name (if present) contained
-in an S/MIME certificate.
+An S/MIME certificate can be identified by the existence of an Extended Key Usage (EKU) for id-kp-emailProtection (OID: 1.3.6.1.5.5.7.3.4) and the inclusion of a rfc822Name or an otherName of type id-on-SmtpUTF8Mailbox in the subjectAltName extension.
 
-The primary use case under consideration for the working group is a model whereby senders and recipients of email messages receive “reasonable assurance” that the other party to the communication identified in the certificate has control of the domain or email address being asserted. A variation of this primary use case is where an individual or organization digitally signs email to establish its authenticity and source of origin.
+The objective of an S/MIME certificate is to provide cryptographic security services for electronic messaging applications, namely sender authentication, message integrity, and message privacy through encryption. For effective authentication and privacy, it is imperative that the CA validates the subject’s identity (if present) and its email address. The recipient of a digitally signed message can authenticate an email message to receive protection against email spoofing and can encrypt a response to the original sender by referring to the public key, email address, and distinguished name (if present) contained in an S/MIME certificate.
+
+The primary use case under consideration for the SMCWG is a model whereby senders and recipients of email messages receive “reasonable assurance” that the other party to the communication identified in the certificate has control of the domain or email address being asserted. A variation of this primary use case is where an individual or organization digitally signs email to establish its authenticity and source of origin.
 
 Therefore, in order to provide reasonable assurance, it is crucial to establish a standard method to validate an email address and the subject’s identity (if present) prior to binding them to the public key. “Reasonable assurance” is to be determined and defined by this SMCWG through studying the existing methods that exist in the industry, as well as identity management frameworks and any applicable legislation.
 
@@ -19,9 +20,7 @@ An S/MIME certificate can also be used in an automated message with transfer age
 forms its consensus. The SMCWG will consult other technical communities when and
 as necessary.
 
-The problem to be addressed by the working group is the absence of consistent and audited validation practices used by CAs in establishing the identity of the subject (if present) and verifying that the subscriber controls the email address. While there are methods for validating control of a domain that can be adopted from TLS certificates, there are currently no standard requirements for validating control of email addresses. Methods for validating identities in TLS certificates also exist and should be leveraged where possible, as well as other identity validation standards common in the industry. At least one method to efficiently validate an email address as well as developing a consistent profile for S/MIME certificates in order to facilitate technical interoperability across the Internet are also to be addressed by the SMCWG.
-
-The objective of the SMCWG is to provide documents that describe an integrated set of technologies, protocols, identity-proofing, lifecycle management, and auditing requirements that are necessary (but not sufficient) for the issuance and management of Publicly-Trusted S/MIME Certificates; Certificates that are trusted by virtue of the fact that their corresponding Root Certificate is distributed in widely-available application software. Such requirements are not mandatory for Certification Authorities unless and until they become adopted and enforced by relying–party Application Software Suppliers. 
+The objective of the SMCWG is to provide documents that describe an integrated set of technologies, protocols, identity-proofing, lifecycle management, and auditing requirements that are necessary for the issuance and management of Publicly-Trusted S/MIME Certificates.
 
 ## 1. Scope
 
