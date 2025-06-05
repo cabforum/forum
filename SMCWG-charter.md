@@ -1,5 +1,7 @@
 # S/MIME Certificate Working Group (SMCWG) Charter
 
+The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights ("IPR") Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws shall apply to capitalized terms in this Charter.
+
 ## Introduction
 
 This introduction provides general information and context with an intent to
