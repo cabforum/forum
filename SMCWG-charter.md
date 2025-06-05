@@ -121,16 +121,9 @@ Votes cast before the announcement of a Member’s suspension will stand.
 
 In accordance with the IPR Policy, Members that choose to participate in the SMCWG MUST declare their participation and SHALL do so prior to participating. The Chair of the SMCWG SHALL establish a list for declarations of participation and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement.
 
-### 5. Voting and Other Organizational Matters
-
-#### 5.1. Voting Structure
+### 5. Voting Structure
 
 The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
-
-#### 5.2. Other Organizational Matters
-
-- The Chair MAY delegate any of their duties to the Vice Chair as necessary. The Vice Chair has the authority of the Chair in the event of any absence or unavailability of the Chair, and in such circumstances, any duty delegated to the Chair herein MAY be performed by the Vice Chair. For example, the Vice Chair MAY preside at SMCWG Meetings and Teleconferences in the Chair’s absence.
-- The SMCWG may establish subcommittees, by formal ballot, to address any of the SMCWG’s business as specified in the ballot (each, a “SMCWG Subcommittee”). SMCWG Subcommittees are open to all SMCWG Members. A SMCWG Subcommittee may work on and recommend ballots, complete delegated functions, or issue reports to the SMCWG that are within the scope of this charter. SMCWG Subcommittees MUST post all agendas and minutes on a public mail list.
 
 ### 6. Summary of Major Deliverables
 
