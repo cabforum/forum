@@ -14,7 +14,7 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. 
 
-An S/MIME certificate can be identified by the existence of an Extended Key Usage (EKU) for id-kp-emailProtection (OID: 1.3.6.1.5.5.7.3.4) and the inclusion of a `rfc822Name` or an `otherName` of `type id-on-SmtpUTF8Mailbox` in the `subjectAltName` extension.
+An S/MIME certificate can be identified by the existence of an Extended Key Usage (EKU) for `id-kp-emailProtection` (OID: 1.3.6.1.5.5.7.3.4) and the inclusion of a `rfc822Name` or an `otherName` of `type id-on-SmtpUTF8Mailbox` in the `subjectAltName` extension.
 
 The objective of an S/MIME certificate is to provide cryptographic security services for electronic messaging applications, namely sender authentication, message integrity, and message privacy through encryption. For effective authentication and privacy, it is imperative that the CA validates the subject’s identity (if present) and its email address. The recipient of a digitally signed message can authenticate an email message to receive protection against email spoofing and can encrypt a response to the original sender by referring to the public key, email address, and distinguished name (if present) contained in an S/MIME certificate.
 
