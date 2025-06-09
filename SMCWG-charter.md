@@ -6,8 +6,6 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 **Type(s) of Voting Members Eligible to Participate:** Voting members of the SMCWG are Certificate Issuers and Certificate Consumers as defined herein.  Other participants have an interest in the secure e-mail and S/MIME ecosystems.
 
-**Voting Structure for WG:** The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
-
 ### 1.	Working Group Scope
 
 An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. 
