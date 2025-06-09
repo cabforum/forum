@@ -44,7 +44,7 @@ Deliverables of the SMCWG SHALL be constrained to certificates that contain the 
 
 **2.2 Other Deliverables**
 
- The SMCWG MAY work on related deliverables and non-normative documents, seeking to improve the adoption and usability of S/MIME certificates.
+The SMCWG MAY work on related deliverables and non-normative documents, seeking to improve the adoption and usability of S/MIME certificates.
 
 ### 3.	Membership
 
@@ -65,7 +65,7 @@ These audit reports MUST also meet the following requirements:
 
 In addition, the Certificate Issuer MUST actively issue S/MIME certificates that are treated as valid by at least one Certificate Consumer that produces a mail user agent or email service provider that processes S/MIME certificates.
 
-A **Certificate Consumer** eligible for voting membership in The SMCWG must produce and maintain a mail user agent (web-based or application based) or an email service provider that processes S/MIME certificates.
+A **Certificate Consumer** eligible for voting membership in the SMCWG must produce and maintain a mail user agent (web-based or application based) or an email service provider that processes S/MIME certificates.
 
 The SMCWG shall include Interested Parties, Associate Members, and Probationary Members, as defined in the Bylaws.
 
@@ -78,18 +78,18 @@ A Certificate Consumer Member’s membership may be suspended if any of the foll
 1. it stops providing support for its membership-qualifying software product; or
 2. its membership-qualifying software product ceases to consume S/MIME certificates.
 
-A Certificate Issuer’s membership in The SMCWG may be suspended if any of the
+A Certificate Issuer’s membership in the SMCWG may be suspended if any of the
 following become true:
 
 1. it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
 1. its membership-qualifying audit is revoked, rescinded or withdrawn; or
-1. its S/MIME certificates are not treated as valid by any Certificate Consumer Member of The SMCWG .
+1. its S/MIME certificates are not treated as valid by any Certificate Consumer Member of the SMCWG.
 
 Any Voting Member who believes any of the above circumstances is true of any other Voting Member, that Voting Member may report it on the SMCWG Public Mail List. The SMCWG Chair will then investigate, including asking the reported Voting Member for an explanation or appropriate documentation. If evidence of continued qualification for membership is not forthcoming from the reported Voting Member within five (5) working days, the SMCWG Chair will announce that such Voting Member is suspended and has become a Probationary Member, such announcement to include the clause(s) from the above list under which the suspension has been made.
 
 A Probationary Member who believes it has now re-met the membership criteria under the relevant clauses shall post evidence to the SMCWG Public Mail List. The SMCWG Chair will examine the evidence, and if appropriate, reinstate the member to voting status, by public announcement.
 
-A Probationary Member may participate in The SMCWG and Forum Meetings, Teleconferences, and on The SMCWG and the Forum's discussion lists as set forth in the Bylaws.
+A Probationary Member may participate in the SMCWG and Forum Meetings, Teleconferences, and on the SMCWG and the Forum's discussion lists as set forth in the Bylaws.
 
 Votes cast before a Voting Member's suspension is announced will stand.
 
@@ -120,7 +120,7 @@ The SMCWG will coordinate with, and seek guidance from, other CA/B Forum Working
 
 ### 5.	Participation
 
-To be successful, the SMCWG is expected to have [insert #] or more active participants for its duration. The SMCWG participants are expected to contribute an appropriate number of hours per week towards the Working Group’s activities.
+To be successful, the SMCWG is expected to have an internationally diverse representation of Certificate Issuers and Certificate Consumers, as well as other industry participants, for its duration. The SMCWG participants are expected to contribute an appropriate number of hours per week towards the Working Group’s activities.
 
 ### 6.	Communication
 
