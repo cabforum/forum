@@ -112,7 +112,7 @@ Certificate Issuer applicants that are not actively issuing S/MIME certificates 
 
 ### 4.	Dependencies and Liaisons
 
-The SMCWG will coordinate with, and seek guidance from, other CA/B Forum Working Groups, ETSI, the IETF and other related groups.
+The SMCWG will coordinate with, and seek guidance from, other CA/B Forum Working Groups, ACAB'c, the WebTrust Task Force, ETSI, the IETF, and other related groups.
 
 ### 5.	Participation
 
