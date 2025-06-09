@@ -35,9 +35,9 @@ The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain polic
 The primary deliverable of the SMCWG SHALL include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" which SHALL be scoped as follows:
 
 - Verification of control over email addresses;
-- Identity validation for natural persons and legal entities, in the context of S/MIME certificates;
-- Key management and certificate lifecycle (subject to coordination with other Forum CWGs to ensure consistency and avoid redundancy);
-- Certificate profiles for S/MIME certificates and Issuing CA certificates (including the appropriateness of extensions and when those extensions should be present);
+- Identity validation for natural persons and legal entities;
+- Key management and certificate lifecycle (subject to coordination with other Forum WGs to ensure consistency and avoid redundancy);
+- Certificate profiles for Subscriber and Issuing CA certificates (including the appropriateness of extensions and when those extensions should be present);
 - CA operational practices, physical/logical security, etc.
 
 Deliverables of the SMCWG SHALL be constrained to certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
