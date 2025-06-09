@@ -1,6 +1,6 @@
 ## S/MIME Certificate Working Group (SMCWG) Charter - Version 1.1
 
-The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights ("IPR") Policy, as such documents may change from time to time. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
+The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and the Intellectual Property Rights Policy, as such documents may change from time to time. 
 
 **Charter Expiration:** The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(3).
 
@@ -133,9 +133,9 @@ The SMCWG will seek to make decisions when there is consensus and with due proce
 
 ### 8.	IPR Policy
 
-The SMCWG is subject to the CA/B Forum Intellectual Rights Policy v.1.3 Effective July 3, 2018 (the “IPR Policy”). To promote the widest adoption of the CA/B Forum Guidelines, CA/B Forum seeks to issue Final Guidelines and Final Maintenance Guidelines that can be implemented, according to the IPR Policy, on a CA/B Forum Royalty-Free License basis. For information about exclusion of Essential Claims, see Section 4 of the IPR Policy.
+The SMCWG is subject to the CA/B Forum Intellectual Rights Policy v.1.3 or later (the “IPR Policy”). To promote the widest adoption of the CA/B Forum Guidelines, CA/B Forum seeks to issue Final Guidelines and Final Maintenance Guidelines that can be implemented, according to the IPR Policy, on a CA/B Forum Royalty-Free License basis. For information about exclusion of Essential Claims, see Section 4 of the IPR Policy.
 
 ### 9.	About this Charter
 
-This charter for the SMCWG has been created according to Section 5.3.1 of the Bylaws of the CA/B Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence.
+This Charter for the SMCWG has been created according to Section 5.3.1 of the Bylaws of the CA/B Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
 
