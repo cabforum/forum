@@ -4,7 +4,7 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 **Charter Expiration:** The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(3).
 
-**Type(s) of Voting Members Eligible to Participate:** Voting members of the SMCWG may be Certificate Issuers and Certificate Consumers as defined herein.  Other participants have an interest in the secure e-mail and S/MIME ecosystems.
+**Type(s) of Voting Members Eligible to Participate:** Voting members of the SMCWG are Certificate Issuers and Certificate Consumers as defined herein.  Other participants have an interest in the secure e-mail and S/MIME ecosystems.
 
 **Voting Structure for WG:** The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots.
 
@@ -22,7 +22,7 @@ The primary use case under consideration for the SMCWG is a model whereby sender
 
 Therefore, in order to provide reasonable assurance, it is crucial to establish a standard method to validate an email address and the subject’s identity (if present) prior to binding them to the public key. “Reasonable assurance” is to be determined and defined by this SMCWG through studying the existing methods that exist in the industry, as well as identity management frameworks and any applicable legislation.
 
-An S/MIME certificate can also be used in an automated message with transfer agents that use cryptographic security services that do not require any human intervention, such as the signing of software-generated documents and the encryption of fax messages sent over the Internet. While these existing use cases are not in scope for the SMCWG, care will be exercised by the SMCWG to avoid unintended adverse effects to these uses. The security, stability and resiliency of the Internet shall be taken into consideration when the SMCWG forms its consensus. The SMCWG will consult other technical communities when and as necessary.
+An S/MIME certificate can also be used in an automated message with transfer agents that use cryptographic security services that do not require any human intervention, such as the signing of software-generated documents and the encryption of fax messages sent over the Internet. While these existing use cases are not in scope for the SMCWG, care will be exercised by the SMCWG to avoid unintended adverse effects to these uses. The security, stability and resiliency of the Internet will be taken into consideration when the SMCWG forms its consensus. The SMCWG will consult other technical communities when and as necessary.
 
 The objective of the SMCWG is to provide documents that describe an integrated set of technologies, protocols, identity-proofing, lifecycle management, and auditing requirements that are necessary for the issuance and management of Publicly-Trusted S/MIME Certificates.
 
@@ -65,20 +65,20 @@ These audit reports MUST also meet the following requirements:
 
 In addition, the Certificate Issuer MUST actively issue S/MIME certificates that are treated as valid by at least one Certificate Consumer that produces a mail user agent or email service provider that processes S/MIME certificates.
 
-A **Certificate Consumer** eligible for voting membership in the SMCWG must produce and maintain a mail user agent (web-based or application based) or an email service provider that processes S/MIME certificates.
+A **Certificate Consumer** eligible for voting membership in the SMCWG MUST produce and maintain a mail user agent (web-based or application based) or an email service provider that processes S/MIME certificates.
 
-The SMCWG shall include Interested Parties, Associate Members, and Probationary Members, as defined in the Bylaws.
+The SMCWG SHALL include Interested Parties, Associate Members, and Probationary Members, as defined in the Bylaws.
 
 ### 3.2 Ending Membership 
 
-Members may resign from the SMCWG at any time. Resignation, suspension, or other termination of membership does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
+Members MAY resign from the SMCWG at any time. Resignation, suspension, or other termination of membership does not prevent a Member from potentially having continuing obligations, under the Forum's IPR Policy or any other document.
 
-A Certificate Consumer Member’s membership may be suspended if any of the following become true:
+A Certificate Consumer Member’s membership MAY be suspended if any of the following become true:
 
 1. it stops providing support for its membership-qualifying software product; or
 2. its membership-qualifying software product ceases to consume S/MIME certificates.
 
-A Certificate Issuer’s membership in the SMCWG may be suspended if any of the
+A Certificate Issuer’s membership in the SMCWG MAY be suspended if any of the
 following become true:
 
 1. it fails to perform and disclose its membership-qualifying audit and fifteen (15) months have elapsed since the end of the audit period of its last successful membership-qualifying audit;
@@ -87,9 +87,9 @@ following become true:
 
 Any Voting Member who believes any of the above circumstances is true of any other Voting Member, that Voting Member may report it on the SMCWG Public Mail List. The SMCWG Chair will then investigate, including asking the reported Voting Member for an explanation or appropriate documentation. If evidence of continued qualification for membership is not forthcoming from the reported Voting Member within five (5) working days, the SMCWG Chair will announce that such Voting Member is suspended and has become a Probationary Member, such announcement to include the clause(s) from the above list under which the suspension has been made.
 
-A Probationary Member who believes it has now re-met the membership criteria under the relevant clauses shall post evidence to the SMCWG Public Mail List. The SMCWG Chair will examine the evidence, and if appropriate, reinstate the member to voting status, by public announcement.
+A Probationary Member who believes it has now re-met the membership criteria under the relevant clauses SHALL post evidence to the SMCWG Public Mail List. The SMCWG Chair will examine the evidence, and if appropriate, reinstate the member to voting status, by public announcement.
 
-A Probationary Member may participate in the SMCWG and Forum Meetings, Teleconferences, and on the SMCWG and the Forum's discussion lists as set forth in the Bylaws.
+A Probationary Member MAY participate in the SMCWG and Forum Meetings, Teleconferences, and on the SMCWG and the Forum's discussion lists as set forth in the Bylaws.
 
 Votes cast before a Voting Member's suspension is announced will stand.
 
@@ -137,5 +137,5 @@ The SMCWG is subject to the CA/B Forum Intellectual Rights Policy v.1.3 or later
 
 ### 9.	About this Charter
 
-This Charter for the SMCWG has been created according to Section 5.3.1 of the Bylaws of the CA/B Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
+This Charter for the SMCWG has been created according to Section 5.3.1 of the Bylaws of the CA/B Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy SHALL take precedence. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
 
