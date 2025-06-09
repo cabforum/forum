@@ -36,7 +36,7 @@ The primary deliverable of the SMCWG SHALL include the "Baseline Requirements fo
 - Certificate profiles for Subscriber and Issuing CA certificates (including the appropriateness of extensions and when those extensions should be present);
 - CA operational practices, physical/logical security, etc.
 
-The focus of the S/MIME BR SHALL be constrained to certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
+The focus of the S/MIME BR SHALL be constrained to certificates that contain the `emailProtection` (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
 
 **2.2 Other Deliverables**
 
@@ -50,8 +50,8 @@ The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers an
 
 A **Certificate Issuer** eligible for voting membership in the SMCWG MUST have a publicly-available audit report or attestation statement based upon a publicly-available audit criteria or attestation scheme relevant to the issuance of S/MIME certificates. This includes, but is not limited to, the following schemes and criteria:
 
-* WebTrust for CAs v.2.0 or newer; or
-* ETSI EN 319 411-1, which includes normative references to ETSI EN 319 401 (the latest version of the referenced ETSI documents should be applied).
+*  “WebTrust for CAs v2.2.2 or newer” AND “WebTrust for S/MIME Baseline Requirements v1.0.0 or newer” AND “WebTrust for Network Security v2.0 or newer”; or
+* ETSI TS 119 411-6 v1.1.1 or newer, which includes normative references to ETSI EN 319 401, ETSI EN 319 411-1 and ETSI EN 319 411-2 (the latest version of the referenced ETSI documents should be applied).
   
 These audit reports MUST also meet the following requirements:
 
