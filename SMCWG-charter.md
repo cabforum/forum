@@ -10,8 +10,6 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 ### 1.	Working Group Scope
 
-**1.1 Summary of Working Group Goals and Objectives** 
-
 An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. 
 
 An S/MIME certificate can be identified by the existence of an Extended Key Usage (EKU) for `id-kp-emailProtection` (OID: 1.3.6.1.5.5.7.3.4) and the inclusion of a `rfc822Name` or an `otherName` of `type id-on-SmtpUTF8Mailbox` in the `subjectAltName` extension.
@@ -125,7 +123,6 @@ To be successful, the SMCWG is expected to have an internationally diverse repre
 ### 6.	Communication
 
 Most SMCWG teleconferences will focus on discussion of particular specifications, and will be conducted on an as-needed basis. This group conducts its work primarily on the list at smcwg-public@groups.cabforum.org, which is available to the public. Information about the group will be available via the CA/B Forum website.
-
 
 ### 7.	Decision Process
 
