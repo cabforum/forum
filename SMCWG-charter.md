@@ -28,7 +28,7 @@ The objective of the SMCWG is to provide documents that describe an integrated s
 
 The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain policies, frameworks, and sets of standards related to the issuance and management of S/MIME certificates by CAs under a publicly trusted root.
 
-The primary deliverable of the SMCWG SHALL include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" which SHALL be scoped as follows:
+The primary deliverable of the SMCWG SHALL include the "Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates" ("S/MIME BR")which SHALL be scoped as follows:
 
 - Verification of control over email addresses;
 - Identity validation for natural persons and legal entities;
@@ -36,7 +36,7 @@ The primary deliverable of the SMCWG SHALL include the "Baseline Requirements fo
 - Certificate profiles for Subscriber and Issuing CA certificates (including the appropriateness of extensions and when those extensions should be present);
 - CA operational practices, physical/logical security, etc.
 
-Deliverables of the SMCWG SHALL be constrained to certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
+The focus of the S/MIME BR SHALL be constrained to certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) EKU or that are technically capable of such issuance.
 
 **2.2 Other Deliverables**
 
