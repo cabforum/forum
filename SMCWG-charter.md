@@ -44,7 +44,7 @@ Deliverables of the SMCWG SHALL be constrained to certificates that contain the 
 
 **2.2 Other Deliverables**
 
-The SMCWG MAY work on related deliverables and non-normative documents, seeking to improve the adoption and usability of S/MIME certificates.
+The SMCWG MAY work on related deliverables and non-normative documents, seeking to improve the adoption and usability of S/MIME certificates and secure email.
 
 ### 3.	Membership
 
