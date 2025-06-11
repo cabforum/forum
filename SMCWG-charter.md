@@ -6,6 +6,8 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 **Type(s) of Voting Members Eligible to Participate:** Voting members of the SMCWG are Certificate Issuers and Certificate Consumers as defined herein.  Other participants have an interest in the secure e-mail and S/MIME ecosystems.
 
+**Voting on Ballots:** Voting procedures SHALL comply with Sections 2.3 and 2.4 of the Bylaws.
+
 ### 1.	Working Group Scope
 
 An S/MIME certificate contains a public key bound to an email address; and may also contain the identity of a natural person or legal entity that controls such email address. The key pair can then be used to sign, verify, encrypt, and decrypt email. 
@@ -104,11 +106,11 @@ Votes cast before a Voting Member's suspension is announced will stand.
 * URL of the current qualifying audit report.
 * Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member.
 
-Such Applicant SHALL become a Member once the SMCWG has determined by consensus among the Members during a SMCWG Meeting or Teleconference that the Applicant meets all of the requirements above or, upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG. Acceptance by consensus SHALL be determined or a Ballot of the Members SHALL be held as soon as the Applicant indicates that it has presented all information required above and has responded to all follow-up questions from the SMCWG and the Member has complied with the requirements of Bylaw 5.5.
+Such Applicant SHALL become a Member once the SMCWG has determined by consensus among the Members during a SMCWG Meeting or Teleconference that the Applicant meets all of the requirements above or, upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG. Acceptance by consensus SHALL be determined or a Ballot of the Members SHALL be held as soon as the Applicant indicates that it has presented all information required above and has responded to all follow-up questions from the SMCWG and the Member has complied with the requirements of Bylaw Section 5.5.
 
-Certificate Issuer applicants that are not actively issuing S/MIME certificates but otherwise meet these membership criteria MAY request to the SMCWG that they be granted an invitation for Associate Member status in accordance with Bylaw 3.1, subject to conditions designated by the SMCWG.
+Certificate Issuer applicants that are not actively issuing S/MIME certificates but otherwise meet these membership criteria MAY request to the SMCWG that they be granted an invitation for Associate Member status in accordance with Bylaw Section 3.1, subject to conditions designated by the SMCWG.
 
-**Existing CAB Forum Members** seeking to participate in the SMCWG, in accordance to Bylaw 5.3.1(3), MUST formally declare their intent to participate in writing and provide the SMCWG Chair with this declaration and evidence that they meet the criteria set forth above. Such Applicants SHALL become Members of the SMCWG as determined by consensus during a SMCWG Meeting or Teleconference, or upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG.
+**Existing CAB Forum Members** seeking to participate in the SMCWG, in accordance to Bylaw Section 5.3.1(3), MUST formally declare their intent to participate in writing and provide the SMCWG Chair with this declaration and evidence that they meet the criteria set forth above. Such Applicants SHALL become Members of the SMCWG as determined by consensus during a SMCWG Meeting or Teleconference, or upon the request of any Member of the SMCWG, by a Ballot among Members of the SMCWG.
 
 ### 4.	Dependencies and Liaisons
 
