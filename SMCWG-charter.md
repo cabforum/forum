@@ -4,7 +4,7 @@ The S/MIME Certificate Working Group ("SMCWG") exists to perform the activities 
 
 **Charter Expiration:** The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(3).
 
-**Type(s) of Voting Members Eligible to Participate:** Voting members of the SMCWG are Certificate Issuers and Certificate Consumers as defined herein.  Other participants have an interest in the secure e-mail and S/MIME ecosystems.
+**Type(s) of Voting Members Eligible to Participate:** Voting members of the SMCWG are Certificate Issuers and Certificate Consumers as defined herein. Other participants have an interest in the secure e-mail and S/MIME ecosystems.
 
 **Voting on Ballots:** Voting procedures SHALL comply with Sections 2.3 and 2.4 of the Bylaws.
 
@@ -42,7 +42,7 @@ The focus of the S/MIME BR SHALL be constrained to certificates that contain the
 
 **2.2 Other Deliverables**
 
-The SMCWG MAY work on related deliverables and non-normative documents, seeking to improve the adoption and usability of S/MIME certificates and secure email.
+The SMCWG MAY work on related deliverables and non-normative documents seeking to improve the functionality and usability of S/MIME certificates in secure email.
 
 ### 3.	Membership
 
@@ -52,7 +52,7 @@ The SMCWG SHALL consist of two classes of Voting Members, Certificate Issuers an
 
 A **Certificate Issuer** eligible for voting membership in the SMCWG MUST have a publicly-available audit report or attestation statement based upon a publicly-available audit criteria or attestation scheme relevant to the issuance of S/MIME certificates. This includes, but is not limited to, the following schemes and criteria:
 
-*  “WebTrust for CAs v2.2.2 or newer” AND “WebTrust for S/MIME Baseline Requirements v1.0.0 or newer” AND “WebTrust for Network Security v2.0 or newer”; or
+* “WebTrust for CAs v2.2.2 or newer” AND “WebTrust for S/MIME Baseline Requirements v1.0.0 or newer” AND “WebTrust for Network Security v2.0 or newer”; or
 * ETSI TS 119 411-6 v1.1.1 or newer, which includes normative references to ETSI EN 319 401, ETSI EN 319 411-1 and ETSI EN 319 411-2 (the latest version of the referenced ETSI documents should be applied).
   
 These audit reports MUST also meet the following requirements:
