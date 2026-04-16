@@ -107,12 +107,14 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
  7. In addition to following the process for submitting Exclusion Notices set forth in Section 4 of the IPR Policy, Members shall also send Exclusion Notices to the Public Mail List as a safeguard.
 
- 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final, approved, and effective as of the end of the applicable Review Period. The Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the results of the Review Period within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days, of the close of the Review Period. The Chair or Vice-Chair of the Forum or of the CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
+ 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final, approved, and effective as of the end of the applicable Review Period. The Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the results of the Review Period within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days, of the close of the Review Period. The Chair or Vice-Chair of the Forum or of the CWG is allowed to perform specific kinds of changes to parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
     * The cover page,
     * The Table of Contents,
     * The year in the “Copyright” information,
     * Footers with page numbers,
-    * Links to other sections within the document.    
+    * Links to other sections within the document,
+    * Markdown formatting (e.g. to ensure proper rendering of lists and tables), and
+    * Converting relative effective dates (e.g. "6 months after publication") into absolute dates (e.g. "Month DD, YYYY").
 
     The Chair or Vice-Chair of the Forum or of a CWG is also allowed to perform the following changes, unless the ballot explicitly updates this information:
    
@@ -120,7 +122,6 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
     * Headers/Footers with version numbers,
     * The table with document revisions or Document History,
     * The table with Relevant Dates.
-    
 
  9. If Exclusion Notice(s) are filed during the Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void, and;
 
