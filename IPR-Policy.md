@@ -3,7 +3,7 @@ title: Intellectual Property Rights Policy
 subtitle: Version 1.4
 author:
 - CA/Browser Forum
-date: --- --, 2026  
+date: June 1, 2026  
 copyright: |
   Copyright 2026 CA/Browser Forum
 
